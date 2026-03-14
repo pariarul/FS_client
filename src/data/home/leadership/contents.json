@@ -1,0 +1,52 @@
+{
+  "heading": {
+    "en": "Our Leaders",
+    "zh": "我们的领导人",
+    "si": "අපේ නායකයෝ"
+  },
+  "title": {
+    "en": "Leading with Integrity, Inspiring with Vision",
+    "zh": "以正直为先，以远见启迪",
+    "si": "අඛණ්ඩතාවයෙන් නායකත්වය දීම, දැක්මෙන් ආශ්වාදයක් ලබා දීම"
+  },
+  "description": {
+    "en": "The strength of FS Traders lies in visionary leadership that blends experience, innovation, and trust. Our leaders guide every decision with purpose and responsibility, ensuring growth that benefits our partners, customers, and communities - driving FS Traders toward a future of lasting excellence.\n",
+    "zh": "FS交易公司的优势在于富有远见的领导力，它融合了经验、创新和信任。 我们的领导者以目标和责任指导每一个决策，确保增长惠及我们的合作伙伴、客户和社区——推动FS交易公司走向持久卓越的未来。",
+    "si": "FS Traders හි ශක්තිය පවතින්නේ අත්දැකීම්, නවෝත්පාදනය සහ විශ්වාසය මුසු කරන දූරදර්ශී නායකත්වය තුළ ය. අපගේ නායකයින් සෑම තීරණයක්ම අරමුණක් සහ වගකීමක් සහිතව මෙහෙයවන අතර, අපගේ හවුල්කරුවන්ට, ගනුදෙනුකරුවන්ට සහ ප්‍රජාවන්ට ප්‍රතිලාභ ලබා දෙන වර්ධනය සහතික කරයි - FS Traders කල් පවතින විශිෂ්ටත්වයේ අනාගතයක් කරා මෙහෙයවයි."
+  },
+  "btn": {
+    "en": "Meet Our Leaders",
+    "zh": "认识我们的领导",
+    "si": "අපගේ නායකයින් හමුවන්න"
+  },
+  "leaders": [
+    {
+      "id": "leader-1",
+      "name": {
+        "en": "FS Trader",
+        "zh": "FS 交易员",
+        "si": "FS ūරීද"
+      },
+      "role": {
+        "en": "Founder",
+        "zh": "创始人",
+        "si": "නිර්මාතෘ"
+      },
+      "imagePath": "/assets/home/leaderships/leader-1-1763217850454.jpg"
+    },
+    {
+      "id": "leader-2",
+      "name": {
+        "en": "FS Trader",
+        "zh": "FS 交易员",
+        "si": "FS ට්‍රේඩර්"
+      },
+      "role": {
+        "en": "Director",
+        "zh": "导演",
+        "si": "අධ්‍යක්ෂක"
+      },
+      "imagePath": "/assets/home/leaderships/leader-1.webp"
+    }
+  ]
+}

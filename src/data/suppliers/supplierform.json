@@ -1,0 +1,1086 @@
+{
+    "supplierForm": {
+        "heading": {
+            "en": "Import / Export Lead Form",
+            "zh": "进口/出口线索表格",
+            "si": "ආනයන/අපනයන ඊයම් පෝරමය"
+        },
+        "description": {
+            "en": "Let us know your requirements. Fill the form to get started.",
+            "zh": "让我们了解您的需求。填写表格开始吧。",
+            "si": "ඔබේ අවශ්‍යතා අපට දන්වන්න. ආරම්භ කිරීමට පෝරමය පුරවන්න."
+        },
+        "formFields": {
+            "fullname": {
+                "en": "Full Name",
+                "zh": "全名",
+                "si": "සම්පූර්ණ නම"
+            },
+            "companyname": {
+                "en": "Company Name",
+                "zh": "公司名称",
+                "si": "සමාගමේ නම"
+            },
+            "email": {
+                "en": "Email",
+                "zh": "电子邮件",
+                "si": "ඊමේල්"
+            },
+            "phone": {
+                "en": "Phone",
+                "zh": "电话",
+                "si": "දුරකථන"
+            },
+            "country": {
+                "en": "Country",
+                "zh": "国家",
+                "si": "රට",
+                "type": "dropdown",
+                "options": [
+                    "Afghanistan",
+                    "Albania",
+                    "Algeria",
+                    "Andorra",
+                    "Angola",
+                    "Antigua and Barbuda",
+                    "Argentina",
+                    "Armenia",
+                    "Australia",
+                    "Austria",
+                    "Azerbaijan",
+                    "Bahamas",
+                    "Bahrain",
+                    "Bangladesh",
+                    "Barbados",
+                    "Belarus",
+                    "Belgium",
+                    "Belize",
+                    "Benin",
+                    "Bhutan",
+                    "Bolivia",
+                    "Bosnia and Herzegovina",
+                    "Botswana",
+                    "Brazil",
+                    "Brunei",
+                    "Bulgaria",
+                    "Burkina Faso",
+                    "Burundi",
+                    "Cabo Verde",
+                    "Cambodia",
+                    "Cameroon",
+                    "Canada",
+                    "Central African Republic",
+                    "Chad",
+                    "Chile",
+                    "China",
+                    "Colombia",
+                    "Comoros",
+                    "Congo (Congo-Brazzaville)",
+                    "Costa Rica",
+                    "Croatia",
+                    "Cuba",
+                    "Cyprus",
+                    "Czechia (Czech Republic)",
+                    "Denmark",
+                    "Djibouti",
+                    "Dominica",
+                    "Dominican Republic",
+                    "Ecuador",
+                    "Egypt",
+                    "El Salvador",
+                    "Equatorial Guinea",
+                    "Eritrea",
+                    "Estonia",
+                    "Eswatini (fmr. Swaziland)",
+                    "Ethiopia",
+                    "Fiji",
+                    "Finland",
+                    "France",
+                    "Gabon",
+                    "Gambia",
+                    "Georgia",
+                    "Germany",
+                    "Ghana",
+                    "Greece",
+                    "Grenada",
+                    "Guatemala",
+                    "Guinea",
+                    "Guinea-Bissau",
+                    "Guyana",
+                    "Haiti",
+                    "Honduras",
+                    "Hungary",
+                    "Iceland",
+                    "India",
+                    "Indonesia",
+                    "Iran",
+                    "Iraq",
+                    "Ireland",
+                    "Israel",
+                    "Italy",
+                    "Jamaica",
+                    "Japan",
+                    "Jordan",
+                    "Kazakhstan",
+                    "Kenya",
+                    "Kiribati",
+                    "Kuwait",
+                    "Kyrgyzstan",
+                    "Laos",
+                    "Latvia",
+                    "Lebanon",
+                    "Lesotho",
+                    "Liberia",
+                    "Libya",
+                    "Liechtenstein",
+                    "Lithuania",
+                    "Luxembourg",
+                    "Madagascar",
+                    "Malawi",
+                    "Malaysia",
+                    "Maldives",
+                    "Mali",
+                    "Malta",
+                    "Marshall Islands",
+                    "Mauritania",
+                    "Mauritius",
+                    "Mexico",
+                    "Micronesia",
+                    "Moldova",
+                    "Monaco",
+                    "Mongolia",
+                    "Montenegro",
+                    "Morocco",
+                    "Mozambique",
+                    "Myanmar (formerly Burma)",
+                    "Namibia",
+                    "Nauru",
+                    "Nepal",
+                    "Netherlands",
+                    "New Zealand",
+                    "Nicaragua",
+                    "Niger",
+                    "Nigeria",
+                    "North Korea",
+                    "North Macedonia",
+                    "Norway",
+                    "Oman",
+                    "Pakistan",
+                    "Palau",
+                    "Palestine State",
+                    "Panama",
+                    "Papua New Guinea",
+                    "Paraguay",
+                    "Peru",
+                    "Philippines",
+                    "Poland",
+                    "Portugal",
+                    "Qatar",
+                    "Romania",
+                    "Russia",
+                    "Rwanda",
+                    "Saint Kitts and Nevis",
+                    "Saint Lucia",
+                    "Saint Vincent and the Grenadines",
+                    "Samoa",
+                    "San Marino",
+                    "Sao Tome and Principe",
+                    "Saudi Arabia",
+                    "Senegal",
+                    "Serbia",
+                    "Seychelles",
+                    "Sierra Leone",
+                    "Singapore",
+                    "Slovakia",
+                    "Slovenia",
+                    "Solomon Islands",
+                    "Somalia",
+                    "South Africa",
+                    "South Korea",
+                    "South Sudan",
+                    "Spain",
+                    "Sri Lanka",
+                    "Sudan",
+                    "Suriname",
+                    "Sweden",
+                    "Switzerland",
+                    "Syria",
+                    "Tajikistan",
+                    "Tanzania",
+                    "Thailand",
+                    "Timor-Leste",
+                    "Togo",
+                    "Tonga",
+                    "Trinidad and Tobago",
+                    "Tunisia",
+                    "Turkey",
+                    "Turkmenistan",
+                    "Tuvalu",
+                    "Uganda",
+                    "Ukraine",
+                    "United Arab Emirates",
+                    "United Kingdom",
+                    "United States of America",
+                    "Uruguay",
+                    "Uzbekistan",
+                    "Vanuatu",
+                    "Vatican City",
+                    "Venezuela",
+                    "Vietnam",
+                    "Yemen",
+                    "Zambia",
+                    "Zimbabwe"
+                ]
+            },
+            "businessType": {
+                "en": "Business Type",
+                "zh": "业务类型",
+                "si": "ව්‍යාපාර වර්ගය",
+                "type": "dropdown",
+                "options": {
+                    "import": {
+                        "en": "I want to import / buy",
+                        "zh": "我想进口/购买",
+                        "si": "මම ආනයනය කිරීමට / මිලදී ගැනීමට කැමතියි"
+                    },
+                    "export": {
+                        "en": "I want to export / supply",
+                        "zh": "我想出口/供应",
+                        "si": "මම අපනයනය කිරීමට / සැපයීමට කැමතියි"
+                    }
+                }
+            },
+            "conditionalFields": {
+                "import": {
+                    "product": {
+                        "en": "What product do you want to buy? (required)",
+                        "zh": "您想购买什么产品？(必填)",
+                        "si": "ඔබ මිලදී ගැනීමට කැමති නිෂ්පාදනය කුමක්ද? (අවශ්‍ය)",
+                        "type": "dropdown",
+                        "categories": {
+                            "rice_grains_flour": {
+                                "en": "Rice, Grains & Flour",
+                                "zh": "大米、谷物和面粉",
+                                "si": "අරලියා, ධාන්‍ය සහ මැදුරු",
+                                "items": [
+                                    {
+                                        "en": "Basmathi Rice",
+                                        "zh": "巴斯马蒂大米",
+                                        "si": "බස්මති සහල්"
+                                    },
+                                    {
+                                        "en": "JR11 Ponni Rice",
+                                        "zh": "JR11 彭尼大米",
+                                        "si": "JR11 පොන්නි සහල්"
+                                    },
+                                    {
+                                        "en": "Paal Ponni Rice",
+                                        "zh": "Paal 彭尼大米",
+                                        "si": "පාල් පොන්නි සහල්"
+                                    },
+                                    {
+                                        "en": "IR64 Rice",
+                                        "zh": "IR64 大米",
+                                        "si": "IR64 සහල්"
+                                    },
+                                    {
+                                        "en": "Long Grain White Rice",
+                                        "zh": "长粒白米",
+                                        "si": "දිග සහල්"
+                                    },
+                                    {
+                                        "en": "Wheat Flour",
+                                        "zh": "小麦粉",
+                                        "si": "ගෝධු පිටි"
+                                    },
+                                    {
+                                        "en": "Sago Seeds",
+                                        "zh": "西米籽",
+                                        "si": "සැබ්බු බීජ"
+                                    }
+                                ]
+                            },
+                            "pulses_lentils_legumes": {
+                                "en": "Pulses, Lentils & Legumes",
+                                "zh": "豆类、扁豆和豆科植物",
+                                "si": "පළිබීජ, පලාන්තු සහ දාලා",
+                                "items": [
+                                    {
+                                        "en": "Whole Dhal (Lentils)",
+                                        "zh": "整粒扁豆",
+                                        "si": "මුළු පලාන්තු"
+                                    },
+                                    {
+                                        "en": "Red Split Lentils",
+                                        "zh": "红扁豆",
+                                        "si": "රතු බිඳුණු පලාන්තු"
+                                    },
+                                    {
+                                        "en": "Yellow Split Lentils",
+                                        "zh": "黄扁豆",
+                                        "si": "කහ බිඳුණු පලාන්තු"
+                                    },
+                                    {
+                                        "en": "Green Mung",
+                                        "zh": "绿豆",
+                                        "si": "කොළ මුං"
+                                    },
+                                    {
+                                        "en": "Urad Dhal",
+                                        "zh": "黑豆扁豆",
+                                        "si": "උරුද් පලාන්තු"
+                                    },
+                                    {
+                                        "en": "Chickpeas",
+                                        "zh": "鹰嘴豆",
+                                        "si": "කාබුලි සදං"
+                                    },
+                                    {
+                                        "en": "Red Cowpea",
+                                        "zh": "红豇豆",
+                                        "si": "රතු මැරිල්"
+                                    },
+                                    {
+                                        "en": "Black Eye Bean (White Cowpea)",
+                                        "zh": "眉豆（白豇豆）",
+                                        "si": "කලු ඇස් බෝංචි (සුදු මැරිල්)"
+                                    }
+                                ]
+                            },
+                            "spices_seeds": {
+                                "en": "Spices & Seeds",
+                                "zh": "香料与种子",
+                                "si": "මුහුදුබඳුන් හා බීජ",
+                                "items": [
+                                    {
+                                        "en": "Coriander Seeds",
+                                        "zh": "芫荽籽",
+                                        "si": "කොත්තමල්ලි බීජ"
+                                    },
+                                    {
+                                        "en": "Cumin Seeds",
+                                        "zh": "孜然籽",
+                                        "si": "සුදු දෙවු"
+                                    },
+                                    {
+                                        "en": "Fennel Seeds",
+                                        "zh": "茴香籽",
+                                        "si": "මුරුදෙව්"
+                                    },
+                                    {
+                                        "en": "Mustard Seeds",
+                                        "zh": "芥末籽",
+                                        "si": "අබ කුරු"
+                                    },
+                                    {
+                                        "en": "Fenugreek Seeds",
+                                        "zh": "葫芦巴籽",
+                                        "si": "ආමු කුරු"
+                                    },
+                                    {
+                                        "en": "Dry Chilli",
+                                        "zh": "干辣椒",
+                                        "si": "ඇල්ලු මිරිස්"
+                                    }
+                                ]
+                            },
+                            "oils_sugar_additives": {
+                                "en": "Edible Oils, Sugar & Food Additives",
+                                "zh": "食用油、糖和食品添加剂",
+                                "si": "භෝජන තෙල්, සීනි සහ ආහාර එකතු",
+                                "items": [
+                                    {
+                                        "en": "Farm Oil",
+                                        "zh": "农用油",
+                                        "si": "කෘෂිකර්ම තෙල්"
+                                    },
+                                    {
+                                        "en": "RBD Coconut Oil",
+                                        "zh": "RBD 椰子油",
+                                        "si": "RBD පොල්තෙල්"
+                                    },
+                                    {
+                                        "en": "RBD Soyabean Oil",
+                                        "zh": "RBD 大豆油",
+                                        "si": "RBD සෝයාබීන් තෙල්"
+                                    },
+                                    {
+                                        "en": "RBD Sunflower Oil",
+                                        "zh": "RBD 葵花籽油",
+                                        "si": "RBD හෙලිය තෙල්"
+                                    },
+                                    {
+                                        "en": "Sugar (White & Brown)",
+                                        "zh": "糖（白糖和红糖）",
+                                        "si": "සීනි (සුදු/දූදු)"
+                                    },
+                                    {
+                                        "en": "Salt",
+                                        "zh": "食盐",
+                                        "si": "ලාුණු"
+                                    },
+                                    {
+                                        "en": "Citric Acid",
+                                        "zh": "柠檬酸",
+                                        "si": "සයිට්‍රික් ඇසඩ්"
+                                    },
+                                    {
+                                        "en": "Sodium Bicarbonate",
+                                        "zh": "碳酸氢钠",
+                                        "si": "සෝඩියම් බයිකාර්බනේට්"
+                                    },
+                                    {
+                                        "en": "Ammonium Bicarbonate",
+                                        "zh": "碳酸氢铵",
+                                        "si": "ඇමෝනියම් බයිකාර්බනේට්"
+                                    }
+                                ]
+                            },
+                            "vegetables_dryfruits": {
+                                "en": "Fresh Vegetables & Dry Fruits",
+                                "zh": "新鲜蔬菜与干果",
+                                "si": " تازා එළවළු සහ වියළි පලතුරු",
+                                "items": [
+                                    {
+                                        "en": "Big Onion",
+                                        "zh": "大洋葱",
+                                        "si": "විශාල ලූනු"
+                                    },
+                                    {
+                                        "en": "Potato",
+                                        "zh": "土豆",
+                                        "si": "අල"
+                                    },
+                                    {
+                                        "en": "Red Onion",
+                                        "zh": "红洋葱",
+                                        "si": "රතු ලූනු"
+                                    },
+                                    {
+                                        "en": "Garlic (Normal White)",
+                                        "zh": "大蒜（普通白）",
+                                        "si": "සුදුලූණු (සාමාන්‍ය)"
+                                    },
+                                    {
+                                        "en": "Garlic (Pure White)",
+                                        "zh": "纯白大蒜",
+                                        "si": "සුදුලූණු (පියුර වයිට්)"
+                                    },
+                                    {
+                                        "en": "Dates",
+                                        "zh": "椰枣",
+                                        "si": "දිවිලි"
+                                    }
+                                ]
+                            },
+                            "seafood_canned_nonfood": {
+                                "en": "Seafood, Canned Products & Non-Food Commodities",
+                                "zh": "海产品、罐头食品及非食品商品",
+                                "si": " මුහුදු ආහාර, ටින් භාණ්ඩ සහ අනු භෝජන භාණ්ඩ",
+                                "items": [
+                                    {
+                                        "en": "Dry Sprats",
+                                        "zh": "干小鱼",
+                                        "si": "වියළි හලමා"
+                                    },
+                                    {
+                                        "en": "Canned Fish – JAYAFISH",
+                                        "zh": "罐装鱼 – JAYAFISH",
+                                        "si": "ටින් මාළු – JAYAFISH"
+                                    },
+                                    {
+                                        "en": "Used Newspaper",
+                                        "zh": "旧报纸",
+                                        "si": "පාවිච්චි කළ පුවත්පත්"
+                                    },
+                                    {
+                                        "en": "JUDIYAN (Jute Yarn)",
+                                        "zh": "黄麻纱线",
+                                        "si": "ජූට් නූල් (JUDIYAN)"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "category": {
+                        "en": "Category",
+                        "zh": "类别",
+                        "si": "වර්ගය",
+                        "type": "dropdown",
+                        "dependsOn": "product"
+                    },
+                    "quantity": {
+                        "en": "Approx. quantity needed (optional)",
+                        "zh": "大约需要的数量 (可选)",
+                        "si": "අවශ්‍ය ආසන්න ප්‍රමාණය (වෛකල්පිත)"
+                    },
+                    "shippingLocation": {
+                        "en": "Where should it be shipped to? (country/city, optional)",
+                        "zh": "应该运送到哪里？(国家/城市, 可选)",
+                        "si": "එය කොතැනට යැවිය යුතුද? (රට/නගරය, වෛකල්පිත)"
+                    },
+                    "specificInfo": {
+                        "en": "Anything specific we should know? (optional)",
+                        "zh": "有什么我们需要知道的具体信息吗？(可选)",
+                        "si": "අප දැනගත යුතු විශේෂ තොරතුරක් තිබේද? (වෛකල්පිත)"
+                    },
+                    "enquiry": {
+                        "en": "Enquiry Details",
+                        "zh": "询问详情",
+                        "si": "විමසිල්ල විස්තර"
+                    }
+                },
+                "export": {
+                    "product": {
+                        "en": "What product do you supply? (required)",
+                        "zh": "您供应什么产品？(必填)",
+                        "si": "ඔබ සපයන නිෂ්පාදනය කුමක්ද? (අවශ්‍ය)",
+                        "type": "dropdown",
+                        "categories": {
+                            "spices": {
+                                "en": "Spices",
+                                "zh": "香料",
+                                "si": "මසාලා",
+                                "items": [
+                                    {
+                                        "en": "Black Pepper",
+                                        "zh": "黑胡椒",
+                                        "si": "කළු ගම්මිරිස්"
+                                    },
+                                    {
+                                        "en": "Cinnamon",
+                                        "zh": "肉桂",
+                                        "si": "කුරුඳු"
+                                    },
+                                    {
+                                        "en": "Dry Chilli",
+                                        "zh": "干辣椒",
+                                        "si": "ඇල්ලු මිරිස්"
+                                    },
+                                    {
+                                        "en": "Cumin Seeds",
+                                        "zh": "孜然籽",
+                                        "si": "සුදු දෙවු"
+                                    },
+                                    {
+                                        "en": "Fenugreek Seeds",
+                                        "zh": "葫芦巴籽",
+                                        "si": "ආමු කුරු"
+                                    }
+                                ]
+                            },
+                            "coconut_products": {
+                                "en": "Coconut & Coconut-based Products",
+                                "zh": "椰子及椰子制品",
+                                "si": "පොල් සහ පොල් சார்ந்த නිෂ්පාදන",
+                                "items": [
+                                    {
+                                        "en": "King Coconut",
+                                        "zh": "王椰子",
+                                        "si": "තැන් පොල්"
+                                    },
+                                    {
+                                        "en": "Fresh Coconut",
+                                        "zh": "新鲜椰子",
+                                        "si": "අලුත් පොල්"
+                                    }
+                                ]
+                            },
+                            "fresh_produce_pulses": {
+                                "en": "Fresh Produce & Pulses",
+                                "zh": "新鲜农产品与豆类",
+                                "si": " تازා අස්වැන්න සහ පලාන්තු",
+                                "items": [
+                                    {
+                                        "en": "Papaya",
+                                        "zh": "木瓜",
+                                        "si": "පපොල්"
+                                    },
+                                    {
+                                        "en": "Tapioca",
+                                        "zh": "木薯",
+                                        "si": "මැණිඔක්කා"
+                                    },
+                                    {
+                                        "en": "Chickpeas",
+                                        "zh": "鹰嘴豆",
+                                        "si": "කාබුලි සදං"
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "website": {
+                        "en": "Company website or catalog link (optional)",
+                        "zh": "公司网站或目录链接 (可选)",
+                        "si": "සමාගම් වෙබ් අඩවිය හෝ නාමාවලි සබැඳිය (වෛකල්පිත)"
+                    },
+                    "capacity": {
+                        "en": "Production / supply capacity (optional)",
+                        "zh": "生产/供应能力 (可选)",
+                        "si": "නිෂ්පාදන / සැපයුම් ධාරිතාව (වෛකල්පිත)"
+                    },
+                    "certifications": {
+                        "en": "Certifications / standards (optional)",
+                        "zh": "认证/标准 (可选)",
+                        "si": "සහතික / ප්‍රමිතීන් (වෛකල්පිත)"
+                    },
+                    "specificInfo": {
+                        "en": "Anything specific we should know? (optional)",
+                        "zh": "有什么我们需要知道的具体信息吗？(可选)",
+                        "si": "අප දැනගත යුතු විශේෂ තොරතුරක් තිබේද? (වෛකල්පිත)"
+                    },
+                    "enquiry": {
+                        "en": "Enquiry Details",
+                        "zh": "询问详情",
+                        "si": "විමසිල්ල විස්තර"
+                    }
+                }
+            }
+        },
+        "submitButton": {
+            "en": "Submit",
+            "zh": "提交",
+            "si": "ඉදිරිපත් කරන්න"},
+  "supplierForm": {
+    "heading": {
+      "en": "Heading",
+      "zh": "标题",
+      "si": "ශීර්ෂය"
+    },
+    "description": {
+      "en": "Subheading",
+      "zh": "小标题",
+      "si": "උපසිරැසි"
+    },
+    "formFields": {
+      "fullname": {
+        "en": "Full Name",
+        "zh": "全名",
+        "si": "සම්පූර්ණ නම"
+      },
+      "companyname": {
+        "en": "Company Name",
+        "zh": "公司名称",
+        "si": "සමාගමේ නම"
+      },
+      "email": {
+        "en": "Email",
+        "zh": "电子邮件",
+        "si": "ඊමේල්"
+      },
+      "phone": {
+        "en": "Phone",
+        "zh": "电话",
+        "si": "දුරකථන"
+      },
+      "country": {
+        "en": "Country",
+        "zh": "国家",
+        "si": "රට",
+        "type": "dropdown",
+        "options": [
+          "Afghanistan",
+          "Albania",
+          "Algeria",
+          "Andorra",
+          "Angola",
+          "Antigua and Barbuda",
+          "Argentina",
+          "Armenia",
+          "Australia",
+          "Austria",
+          "Azerbaijan",
+          "Bahamas",
+          "Bahrain",
+          "Bangladesh",
+          "Barbados",
+          "Belarus",
+          "Belgium",
+          "Belize",
+          "Benin",
+          "Bhutan",
+          "Bolivia",
+          "Bosnia and Herzegovina",
+          "Botswana",
+          "Brazil",
+          "Brunei",
+          "Bulgaria",
+          "Burkina Faso",
+          "Burundi",
+          "Cabo Verde",
+          "Cambodia",
+          "Cameroon",
+          "Canada",
+          "Central African Republic",
+          "Chad",
+          "Chile",
+          "China",
+          "Colombia",
+          "Comoros",
+          "Congo (Congo-Brazzaville)",
+          "Costa Rica",
+          "Croatia",
+          "Cuba",
+          "Cyprus",
+          "Czechia (Czech Republic)",
+          "Denmark",
+          "Djibouti",
+          "Dominica",
+          "Dominican Republic",
+          "Ecuador",
+          "Egypt",
+          "El Salvador",
+          "Equatorial Guinea",
+          "Eritrea",
+          "Estonia",
+          "Eswatini (fmr. Swaziland)",
+          "Ethiopia",
+          "Fiji",
+          "Finland",
+          "France",
+          "Gabon",
+          "Gambia",
+          "Georgia",
+          "Germany",
+          "Ghana",
+          "Greece",
+          "Grenada",
+          "Guatemala",
+          "Guinea",
+          "Guinea-Bissau",
+          "Guyana",
+          "Haiti",
+          "Honduras",
+          "Hungary",
+          "Iceland",
+          "India",
+          "Indonesia",
+          "Iran",
+          "Iraq",
+          "Ireland",
+          "Israel",
+          "Italy",
+          "Jamaica",
+          "Japan",
+          "Jordan",
+          "Kazakhstan",
+          "Kenya",
+          "Kiribati",
+          "Kuwait",
+          "Kyrgyzstan",
+          "Laos",
+          "Latvia",
+          "Lebanon",
+          "Lesotho",
+          "Liberia",
+          "Libya",
+          "Liechtenstein",
+          "Lithuania",
+          "Luxembourg",
+          "Madagascar",
+          "Malawi",
+          "Malaysia",
+          "Maldives",
+          "Mali",
+          "Malta",
+          "Marshall Islands",
+          "Mauritania",
+          "Mauritius",
+          "Mexico",
+          "Micronesia",
+          "Moldova",
+          "Monaco",
+          "Mongolia",
+          "Montenegro",
+          "Morocco",
+          "Mozambique",
+          "Myanmar (formerly Burma)",
+          "Namibia",
+          "Nauru",
+          "Nepal",
+          "Netherlands",
+          "New Zealand",
+          "Nicaragua",
+          "Niger",
+          "Nigeria",
+          "North Korea",
+          "North Macedonia",
+          "Norway",
+          "Oman",
+          "Pakistan",
+          "Palau",
+          "Palestine State",
+          "Panama",
+          "Papua New Guinea",
+          "Paraguay",
+          "Peru",
+          "Philippines",
+          "Poland",
+          "Portugal",
+          "Qatar",
+          "Romania",
+          "Russia",
+          "Rwanda",
+          "Saint Kitts and Nevis",
+          "Saint Lucia",
+          "Saint Vincent and the Grenadines",
+          "Samoa",
+          "San Marino",
+          "Sao Tome and Principe",
+          "Saudi Arabia",
+          "Senegal",
+          "Serbia",
+          "Seychelles",
+          "Sierra Leone",
+          "Singapore",
+          "Slovakia",
+          "Slovenia",
+          "Solomon Islands",
+          "Somalia",
+          "South Africa",
+          "South Korea",
+          "South Sudan",
+          "Spain",
+          "Sri Lanka",
+          "Sudan",
+          "Suriname",
+          "Sweden",
+          "Switzerland",
+          "Syria",
+          "Tajikistan",
+          "Tanzania",
+          "Thailand",
+          "Timor-Leste",
+          "Togo",
+          "Tonga",
+          "Trinidad and Tobago",
+          "Tunisia",
+          "Turkey",
+          "Turkmenistan",
+          "Tuvalu",
+          "Uganda",
+          "Ukraine",
+          "United Arab Emirates",
+          "United Kingdom",
+          "United States of America",
+          "Uruguay",
+          "Uzbekistan",
+          "Vanuatu",
+          "Vatican City",
+          "Venezuela",
+          "Vietnam",
+          "Yemen",
+          "Zambia",
+          "Zimbabwe"
+        ]
+      },
+      "businessType": {
+        "en": "Business Type",
+        "zh": "业务类型",
+        "si": "ව්‍යාපාර වර්ගය",
+        "type": "dropdown",
+        "options": {
+          "import": {
+            "en": "I want to import / buy",
+            "zh": "我想进口/购买",
+            "si": "මම ආනයනය කිරීමට / මිලදී ගැනීමට කැමතියි"
+          },
+          "export": {
+            "en": "I want to export / supply",
+            "zh": "我想出口/供应",
+            "si": "මම අපනයනය කිරීමට / සැපයීමට කැමතියි"
+          }
+        }
+      },
+      "conditionalFields": {
+        "import": {
+          "product": {
+            "en": "What product do you want to buy? (required)",
+            "zh": "您想购买什么产品？(必填)",
+            "si": "ඔබ මිලදී ගැනීමට කැමති නිෂ්පාදනය කුමක්ද? (අවශ්‍ය)",
+            "type": "dropdown",
+            "categories": {
+              "vegetables": {
+                "en": "Vegetables & Roots",
+                "zh": "蔬菜与根茎",
+                "si": "එළවළු සහ වර්ග මුල්",
+                "items": [
+                  {
+                    "en": "Big Onion",
+                    "zh": "大洋葱",
+                    "si": "විශාල ලූනු"
+                  },
+                  {
+                    "en": "Potato",
+                    "zh": "土豆",
+                    "si": "අල"
+                  },
+                  {
+                    "en": "Red Onion",
+                    "zh": "红洋葱",
+                    "si": "රතු ලූනු"
+                  },
+                  {
+                    "en": "Garlic",
+                    "zh": "大蒜",
+                    "si": "සුදුලූණු"
+                  }
+                ]
+              },
+              "grains": {
+                "en": "Grains, Pulses & Lentils",
+                "zh": "谷物、豆类与扁豆",
+                "si": "ධාන්‍ය, පළිබීජ සහ පලාන්තු",
+                "items": [
+                  {
+                    "en": "Red Split Lentils",
+                    "zh": "红扁豆",
+                    "si": "රතු බිඳුණු පලාන්තු"
+                  },
+                  {
+                    "en": "Yellow Split Lentils",
+                    "zh": "黄扁豆",
+                    "si": "කහ බිඳුණු පලාන්තු"
+                  },
+                  {
+                    "en": "Green Mung",
+                    "zh": "绿豆",
+                    "si": "කොළ මුං"
+                  },
+                  {
+                    "en": "Urud Dhal",
+                    "zh": "黑豆扁豆",
+                    "si": "උරුද් පලාන්තු"
+                  }
+                ]
+              }
+            }
+          },
+          "category": {
+            "en": "Category",
+            "zh": "类别",
+            "si": "වර්ගය",
+            "type": "dropdown",
+            "dependsOn": "product"
+          },
+          "quantity": {
+            "en": "Approx. quantity needed (optional)",
+            "zh": "大约需要的数量 (可选)",
+            "si": "අවශ්‍ය ආසන්න ප්‍රමාණය (වෛකල්පිත)"
+          },
+          "shippingLocation": {
+            "en": "Where should it be shipped to? (country/city, optional)",
+            "zh": "应该运送到哪里？(国家/城市, 可选)",
+            "si": "එය කොතැනට යැවිය යුතුද? (රට/නගරය, වෛකල්පිත)"
+          },
+          "specificInfo": {
+            "en": "Anything specific we should know? (optional)",
+            "zh": "有什么我们需要知道的具体信息吗？(可选)",
+            "si": "අප දැනගත යුතු විශේෂ තොරතුරක් තිබේද? (වෛකල්පිත)"
+          },
+          "enquiry": {
+            "en": "Enquiry Details",
+            "zh": "询问详情",
+            "si": "විමසිල්ල විස්තර"
+          }
+        },
+        "export": {
+          "product": {
+            "en": "What product do you supply? (required)",
+            "zh": "您供应什么产品？(必填)",
+            "si": "ඔබ සපයන නිෂ්පාදනය කුමක්ද? (අවශ්‍ය)",
+            "type": "dropdown",
+            "categories": {
+              "spices": {
+                "en": "Spices",
+                "zh": "香料",
+                "si": "මසාලා",
+                "items": [
+                  {
+                    "en": "Black Pepper",
+                    "zh": "黑胡椒",
+                    "si": "කළු ගම්මිරිස්"
+                  },
+                  {
+                    "en": "Cinnamon",
+                    "zh": "肉桂",
+                    "si": "කුරුඳු"
+                  },
+                  {
+                    "en": "Cardamom",
+                    "zh": "小豆蔻",
+                    "si": "කොත්තමල්ලි"
+                  },
+                  {
+                    "en": "Cloves",
+                    "zh": "丁香",
+                    "si": "කරඹුන"
+                  }
+                ]
+              },
+              "tea": {
+                "en": "Tea",
+                "zh": "茶",
+                "si": "තේ",
+                "items": [
+                  {
+                    "en": "Ceylon Black Tea",
+                    "zh": "锡兰红茶",
+                    "si": "සිලෝන් කළු තේ"
+                  },
+                  {
+                    "en": "Ceylon Green Tea",
+                    "zh": "锡兰绿茶",
+                    "si": "සිලෝන් කොළ තේ"
+                  },
+                  {
+                    "en": "Ceylon White Tea",
+                    "zh": "锡兰白茶",
+                    "si": "සිලෝන් සුදු තේ"
+                  },
+                  {
+                    "en": "Ceylon Oolong Tea",
+                    "zh": "锡兰乌龙茶",
+                    "si": "සිලෝන් ඌලෝං තේ"
+                  }
+                ]
+              }
+            }
+          },
+          "website": {
+            "en": "Company website or catalog link (optional)",
+            "zh": "公司网站或目录链接 (可选)",
+            "si": "සමාගම් වෙබ් අඩවිය හෝ නාමාවලි සබැඳිය (වෛකල්පිත)"
+          },
+          "capacity": {
+            "en": "Production / supply capacity (optional)",
+            "zh": "生产/供应能力 (可选)",
+            "si": "නිෂ්පාදන / සැපයුම් ධාරිතාව (වෛකල්පිත)"
+          },
+          "certifications": {
+            "en": "Certifications / standards (optional)",
+            "zh": "认证/标准 (可选)",
+            "si": "සහතික / ප්‍රමිතීන් (වෛකල්පිත)"
+          },
+          "specificInfo": {
+            "en": "Anything specific we should know? (optional)",
+            "zh": "有什么我们需要知道的具体信息吗？(可选)",
+            "si": "අප දැනගත යුතු විශේෂ තොරතුරක් තිබේද? (වෛකල්පිත)"
+          },
+          "enquiry": {
+            "en": "Enquiry Details",
+            "zh": "询问详情",
+            "si": "විමසිල්ල විස්තර"
+          }
+        }
+      }
+    },
+    "submitButton": {
+      "en": "Submit",
+      "zh": "提交",
+      "si": "ඉදිරිපත් කරන්න"
+    }
+  }
+}
+}

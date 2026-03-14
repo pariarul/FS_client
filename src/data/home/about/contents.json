@@ -1,0 +1,35 @@
+{
+  "title": {
+    "en": "Supplying Quality. Earning Trust. Growing Beyond Borders",
+    "zh": "供应优质，赢得信任，拓展全球",
+    "si": "ගුණාත්මකභාවය සැපයීම. විශ්වාසය දිනාගැනීම. දේශසීමා ඉක්මවා වර්ධනය වීම."
+  },
+  "description": {
+    "en": "FS Traders (Pvt) Ltd is a leading importer and distributor connecting global suppliers with local markets. With decades of experience. a diverse product range. and a strong export presence.we continue to deliver excellence across industries  trusted by partners. valued by customers and recognized worldwide.",
+    "zh": "FS Traders 是一家领先的进口商和分销商，连接全球供应商与本地市场。凭借数十年的经验、多元化的产品系列以及强大的出口业务，我们持续在各个行业提供卓越服务，深受合作伙伴信赖，获得客户认可，并享誉全球。",
+    "si": "FS ට්‍රේඩර්ස් (පුද්) සමාගම යනු, ගෝලීය සැපයුම්කරුවන් දේශීය වෙළඳපොළවල් හා සම්බන්ධ කරන ප්‍රමුඛ පෙළේ ආනයනකරුවෙකු මෙන්ම බෙදාහරින්නෙකු ද වේ. දශක ගණනාවක අත්දැකීම්, විවිධ නිෂ්පාදන පරාසයක් සහ ශක්තිමත් අපනයන පැවැත්මක් සහිතව, අපි කර්මාන්ත පුරා විශිෂ්ටත්වය අඛණ්ඩව ලබා දෙන්නෙමු, හවුල්කරුවන්ගේ විශ්වාසය දිනා, පාරිභෝගිකයින්ගේ අගය කිරීම් ලබමින් සහ ලොව පුරා පිළිගැනීමට ලක්වෙමින්."
+  },
+  "status": [
+    {
+      "id": "status-1",
+      "count": "25+",
+      "en": "Years of Excellence",
+      "zh": "多年卓越",
+      "si": "විශිෂ්ටත්වයේ වසර ගණනාවක්"
+    },
+    {
+      "id": "status-2",
+      "count": "35+",
+      "en": "Quality Products",
+      "zh": "优质产品",
+      "si": "අප සැපයුම් කරන රටවල්"
+    },
+    {
+      "id": "status-3",
+      "count": "50+",
+      "en": "Global Suppliers",
+      "zh": "全球供应商",
+      "si": "ගෝලීය සැපයුම්කරුවන්"
+    }
+  ]
+}

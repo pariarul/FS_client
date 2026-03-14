@@ -1,0 +1,46 @@
+{
+  "logoPath1": "/assets/Logo-Primary.png",
+  "logoPath2": "/assets/Logo-Secondary.png",
+  "en": {
+    "home": "Home",
+    "about": {
+      "title": "About",
+      "subNav": {
+        "ourCompany": "Our Company",
+        "ourLeadership": "Our Leadership",
+        "ourSuppliers": "Our Suppliers",
+        "ourHistory": "Our History"
+      }
+    },
+    "products": "Products",
+    "getQuotation": "Get Quotations"
+  },
+  "zh": {
+    "home": "首页",
+    "about": {
+      "title": "关于",
+      "subNav": {
+        "ourCompany": "我们的公司",
+        "ourLeadership": "我们的领导层",
+        "ourSuppliers": "我们的供应商",
+        "ourHistory": "我们的历史"
+      }
+    },
+    "products": "产品",
+    "getQuotation": "获取报价"
+  },
+  "si": {
+    "home": "මුල් පිටුව",
+    "about": {
+      "title": "අපි ගැන",
+      "subNav": {
+        "ourCompany": "අපේ සමාගම",
+        "ourLeadership": "අපේ නායකත්වය",
+        "ourSuppliers": "අපේ සැපයුම්කරුවන්",
+        "ourHistory": "අපේ ඉතිහාසය"
+      }
+    },
+    "products": "නිෂ්පාදන",
+    "getQuotation": "ඉල්ලුමක් ලබා ගන්න"
+  }
+}

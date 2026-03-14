@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+/* ============================+
+   CSS Variables for Theme Colors
+=============================== */
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+
+  /* Custom colors matching Tailwind configs */
+  --color-background: #F7EDE2;
+  --color-foreground: #ffffff;
+  --color-primary: #1d1e4d;
+  --color-secondary: #8153FC;
+  --color-text: #242E49;
+  --color-text-light: #ffffff;
+  --color-icon-light: #A0AEC0;
+   --color-primary-opacity: rgba(3, 18, 47, 0.4);
+}
+
+/* Fonts */
+@theme inline {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+/* Base body styles */
+body {
+  /* Leave background to Tailwind or use var(--color-background) if needed */
+  color: var(--color-foreground);
+  font-family: ''poppins', Arial, Helvetica, sans-serif;'
+}
+
+.text-primary {
+  color: var(--color-primary);
+}
+
+/* Hide scrollbar */
+::-webkit-scrollbar {
+    display: none;
+}

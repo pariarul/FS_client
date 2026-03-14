@@ -1,0 +1,2110 @@
+{
+"countryCodes": [
+    {
+      "code": "+93",
+      "iso": "af",
+      "country": {
+        "en": "Afghanistan",
+        "zh": "阿富汗",
+        "si": "අෆ්ගනිස්තානය"
+      }
+    },
+    {
+      "code": "+355",
+      "iso": "al",
+      "country": {
+        "en": "Albania",
+        "zh": "阿尔巴尼亚",
+        "si": "ඇල්බේනියාව"
+      }
+    },
+    {
+      "code": "+213",
+      "iso": "dz",
+      "country": {
+        "en": "Algeria",
+        "zh": "阿尔及利亚",
+        "si": "ඇල්ජීරියාව"
+      }
+    },
+    {
+      "code": "+1-684",
+      "iso": "as",
+      "country": {
+        "en": "American Samoa",
+        "zh": "美属萨摩亚",
+        "si": "ඇමරිකානු සමෝආව"
+      }
+    },
+    {
+      "code": "+376",
+      "iso": "ad",
+      "country": {
+        "en": "Andorra",
+        "zh": "安道尔",
+        "si": "ඇන්ඩෝරාව"
+      }
+    },
+    {
+      "code": "+244",
+      "iso": "ao",
+      "country": {
+        "en": "Angola",
+        "zh": "安哥拉",
+        "si": "ඇන්ගෝලාව"
+      }
+    },
+    {
+      "code": "+1-264",
+      "iso": "ai",
+      "country": {
+        "en": "Anguilla",
+        "zh": "安圭拉",
+        "si": "ඇන්ගුයිලාව"
+      }
+    },
+    {
+      "code": "+1-268",
+      "iso": "ag",
+      "country": {
+        "en": "Antigua and Barbuda",
+        "zh": "安提瓜和巴布达",
+        "si": "ඇන්ටිගුවා සහ බාබුඩාව"
+      }
+    },
+    {
+      "code": "+54",
+      "iso": "ar",
+      "country": {
+        "en": "Argentina",
+        "zh": "阿根廷",
+        "si": "අර්ජන්ටිනාව"
+      }
+    },
+    {
+      "code": "+374",
+      "iso": "am",
+      "country": {
+        "en": "Armenia",
+        "zh": "亚美尼亚",
+        "si": "ආමනියාව"
+      }
+    },
+    {
+      "code": "+297",
+      "iso": "aw",
+      "country": {
+        "en": "Aruba",
+        "zh": "阿鲁巴",
+        "si": "අරූබාව"
+      }
+    },
+    {
+      "code": "+61",
+      "iso": "au",
+      "country": {
+        "en": "Australia",
+        "zh": "澳大利亚",
+        "si": "ඕස්ට්‍රේලියාව"
+      }
+    },
+    {
+      "code": "+43",
+      "iso": "at",
+      "country": {
+        "en": "Austria",
+        "zh": "奥地利",
+        "si": "ඔස්ට්‍රියාව"
+      }
+    },
+    {
+      "code": "+994",
+      "iso": "az",
+      "country": {
+        "en": "Azerbaijan",
+        "zh": "阿塞拜疆",
+        "si": "අසර්බෙයිජානය"
+      }
+    },
+    {
+      "code": "+1-242",
+      "iso": "bs",
+      "country": {
+        "en": "Bahamas",
+        "zh": "巴哈马",
+        "si": "බහාමාව"
+      }
+    },
+    {
+      "code": "+973",
+      "iso": "bh",
+      "country": {
+        "en": "Bahrain",
+        "zh": "巴林",
+        "si": "බහරේන්"
+      }
+    },
+    {
+      "code": "+880",
+      "iso": "bd",
+      "country": {
+        "en": "Bangladesh",
+        "zh": "孟加拉国",
+        "si": "බංග්ලාදේශය"
+      }
+    },
+    {
+      "code": "+1-246",
+      "iso": "bb",
+      "country": {
+        "en": "Barbados",
+        "zh": "巴巴多斯",
+        "si": "බාබඩෝස්"
+      }
+    },
+    {
+      "code": "+375",
+      "iso": "by",
+      "country": {
+        "en": "Belarus",
+        "zh": "白俄罗斯",
+        "si": "බෙලරුසියාව"
+      }
+    },
+    {
+      "code": "+32",
+      "iso": "be",
+      "country": {
+        "en": "Belgium",
+        "zh": "比利时",
+        "si": "බෙල්ජියම"
+      }
+    },
+    {
+      "code": "+501",
+      "iso": "bz",
+      "country": {
+        "en": "Belize",
+        "zh": "伯利兹",
+        "si": "බෙලීස්"
+      }
+    },
+    {
+      "code": "+229",
+      "iso": "bj",
+      "country": {
+        "en": "Benin",
+        "zh": "贝宁",
+        "si": "බෙනින්"
+      }
+    },
+    {
+      "code": "+1-441",
+      "iso": "bm",
+      "country": {
+        "en": "Bermuda",
+        "zh": "百慕大",
+        "si": "බර්මියුඩාව"
+      }
+    },
+    {
+      "code": "+975",
+      "iso": "bt",
+      "country": {
+        "en": "Bhutan",
+        "zh": "不丹",
+        "si": "භූතානය"
+      }
+    },
+    {
+      "code": "+591",
+      "iso": "bo",
+      "country": {
+        "en": "Bolivia",
+        "zh": "玻利维亚",
+        "si": "බොලිවියාව"
+      }
+    },
+    {
+      "code": "+387",
+      "iso": "ba",
+      "country": {
+        "en": "Bosnia and Herzegovina",
+        "zh": "波斯尼亚和黑塞哥维那",
+        "si": "බොස්නියාව සහ හර්සගෝවිනාව"
+      }
+    },
+    {
+      "code": "+267",
+      "iso": "bw",
+      "country": {
+        "en": "Botswana",
+        "zh": "博茨瓦纳",
+        "si": "බොට්ස්වානාව"
+      }
+    },
+    {
+      "code": "+55",
+      "iso": "br",
+      "country": {
+        "en": "Brazil",
+        "zh": "巴西",
+        "si": "බ්‍රසීලය"
+      }
+    },
+    {
+      "code": "+1-242",
+      "iso": "io",
+      "country": {
+        "en": "British Indian Ocean Territory",
+        "zh": "英属印度洋领地",
+        "si": "බ්‍රිතාන්‍ය ඉන්දියානු මහා සාගර ප්‍රදේශය"
+      }
+    },
+    {
+      "code": "+673",
+      "iso": "bn",
+      "country": {
+        "en": "Brunei",
+        "zh": "文莱",
+        "si": "බ්‍රුනායි"
+      }
+    },
+    {
+      "code": "+359",
+      "iso": "bg",
+      "country": {
+        "en": "Bulgaria",
+        "zh": "保加利亚",
+        "si": "බල්ගේරියාව"
+      }
+    },
+    {
+      "code": "+226",
+      "iso": "bf",
+      "country": {
+        "en": "Burkina Faso",
+        "zh": "布基纳法索",
+        "si": "බර්කිනා ෆාසෝ"
+      }
+    },
+    {
+      "code": "+95",
+      "iso": "mm",
+      "country": {
+        "en": "Burma",
+        "zh": "缅甸",
+        "si": "බර්මාව"
+      }
+    },
+    {
+      "code": "+257",
+      "iso": "bi",
+      "country": {
+        "en": "Burundi",
+        "zh": "布隆迪",
+        "si": "බුරුන්ඩි"
+      }
+    },
+    {
+      "code": "+855",
+      "iso": "kh",
+      "country": {
+        "en": "Cambodia",
+        "zh": "柬埔寨",
+        "si": "කැම්බෝඩියාව"
+      }
+    },
+    {
+      "code": "+237",
+      "iso": "cm",
+      "country": {
+        "en": "Cameroon",
+        "zh": "喀麦隆",
+        "si": "කැමරූන්"
+      }
+    },
+    {
+      "code": "+1",
+      "iso": "ca",
+      "country": {
+        "en": "Canada",
+        "zh": "加拿大",
+        "si": "කැනඩාව"
+      }
+    },
+    {
+      "code": "+238",
+      "iso": "cv",
+      "country": {
+        "en": "Cape Verde",
+        "zh": "佛得角",
+        "si": "කේප් වර්ඩ්"
+      }
+    },
+    {
+      "code": "+1-345",
+      "iso": "ky",
+      "country": {
+        "en": "Cayman Islands",
+        "zh": "开曼群岛",
+        "si": "කේමන් දූපත්"
+      }
+    },
+    {
+      "code": "+236",
+      "iso": "cf",
+      "country": {
+        "en": "Central African Republic",
+        "zh": "中非共和国",
+        "si": "මධ්‍යම ඇෆ්‍රිකානු ප්‍රජාතාන්ත්‍රික සමාජය"
+      }
+    },
+    {
+      "code": "+235",
+      "iso": "td",
+      "country": {
+        "en": "Chad",
+        "zh": "乍得",
+        "si": "චාඩ්"
+      }
+    },
+    {
+      "code": "+56",
+      "iso": "cl",
+      "country": {
+        "en": "Chile",
+        "zh": "智利",
+        "si": "චිලී"
+      }
+    },
+    {
+      "code": "+86",
+      "iso": "cn",
+      "country": {
+        "en": "China",
+        "zh": "中国",
+        "si": "චීනය"
+      }
+    },
+    {
+      "code": "+61",
+      "iso": "cx",
+      "country": {
+        "en": "Christmas Island",
+        "zh": "圣诞岛",
+        "si": "ක්‍රිස්මස් දූපත"
+      }
+    },
+    {
+      "code": "+61",
+      "iso": "cc",
+      "country": {
+        "en": "Cocos Islands",
+        "zh": "科科斯群岛",
+        "si": "කොකෝස් දූපත්"
+      }
+    },
+    {
+      "code": "+57",
+      "iso": "co",
+      "country": {
+        "en": "Colombia",
+        "zh": "哥伦比亚",
+        "si": "කොලොම්බියාව"
+      }
+    },
+    {
+      "code": "+269",
+      "iso": "km",
+      "country": {
+        "en": "Comoros",
+        "zh": "科摩罗",
+        "si": "කොමෝරෝස්"
+      }
+    },
+    {
+      "code": "+242",
+      "iso": "cg",
+      "country": {
+        "en": "Republic of the Congo",
+        "zh": "刚果共和国",
+        "si": "කොංගෝ ජනරාධිපතික රාජ්‍යය"
+      }
+    },
+    {
+      "code": "+243",
+      "iso": "cd",
+      "country": {
+        "en": "Democratic Republic of the Congo",
+        "zh": "刚果民主共和国",
+        "si": "කොංගෝ ප්‍රජාතාන්ත්‍රික ජනරාධිපතික රාජ්‍යය"
+      }
+    },
+    {
+      "code": "+682",
+      "iso": "ck",
+      "country": {
+        "en": "Cook Islands",
+        "zh": "库克群岛",
+        "si": "කුක් දූපත්"
+      }
+    },
+    {
+      "code": "+506",
+      "iso": "cr",
+      "country": {
+        "en": "Costa Rica",
+        "zh": "哥斯达黎加",
+        "si": "කොස්ටරිකාව"
+      }
+    },
+    {
+      "code": "+385",
+      "iso": "hr",
+      "country": {
+        "en": "Croatia",
+        "zh": "克罗地亚",
+        "si": "ක්‍රෝඒෂියාව"
+      }
+    },
+    {
+      "code": "+53",
+      "iso": "cu",
+      "country": {
+        "en": "Cuba",
+        "zh": "古巴",
+        "si": "කියුබාව"
+      }
+    },
+    {
+      "code": "+357",
+      "iso": "cy",
+      "country": {
+        "en": "Cyprus",
+        "zh": "塞浦路斯",
+        "si": "සයිප්‍රස්"
+      }
+    },
+    {
+      "code": "+420",
+      "iso": "cz",
+      "country": {
+        "en": "Czech Republic",
+        "zh": "捷克共和国",
+        "si": "චෙකියානු ජනරාධිපතික රාජ්‍යය"
+      }
+    },
+    {
+      "code": "+45",
+      "iso": "dk",
+      "country": {
+        "en": "Denmark",
+        "zh": "丹麦",
+        "si": "ඩෙන්මාර්කය"
+      }
+    },
+    {
+      "code": "+253",
+      "iso": "dj",
+      "country": {
+        "en": "Djibouti",
+        "zh": "吉布提",
+        "si": "ජිබූටි"
+      }
+    },
+    {
+      "code": "+1-767",
+      "iso": "dm",
+      "country": {
+        "en": "Dominica",
+        "zh": "多米尼加",
+        "si": "ඩොමිනිකාව"
+      }
+    },
+    {
+      "code": "+1-809",
+      "iso": "do",
+      "country": {
+        "en": "Dominican Republic",
+        "zh": "多米尼加共和国",
+        "si": "ඩොමිනිකානු ජනරාධිපතික රාජ්‍යය"
+      }
+    },
+    {
+      "code": "+670",
+      "iso": "tl",
+      "country": {
+        "en": "East Timor",
+        "zh": "东帝汶",
+        "si": "නැගෙනහිර ටිමෝර්"
+      }
+    },
+    {
+      "code": "+56",
+      "iso": "cl",
+      "country": {
+        "en": "Easter Island",
+        "zh": "复活节岛",
+        "si": "පාස්කු දූපත"
+      }
+    },
+    {
+      "code": "+593",
+      "iso": "ec",
+      "country": {
+        "en": "Ecuador",
+        "zh": "厄瓜多尔",
+        "si": "ඉක්වඩෝර්"
+      }
+    },
+    {
+      "code": "+20",
+      "iso": "eg",
+      "country": {
+        "en": "Egypt",
+        "zh": "埃及",
+        "si": "ඊජිප්තුව"
+      }
+    },
+    {
+      "code": "+503",
+      "iso": "sv",
+      "country": {
+        "en": "El Salvador",
+        "zh": "萨尔瓦多",
+        "si": "එල් සැල්වඩෝර්"
+      }
+    },
+    {
+      "code": "+240",
+      "iso": "gq",
+      "country": {
+        "en": "Equatorial Guinea",
+        "zh": "赤道几内亚",
+        "si": "ඛඳෝළ ගිනියාව"
+      }
+    },
+    {
+      "code": "+291",
+      "iso": "er",
+      "country": {
+        "en": "Eritrea",
+        "zh": "厄立特里亚",
+        "si": "එරිත්‍රියාව"
+      }
+    },
+    {
+      "code": "+372",
+      "iso": "ee",
+      "country": {
+        "en": "Estonia",
+        "zh": "爱沙尼亚",
+        "si": "එස්තෝනියාව"
+      }
+    },
+    {
+      "code": "+251",
+      "iso": "et",
+      "country": {
+        "en": "Ethiopia",
+        "zh": "埃塞俄比亚",
+        "si": "ඉතියෝපියාව"
+      }
+    },
+    {
+      "code": "+500",
+      "iso": "fk",
+      "country": {
+        "en": "Falkland Islands",
+        "zh": "福克兰群岛",
+        "si": "ෆෝක්ලන්ඩ් දූපත්"
+      }
+    },
+    {
+      "code": "+298",
+      "iso": "fo",
+      "country": {
+        "en": "Faroe Islands",
+        "zh": "法罗群岛",
+        "si": "ෆැරෝ දූපත්"
+      }
+    },
+    {
+      "code": "+679",
+      "iso": "fj",
+      "country": {
+        "en": "Fiji",
+        "zh": "斐济",
+        "si": "ෆිජි"
+      }
+    },
+    {
+      "code": "+358",
+      "iso": "fi",
+      "country": {
+        "en": "Finland",
+        "zh": "芬兰",
+        "si": "ෆින්ලන්තය"
+      }
+    },
+    {
+      "code": "+33",
+      "iso": "fr",
+      "country": {
+        "en": "France",
+        "zh": "法国",
+        "si": "ප්‍රංශය"
+      }
+    },
+    {
+      "code": "+596",
+      "iso": "mq",
+      "country": {
+        "en": "French Antilles",
+        "zh": "法属安的列斯",
+        "si": "ප්‍රංශ ඇන්ටිලීස්"
+      }
+    },
+    {
+      "code": "+594",
+      "iso": "gf",
+      "country": {
+        "en": "French Guiana",
+        "zh": "法属圭亚那",
+        "si": "ප්‍රංශ ගුයානාව"
+      }
+    },
+    {
+      "code": "+689",
+      "iso": "pf",
+      "country": {
+        "en": "French Polynesia",
+        "zh": "法属波利尼西亚",
+        "si": "ප්‍රංශ පොලිනීසියාව"
+      }
+    },
+    {
+      "code": "+241",
+      "iso": "ga",
+      "country": {
+        "en": "Gabon",
+        "zh": "加蓬",
+        "si": "ගැබොන්"
+      }
+    },
+    {
+      "code": "+220",
+      "iso": "gm",
+      "country": {
+        "en": "Gambia",
+        "zh": "冈比亚",
+        "si": "ගැම්බියාව"
+      }
+    },
+    {
+      "code": "+995",
+      "iso": "ge",
+      "country": {
+        "en": "Georgia",
+        "zh": "格鲁吉亚",
+        "si": "ජෝර්ජියාව"
+      }
+    },
+    {
+      "code": "+49",
+      "iso": "de",
+      "country": {
+        "en": "Germany",
+        "zh": "德国",
+        "si": "ජර්මනිය"
+      }
+    },
+    {
+      "code": "+233",
+      "iso": "gh",
+      "country": {
+        "en": "Ghana",
+        "zh": "加纳",
+        "si": "ඝානාව"
+      }
+    },
+    {
+      "code": "+350",
+      "iso": "gi",
+      "country": {
+        "en": "Gibraltar",
+        "zh": "直布罗陀",
+        "si": "ජිබ්‍රෝල්ටර්"
+      }
+    },
+    {
+      "code": "+30",
+      "iso": "gr",
+      "country": {
+        "en": "Greece",
+        "zh": "希腊",
+        "si": "ග්‍රීසිය"
+      }
+    },
+    {
+      "code": "+299",
+      "iso": "gl",
+      "country": {
+        "en": "Greenland",
+        "zh": "格陵兰",
+        "si": "ග්‍රීන්ලන්තය"
+      }
+    },
+    {
+      "code": "+1-473",
+      "iso": "gd",
+      "country": {
+        "en": "Grenada",
+        "zh": "格林纳达",
+        "si": "ග්‍රෙනඩාව"
+      }
+    },
+    {
+      "code": "+590",
+      "iso": "gp",
+      "country": {
+        "en": "Guadeloupe",
+        "zh": "瓜德罗普",
+        "si": "ග්වඩලූප්"
+      }
+    },
+    {
+      "code": "+1-671",
+      "iso": "gu",
+      "country": {
+        "en": "Guam",
+        "zh": "关岛",
+        "si": "ගුවාම්"
+      }
+    },
+    {
+      "code": "+502",
+      "iso": "gt",
+      "country": {
+        "en": "Guatemala",
+        "zh": "危地马拉",
+        "si": "ගුවාටමාලාව"
+      }
+    },
+    {
+      "code": "+224",
+      "iso": "gn",
+      "country": {
+        "en": "Guinea",
+        "zh": "几内亚",
+        "si": "ගිනියාව"
+      }
+    },
+    {
+      "code": "+245",
+      "iso": "gw",
+      "country": {
+        "en": "Guinea-Bissau",
+        "zh": "几内亚比绍",
+        "si": "ගිනියා-බිසාව"
+      }
+    },
+    {
+      "code": "+592",
+      "iso": "gy",
+      "country": {
+        "en": "Guyana",
+        "zh": "圭亚那",
+        "si": "ගුයානාව"
+      }
+    },
+    {
+      "code": "+509",
+      "iso": "ht",
+      "country": {
+        "en": "Haiti",
+        "zh": "海地",
+        "si": "හේති"
+      }
+    },
+    {
+      "code": "+504",
+      "iso": "hn",
+      "country": {
+        "en": "Honduras",
+        "zh": "洪都拉斯",
+        "si": "හොන්ඩුරාස්"
+      }
+    },
+    {
+      "code": "+852",
+      "iso": "hk",
+      "country": {
+        "en": "Hong Kong",
+        "zh": "香港",
+        "si": "හොංකොං"
+      }
+    },
+    {
+      "code": "+36",
+      "iso": "hu",
+      "country": {
+        "en": "Hungary",
+        "zh": "匈牙利",
+        "si": "හංගේරියාව"
+      }
+    },
+    {
+      "code": "+354",
+      "iso": "is",
+      "country": {
+        "en": "Iceland",
+        "zh": "冰岛",
+        "si": "අයිස්ලන්තය"
+      }
+    },
+    {
+      "code": "+91",
+      "iso": "in",
+      "country": {
+        "en": "India",
+        "zh": "印度",
+        "si": "ඉන්දියාව"
+      }
+    },
+    {
+      "code": "+62",
+      "iso": "id",
+      "country": {
+        "en": "Indonesia",
+        "zh": "印度尼西亚",
+        "si": "ඉන්දුනීසියාව"
+      }
+    },
+    {
+      "code": "+98",
+      "iso": "ir",
+      "country": {
+        "en": "Iran",
+        "zh": "伊朗",
+        "si": "ඉරානය"
+      }
+    },
+    {
+      "code": "+964",
+      "iso": "iq",
+      "country": {
+        "en": "Iraq",
+        "zh": "伊拉克",
+        "si": "ඉරාකය"
+      }
+    },
+    {
+      "code": "+353",
+      "iso": "ie",
+      "country": {
+        "en": "Ireland",
+        "zh": "爱尔兰",
+        "si": "අයර්ලන්තය"
+      }
+    },
+    {
+      "code": "+972",
+      "iso": "il",
+      "country": {
+        "en": "Israel",
+        "zh": "以色列",
+        "si": "ඉස්‍රායලය"
+      }
+    },
+    {
+      "code": "+39",
+      "iso": "it",
+      "country": {
+        "en": "Italy",
+        "zh": "意大利",
+        "si": "ඉතාලිය"
+      }
+    },
+    {
+      "code": "+1-876",
+      "iso": "jm",
+      "country": {
+        "en": "Jamaica",
+        "zh": "牙买加",
+        "si": "ජමෙයිකාව"
+      }
+    },
+    {
+      "code": "+81",
+      "iso": "jp",
+      "country": {
+        "en": "Japan",
+        "zh": "日本",
+        "si": "ජපානය"
+      }
+    },
+    {
+      "code": "+962",
+      "iso": "jo",
+      "country": {
+        "en": "Jordan",
+        "zh": "约旦",
+        "si": "ජෝර්දානය"
+      }
+    },
+    {
+      "code": "+7",
+      "iso": "kz",
+      "country": {
+        "en": "Kazakhstan",
+        "zh": "哈萨克斯坦",
+        "si": "කසාඛ්ස්තානය"
+      }
+    },
+    {
+      "code": "+254",
+      "iso": "ke",
+      "country": {
+        "en": "Kenya",
+        "zh": "肯尼亚",
+        "si": "කෙන්යාව"
+      }
+    },
+    {
+      "code": "+686",
+      "iso": "ki",
+      "country": {
+        "en": "Kiribati",
+        "zh": "基里巴斯",
+        "si": "කිරිබාස්"
+      }
+    },
+    {
+      "code": "+850",
+      "iso": "kp",
+      "country": {
+        "en": "North Korea",
+        "zh": "朝鲜",
+        "si": "උතුරු කොරියාව"
+      }
+    },
+    {
+      "code": "+82",
+      "iso": "kr",
+      "country": {
+        "en": "South Korea",
+        "zh": "韩国",
+        "si": "දකුණු කොරියාව"
+      }
+    },
+    {
+      "code": "+383",
+      "iso": "xk",
+      "country": {
+        "en": "Kosovo",
+        "zh": "科索沃",
+        "si": "කොසෝවෝ"
+      }
+    },
+    {
+      "code": "+965",
+      "iso": "kw",
+      "country": {
+        "en": "Kuwait",
+        "zh": "科威特",
+        "si": "කුවේට්"
+      }
+    },
+    {
+      "code": "+996",
+      "iso": "kg",
+      "country": {
+        "en": "Kyrgyzstan",
+        "zh": "吉尔吉斯斯坦",
+        "si": "ක්‍රගිස්තානය"
+      }
+    },
+    {
+      "code": "+856",
+      "iso": "la",
+      "country": {
+        "en": "Laos",
+        "zh": "老挝",
+        "si": "ලාඕස්"
+      }
+    },
+    {
+      "code": "+371",
+      "iso": "lv",
+      "country": {
+        "en": "Latvia",
+        "zh": "拉脱维亚",
+        "si": "ලැට්වියාව"
+      }
+    },
+    {
+      "code": "+961",
+      "iso": "lb",
+      "country": {
+        "en": "Lebanon",
+        "zh": "黎巴嫩",
+        "si": "ලෙබනනය"
+      }
+    },
+    {
+      "code": "+266",
+      "iso": "ls",
+      "country": {
+        "en": "Lesotho",
+        "zh": "莱索托",
+        "si": "ලෙසෝතෝ"
+      }
+    },
+    {
+      "code": "+231",
+      "iso": "lr",
+      "country": {
+        "en": "Liberia",
+        "zh": "利比里亚",
+        "si": "ලිබීරියාව"
+      }
+    },
+    {
+      "code": "+218",
+      "iso": "ly",
+      "country": {
+        "en": "Libya",
+        "zh": "利比亚",
+        "si": "ලිබියාව"
+      }
+    },
+    {
+      "code": "+423",
+      "iso": "li",
+      "country": {
+        "en": "Liechtenstein",
+        "zh": "列支敦士登",
+        "si": "ලිච්ටන්ස්ටයින්"
+      }
+    },
+    {
+      "code": "+370",
+      "iso": "lt",
+      "country": {
+        "en": "Lithuania",
+        "zh": "立陶宛",
+        "si": "ලිතුවේනියාව"
+      }
+    },
+    {
+      "code": "+352",
+      "iso": "lu",
+      "country": {
+        "en": "Luxembourg",
+        "zh": "卢森堡",
+        "si": "ලක්ෂම්බර්ග්"
+      }
+    },
+    {
+      "code": "+853",
+      "iso": "mo",
+      "country": {
+        "en": "Macau",
+        "zh": "澳门",
+        "si": "මැකෝ"
+      }
+    },
+    {
+      "code": "+389",
+      "iso": "mk",
+      "country": {
+        "en": "North Macedonia",
+        "zh": "北马其顿",
+        "si": "උතුරු මැසඩෝනියාව"
+      }
+    },
+    {
+      "code": "+261",
+      "iso": "mg",
+      "country": {
+        "en": "Madagascar",
+        "zh": "马达加斯加",
+        "si": "මැඩගස්කර්"
+      }
+    },
+    {
+      "code": "+265",
+      "iso": "mw",
+      "country": {
+        "en": "Malawi",
+        "zh": "马拉维",
+        "si": "මලාවි"
+      }
+    },
+    {
+      "code": "+60",
+      "iso": "my",
+      "country": {
+        "en": "Malaysia",
+        "zh": "马来西亚",
+        "si": "මලේසියාව"
+      }
+    },
+    {
+      "code": "+960",
+      "iso": "mv",
+      "country": {
+        "en": "Maldives",
+        "zh": "马尔代夫",
+        "si": "මාලදිවයින්"
+      }
+    },
+    {
+      "code": "+223",
+      "iso": "ml",
+      "country": {
+        "en": "Mali",
+        "zh": "马里",
+        "si": "මාලි"
+      }
+    },
+    {
+      "code": "+356",
+      "iso": "mt",
+      "country": {
+        "en": "Malta",
+        "zh": "马耳他",
+        "si": "මාල්ටාව"
+      }
+    },
+    {
+      "code": "+692",
+      "iso": "mh",
+      "country": {
+        "en": "Marshall Islands",
+        "zh": "马绍尔群岛",
+        "si": "මාෂල් දූපත්"
+      }
+    },
+    {
+      "code": "+596",
+      "iso": "mq",
+      "country": {
+        "en": "Martinique",
+        "zh": "马提尼克",
+        "si": "මාර්ටිනික්"
+      }
+    },
+    {
+      "code": "+222",
+      "iso": "mr",
+      "country": {
+        "en": "Mauritania",
+        "zh": "毛里塔尼亚",
+        "si": "මෞරිතානියාව"
+      }
+    },
+    {
+      "code": "+230",
+      "iso": "mu",
+      "country": {
+        "en": "Mauritius",
+        "zh": "毛里求斯",
+        "si": "මෞරිතියාව"
+      }
+    },
+    {
+      "code": "+262",
+      "iso": "yt",
+      "country": {
+        "en": "Mayotte",
+        "zh": "马约特",
+        "si": "මායෝට්"
+      }
+    },
+    {
+      "code": "+52",
+      "iso": "mx",
+      "country": {
+        "en": "Mexico",
+        "zh": "墨西哥",
+        "si": "මෙක්සිකෝව"
+      }
+    },
+    {
+      "code": "+691",
+      "iso": "fm",
+      "country": {
+        "en": "Micronesia",
+        "zh": "密克罗尼西亚",
+        "si": "මයික්‍රෝනීසියාව"
+      }
+    },
+    {
+      "code": "+373",
+      "iso": "md",
+      "country": {
+        "en": "Moldova",
+        "zh": "摩尔多瓦",
+        "si": "මොල්ඩෝවාව"
+      }
+    },
+    {
+      "code": "+377",
+      "iso": "mc",
+      "country": {
+        "en": "Monaco",
+        "zh": "摩纳哥",
+        "si": "මොනාකෝ"
+      }
+    },
+    {
+      "code": "+976",
+      "iso": "mn",
+      "country": {
+        "en": "Mongolia",
+        "zh": "蒙古",
+        "si": "මොංගෝලියාව"
+      }
+    },
+    {
+      "code": "+382",
+      "iso": "me",
+      "country": {
+        "en": "Montenegro",
+        "zh": "黑山",
+        "si": "මොන්ටෙනිග්‍රෝ"
+      }
+    },
+    {
+      "code": "+1-664",
+      "iso": "ms",
+      "country": {
+        "en": "Montserrat",
+        "zh": "蒙特塞拉特",
+        "si": "මොන්සෙරාට්"
+      }
+    },
+    {
+      "code": "+212",
+      "iso": "ma",
+      "country": {
+        "en": "Morocco",
+        "zh": "摩洛哥",
+        "si": "මොරොක්කෝ"
+      }
+    },
+    {
+      "code": "+258",
+      "iso": "mz",
+      "country": {
+        "en": "Mozambique",
+        "zh": "莫桑比克",
+        "si": "මොසැම්බික්"
+      }
+    },
+    {
+      "code": "+95",
+      "iso": "mm",
+      "country": {
+        "en": "Myanmar",
+        "zh": "缅甸",
+        "si": "මියන්මාරය"
+      }
+    },
+    {
+      "code": "+264",
+      "iso": "na",
+      "country": {
+        "en": "Namibia",
+        "zh": "纳米比亚",
+        "si": "නමිබියාව"
+      }
+    },
+    {
+      "code": "+674",
+      "iso": "nr",
+      "country": {
+        "en": "Nauru",
+        "zh": "瑙鲁",
+        "si": "නාවුරු"
+      }
+    },
+    {
+      "code": "+977",
+      "iso": "np",
+      "country": {
+        "en": "Nepal",
+        "zh": "尼泊尔",
+        "si": "නේපාලය"
+      }
+    },
+    {
+      "code": "+31",
+      "iso": "nl",
+      "country": {
+        "en": "Netherlands",
+        "zh": "荷兰",
+        "si": "නෙදර්ලන්තය"
+      }
+    },
+    {
+      "code": "+599",
+      "iso": "an",
+      "country": {
+        "en": "Netherlands Antilles",
+        "zh": "荷属安的列斯",
+        "si": "නෙදර්ලන්ත ඇන්ටිලීස්"
+      }
+    },
+    {
+      "code": "+1-869",
+      "iso": "kn",
+      "country": {
+        "en": "Nevis",
+        "zh": "尼维斯",
+        "si": "නෙවිස්"
+      }
+    },
+    {
+      "code": "+687",
+      "iso": "nc",
+      "country": {
+        "en": "New Caledonia",
+        "zh": "新喀里多尼亚",
+        "si": "නව් කැලඩෝනියාව"
+      }
+    },
+    {
+      "code": "+64",
+      "iso": "nz",
+      "country": {
+        "en": "New Zealand",
+        "zh": "新西兰",
+        "si": "නවසීලන්තය"
+      }
+    },
+    {
+      "code": "+505",
+      "iso": "ni",
+      "country": {
+        "en": "Nicaragua",
+        "zh": "尼加拉瓜",
+        "si": "නිකරගුවාව"
+      }
+    },
+    {
+      "code": "+227",
+      "iso": "ne",
+      "country": {
+        "en": "Niger",
+        "zh": "尼日尔",
+        "si": "නයිජර්"
+      }
+    },
+    {
+      "code": "+234",
+      "iso": "ng",
+      "country": {
+        "en": "Nigeria",
+        "zh": "尼日利亚",
+        "si": "නයිජීරියාව"
+      }
+    },
+    {
+      "code": "+683",
+      "iso": "nu",
+      "country": {
+        "en": "Niue",
+        "zh": "纽埃",
+        "si": "නියුවේ"
+      }
+    },
+    {
+      "code": "+672",
+      "iso": "nf",
+      "country": {
+        "en": "Norfolk Island",
+        "zh": "诺福克岛",
+        "si": "නොර්ෆෝක් දූපත"
+      }
+    },
+    {
+      "code": "+850",
+      "iso": "kp",
+      "country": {
+        "en": "North Korea",
+        "zh": "朝鲜",
+        "si": "උතුරු කොරියාව"
+      }
+    },
+    {
+      "code": "+1-670",
+      "iso": "mp",
+      "country": {
+        "en": "Northern Mariana Islands",
+        "zh": "北马里亚纳群岛",
+        "si": "උතුරු මැරියානා දූපත්"
+      }
+    },
+    {
+      "code": "+47",
+      "iso": "no",
+      "country": {
+        "en": "Norway",
+        "zh": "挪威",
+        "si": "නෝර්වේ"
+      }
+    },
+    {
+      "code": "+968",
+      "iso": "om",
+      "country": {
+        "en": "Oman",
+        "zh": "阿曼",
+        "si": "ඔමානය"
+      }
+    },
+    {
+      "code": "+92",
+      "iso": "pk",
+      "country": {
+        "en": "Pakistan",
+        "zh": "巴基斯坦",
+        "si": "පාකිස්තානය"
+      }
+    },
+    {
+      "code": "+680",
+      "iso": "pw",
+      "country": {
+        "en": "Palau",
+        "zh": "帕劳",
+        "si": "පලාවු"
+      }
+    },
+    {
+      "code": "+970",
+      "iso": "ps",
+      "country": {
+        "en": "Palestine",
+        "zh": "巴勒斯坦",
+        "si": "පලස්තීනය"
+      }
+    },
+    {
+      "code": "+507",
+      "iso": "pa",
+      "country": {
+        "en": "Panama",
+        "zh": "巴拿马",
+        "si": "පැනමාව"
+      }
+    },
+    {
+      "code": "+675",
+      "iso": "pg",
+      "country": {
+        "en": "Papua New Guinea",
+        "zh": "巴布亚新几内亚",
+        "si": "පැපුවා නිව් ගිනියාව"
+      }
+    },
+    {
+      "code": "+595",
+      "iso": "py",
+      "country": {
+        "en": "Paraguay",
+        "zh": "巴拉圭",
+        "si": "පැරගුවේ"
+      }
+    },
+    {
+      "code": "+51",
+      "iso": "pe",
+      "country": {
+        "en": "Peru",
+        "zh": "秘鲁",
+        "si": "පේරුව"
+      }
+    },
+    {
+      "code": "+63",
+      "iso": "ph",
+      "country": {
+        "en": "Philippines",
+        "zh": "菲律宾",
+        "si": "ෆිලිපීනය"
+      }
+    },
+    {
+      "code": "+64",
+      "iso": "pn",
+      "country": {
+        "en": "Pitcairn Islands",
+        "zh": "皮特凯恩群岛",
+        "si": "පිට්කෙයින් දූපත්"
+      }
+    },
+    {
+      "code": "+48",
+      "iso": "pl",
+      "country": {
+        "en": "Poland",
+        "zh": "波兰",
+        "si": "පෝලන්තය"
+      }
+    },
+    {
+      "code": "+351",
+      "iso": "pt",
+      "country": {
+        "en": "Portugal",
+        "zh": "葡萄牙",
+        "si": "පෘතුගීසිය"
+      }
+    },
+    {
+      "code": "+1-787",
+      "iso": "pr",
+      "country": {
+        "en": "Puerto Rico",
+        "zh": "波多黎各",
+        "si": "පියුර්ටෝ රිකෝ"
+      }
+    },
+    {
+      "code": "+974",
+      "iso": "qa",
+      "country": {
+        "en": "Qatar",
+        "zh": "卡塔尔",
+        "si": "කටාර්"
+      }
+    },
+    {
+      "code": "+242",
+      "iso": "cg",
+      "country": {
+        "en": "Republic of the Congo",
+        "zh": "刚果共和国",
+        "si": "කොංගෝ ජනරාධිපතික රාජ්‍යය"
+      }
+    },
+    {
+      "code": "+40",
+      "iso": "ro",
+      "country": {
+        "en": "Romania",
+        "zh": "罗马尼亚",
+        "si": "රෝමේනියාව"
+      }
+    },
+    {
+      "code": "+7",
+      "iso": "ru",
+      "country": {
+        "en": "Russia",
+        "zh": "俄罗斯",
+        "si": "රුසියාව"
+      }
+    },
+    {
+      "code": "+250",
+      "iso": "rw",
+      "country": {
+        "en": "Rwanda",
+        "zh": "卢旺达",
+        "si": "රුවන්ඩාව"
+      }
+    },
+    {
+      "code": "+590",
+      "iso": "bl",
+      "country": {
+        "en": "Saint Barthelemy",
+        "zh": "圣巴泰勒米",
+        "si": "සෙන්ට් බාර්තලෙමි"
+      }
+    },
+    {
+      "code": "+685",
+      "iso": "ws",
+      "country": {
+        "en": "Samoa",
+        "zh": "萨摩亚",
+        "si": "සමෝආව"
+      }
+    },
+    {
+      "code": "+378",
+      "iso": "sm",
+      "country": {
+        "en": "San Marino",
+        "zh": "圣马力诺",
+        "si": "සැන් මැරිනෝ"
+      }
+    },
+    {
+      "code": "+239",
+      "iso": "st",
+      "country": {
+        "en": "Sao Tome and Principe",
+        "zh": "圣多美和普林西比",
+        "si": "සාඕ ටෝමේ සහ ප්‍රින්සිපේ"
+      }
+    },
+    {
+      "code": "+966",
+      "iso": "sa",
+      "country": {
+        "en": "Saudi Arabia",
+        "zh": "沙特阿拉伯",
+        "si": "සෞදි අරාබිය"
+      }
+    },
+    {
+      "code": "+221",
+      "iso": "sn",
+      "country": {
+        "en": "Senegal",
+        "zh": "塞内加尔",
+        "si": "සෙනගාල්"
+      }
+    },
+    {
+      "code": "+381",
+      "iso": "rs",
+      "country": {
+        "en": "Serbia",
+        "zh": "塞尔维亚",
+        "si": "සර්බියාව"
+      }
+    },
+    {
+      "code": "+248",
+      "iso": "sc",
+      "country": {
+        "en": "Seychelles",
+        "zh": "塞舌尔",
+        "si": "සීෂෙල්ස්"
+      }
+    },
+    {
+      "code": "+232",
+      "iso": "sl",
+      "country": {
+        "en": "Sierra Leone",
+        "zh": "塞拉利昂",
+        "si": "සියරා ලියෝනාව"
+      }
+    },
+    {
+      "code": "+65",
+      "iso": "sg",
+      "country": {
+        "en": "Singapore",
+        "zh": "新加坡",
+        "si": "සිංගප්පූරුව"
+      }
+    },
+    {
+      "code": "+421",
+      "iso": "sk",
+      "country": {
+        "en": "Slovakia",
+        "zh": "斯洛伐克",
+        "si": "ස්ලෝවැකියාව"
+      }
+    },
+    {
+      "code": "+386",
+      "iso": "si",
+      "country": {
+        "en": "Slovenia",
+        "zh": "斯洛文尼亚",
+        "si": "ස්ලෝවේනියාව"
+      }
+    },
+    {
+      "code": "+677",
+      "iso": "sb",
+      "country": {
+        "en": "Solomon Islands",
+        "zh": "所罗门群岛",
+        "si": "සොලමන් දූපත්"
+      }
+    },
+    {
+      "code": "+252",
+      "iso": "so",
+      "country": {
+        "en": "Somalia",
+        "zh": "索马里",
+        "si": "සෝමාලියාව"
+      }
+    },
+    {
+      "code": "+27",
+      "iso": "za",
+      "country": {
+        "en": "South Africa",
+        "zh": "南非",
+        "si": "දකුණු අප්‍රිකාව"
+      }
+    },
+    {
+      "code": "+211",
+      "iso": "ss",
+      "country": {
+        "en": "South Sudan",
+        "zh": "南苏丹",
+        "si": "දකුණු සූඩානය"
+      }
+    },
+    {
+      "code": "+34",
+      "iso": "es",
+      "country": {
+        "en": "Spain",
+        "zh": "西班牙",
+        "si": "ස්පාඤ්ඤය"
+      }
+    },
+    {
+      "code": "+94",
+      "iso": "lk",
+      "country": {
+        "en": "Sri Lanka",
+        "zh": "斯里兰卡",
+        "si": "ශ්‍රී ලංකාව"
+      }
+    },
+    {
+      "code": "+249",
+      "iso": "sd",
+      "country": {
+        "en": "Sudan",
+        "zh": "苏丹",
+        "si": "සූඩානය"
+      }
+    },
+    {
+      "code": "+597",
+      "iso": "sr",
+      "country": {
+        "en": "Suriname",
+        "zh": "苏里南",
+        "si": "සුරිනාම්"
+      }
+    },
+    {
+      "code": "+47",
+      "iso": "sj",
+      "country": {
+        "en": "Svalbard",
+        "zh": "斯瓦尔巴群岛",
+        "si": "ස්වාල්බාඩ්"
+      }
+    },
+    {
+      "code": "+46",
+      "iso": "se",
+      "country": {
+        "en": "Sweden",
+        "zh": "瑞典",
+        "si": "ස්වීඩනය"
+      }
+    },
+    {
+      "code": "+41",
+      "iso": "ch",
+      "country": {
+        "en": "Switzerland",
+        "zh": "瑞士",
+        "si": "ස්විට්සර්ලන්තය"
+      }
+    },
+    {
+      "code": "+963",
+      "iso": "sy",
+      "country": {
+        "en": "Syria",
+        "zh": "叙利亚",
+        "si": "සිරියාව"
+      }
+    },
+    {
+      "code": "+886",
+      "iso": "tw",
+      "country": {
+        "en": "Taiwan",
+        "zh": "台湾",
+        "si": "තායිවානය"
+      }
+    },
+    {
+      "code": "+992",
+      "iso": "tj",
+      "country": {
+        "en": "Tajikistan",
+        "zh": "塔吉克斯坦",
+        "si": "තාජිකිස්තානය"
+      }
+    },
+    {
+      "code": "+255",
+      "iso": "tz",
+      "country": {
+        "en": "Tanzania",
+        "zh": "坦桑尼亚",
+        "si": "තාන්සානියාව"
+      }
+    },
+    {
+      "code": "+66",
+      "iso": "th",
+      "country": {
+        "en": "Thailand",
+        "zh": "泰国",
+        "si": "තායිලන්තය"
+      }
+    },
+    {
+      "code": "+670",
+      "iso": "tl",
+      "country": {
+        "en": "Timor-Leste",
+        "zh": "东帝汶",
+        "si": "ටිමෝර්-ලෙස්තේ"
+      }
+    },
+    {
+      "code": "+228",
+      "iso": "tg",
+      "country": {
+        "en": "Togo",
+        "zh": "多哥",
+        "si": "ටෝගෝ"
+      }
+    },
+    {
+      "code": "+690",
+      "iso": "tk",
+      "country": {
+        "en": "Tokelau",
+        "zh": "托克劳",
+        "si": "ටෝකලාවු"
+      }
+    },
+    {
+      "code": "+676",
+      "iso": "to",
+      "country": {
+        "en": "Tonga",
+        "zh": "汤加",
+        "si": "ටොංගාව"
+      }
+    },
+    {
+      "code": "+1-868",
+      "iso": "tt",
+      "country": {
+        "en": "Trinidad and Tobago",
+        "zh": "特立尼达和多巴哥",
+        "si": "ට්‍රිනිඩාඩ් සහ ටොබැගෝ"
+      }
+    },
+    {
+      "code": "+216",
+      "iso": "tn",
+      "country": {
+        "en": "Tunisia",
+        "zh": "突尼斯",
+        "si": "ටියුනීසියාව"
+      }
+    },
+    {
+      "code": "+90",
+      "iso": "tr",
+      "country": {
+        "en": "Turkey",
+        "zh": "土耳其",
+        "si": "තුර්කිය"
+      }
+    },
+    {
+      "code": "+993",
+      "iso": "tm",
+      "country": {
+        "en": "Turkmenistan",
+        "zh": "土库曼斯坦",
+        "si": "තුර්කමෙන්ස්තානය"
+      }
+    },
+    {
+      "code": "+1-649",
+      "iso": "tc",
+      "country": {
+        "en": "Turks and Caicos Islands",
+        "zh": "特克斯和凯科斯群岛",
+        "si": "ටර්ක්ස් සහ කේකෝස් දූපත්"
+      }
+    },
+    {
+      "code": "+688",
+      "iso": "tv",
+      "country": {
+        "en": "Tuvalu",
+        "zh": "图瓦卢",
+        "si": "ටුවාලු"
+      }
+    },
+    {
+      "code": "+256",
+      "iso": "ug",
+      "country": {
+        "en": "Uganda",
+        "zh": "乌干达",
+        "si": "උගන්ඩාව"
+      }
+    },
+    {
+      "code": "+380",
+      "iso": "ua",
+      "country": {
+        "en": "Ukraine",
+        "zh": "乌克兰",
+        "si": "උක්‍රේනය"
+      }
+    },
+    {
+      "code": "+971",
+      "iso": "ae",
+      "country": {
+        "en": "United Arab Emirates",
+        "zh": "阿拉伯联合酋长国",
+        "si": "එක්සත් අරාබි එමිරේට්ස්"
+      }
+    },
+    {
+      "code": "+44",
+      "iso": "gb",
+      "country": {
+        "en": "United Kingdom",
+        "zh": "英国",
+        "si": "එක්සත් රාජධානිය"
+      }
+    },
+    {
+      "code": "+1",
+      "iso": "us",
+      "country": {
+        "en": "United States",
+        "zh": "美国",
+        "si": "එක්සත් ජනපදය"
+      }
+    },
+    {
+      "code": "+598",
+      "iso": "uy",
+      "country": {
+        "en": "Uruguay",
+        "zh": "乌拉圭",
+        "si": "උරුගුවේ"
+      }
+    },
+    {
+      "code": "+998",
+      "iso": "uz",
+      "country": {
+        "en": "Uzbekistan",
+        "zh": "乌兹别克斯坦",
+        "si": "උස්බෙකිස්තානය"
+      }
+    },
+    {
+      "code": "+678",
+      "iso": "vu",
+      "country": {
+        "en": "Vanuatu",
+        "zh": "瓦努阿图",
+        "si": "වනුවාටු"
+      }
+    },
+    {
+      "code": "+379",
+      "iso": "va",
+      "country": {
+        "en": "Vatican",
+        "zh": "梵蒂冈",
+        "si": "වැටිකන්"
+      }
+    },
+    {
+      "code": "+58",
+      "iso": "ve",
+      "country": {
+        "en": "Venezuela",
+        "zh": "委内瑞拉",
+        "si": "වෙනිසියුවලාව"
+      }
+    },
+    {
+      "code": "+84",
+      "iso": "vn",
+      "country": {
+        "en": "Vietnam",
+        "zh": "越南",
+        "si": "වියට්නාමය"
+      }
+    },
+    {
+      "code": "+1-340",
+      "iso": "vi",
+      "country": {
+        "en": "US Virgin Islands",
+        "zh": "美属维尔京群岛",
+        "si": "ඇමරිකානු වර්ජින් දූපත්"
+      }
+    },
+    {
+      "code": "+681",
+      "iso": "wf",
+      "country": {
+        "en": "Wallis and Futuna",
+        "zh": "瓦利斯和富图纳",
+        "si": "වැලිස් සහ ෆුටුනා"
+      }
+    },
+    {
+      "code": "+967",
+      "iso": "ye",
+      "country": {
+        "en": "Yemen",
+        "zh": "也门",
+        "si": "යේමනය"
+      }
+    },
+    {
+      "code": "+260",
+      "iso": "zm",
+      "country": {
+        "en": "Zambia",
+        "zh": "赞比亚",
+        "si": "සැම්බියාව"
+      }
+    },
+    {
+      "code": "+263",
+      "iso": "zw",
+      "country": {
+        "en": "Zimbabwe",
+        "zh": "津巴布韦",
+        "si": "සිම්බාබ්වේ"
+      }
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "heading": {
+    "en": "Terms and Conditions",
+    "zh": "条款和条件",
+    "si": "කොන්දේසි සහ නියමයන්"
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "en": {
+        "title": "1. Acceptance of Terms",
+        "order1_description": "By accessing and using this website you confirm that you have read understood and agreed to be bound by these Terms and Conditions (“Terms”).",
+        "order2_description": "If you do not agree with any part of these Terms please do not use this website",
+        "order3_description": "These Terms govern your use of:\n",
+        "order4_points": [
+          "Our website",
+          "Any content, information, or services provided through it"
+        ]
+      },
+      "zh": {
+        "title": "1. 接受条款",
+        "order1_description": "通过访问和使用本网站，即表示您已阅读、理解并同意受这些条款和条件（“条款”）的约束。",
+        "order2_description": "如果您不同意这些条款的任何部分，请不要使用本网站。",
+        "order3_description": "这些条款管辖您对以下各项的使用：",
+        "order4_points": [
+          "我们的网站",
+          "通过本网站提供的任何内容、信息或服务"
+        ]
+      },
+      "si": {
+        "title": "1. නියමයන් පිළිගැනීම",
+        "order1_description": "මෙම වෙබ් අඩවියට පිවිසීමෙන් සහ භාවිත කිරීමෙන්, ඔබ මෙම නියමයන් සහ කොන්දේසි (“නියමයන්”) කියවා, තේරුම් ගෙන ඇති බවත්, ඒවාට බැඳී සිටීමට එකඟ වන බවත් ඔබ තහවුරු කරයි.",
+        "order2_description": "ඔබ මෙම නියමයන්හි කිසියම් කොටසකට එකඟ නොවන්නේ නම්, කරුණාකර මෙම වෙබ් අඩවිය භාවිතා නොකරන්න.",
+        "order3_description": "මෙම නියමයන් ඔබගේ පහත සඳහන් භාවිතය පාලනය කරයි:",
+        "order4_points": [
+          "අපගේ වෙබ් අඩවිය",
+          "එය හරහා සපයන ඕනෑම අන්තර්ගතයක්, තොරතුරක් හෝ සේවාවක්"
+        ]
+      }
+    },
+    {
+      "id": "section-2",
+      "en": {
+        "title": "2. Website Use",
+        "order1_description": "This website is intended to provide information about FS Traders (Pvt) Ltd our company products services and import/export operations.",
+        "order2_description": "By using the site you agree that you will:",
+        "order3_points": [
+          " Use the website lawfully and responsibly",
+          "Not attempt to bypass or compromise website security",
+          "Not access restricted areas without authorisatio",
+          "Not introduce viruses, malicious code, or attempt to disrupt website functionality"
+        ],
+        "order4_description": "Any unauthorised access misuse or interference with the website may result in legal action."
+      },
+      "zh": {
+        "title": "2. 网站使用",
+        "order1_description": "本网站旨在提供有关 FS Traders (Pvt) Ltd 公司、其产品、服务以及进出口业务的信息。",
+        "order2_description": "使用本网站即表示您同意将：",
+        "order3_points": [
+          "合法并负责任地使用本网站",
+          "不得试图绕过或破坏网站安全",
+          "未经授权不得访问受限区域",
+          "不得引入病毒、恶意代码或试图破坏网站功能"
+        ],
+        "order4_description": "任何未经授权的访问、滥用或干扰本网站的行为都可能导致法律诉讼。"
+      },
+      "si": {
+        "title": "2. වෙබ් අඩවිය භාවිතය",
+        "order1_description": "මෙම වෙබ් අඩවිය අදහස් කරන්නේ FS Traders (Pvt) Ltd, අපගේ සමාගම, නිෂ්පාදන, සේවා සහ ආනයන/අපනයන මෙහෙයුම් පිළිබඳ තොරතුරු සැපයීම සඳහාය.",
+        "order2_description": "වෙබ් අඩවිය භාවිතා කිරීමෙන් ඔබ එකඟ වන්නේ:",
+        "order3_points": [
+          "නීත්‍යානුකූලව සහ වගකීමෙන් යුතුව වෙබ් අඩවිය භාවිතා කිරීමට",
+          "වෙබ් අඩවියේ ආරක්ෂාව මඟ හැරීමට හෝ අනතුරට පත් කිරීමට උත්සාහ නොකිරීමට",
+          "අවසරයකින් තොරව සීමා කළ ප්‍රදේශ වෙත ප්‍රවේශ නොවීමට",
+          "වෛරස්, අනිෂ්ට කේත ඇතුළත් නොකිරීමට, හෝ වෙබ් අඩවියේ ක්‍රියාකාරිත්වයට බාධා කිරීමට උත්සාහ නොකිරීමට"
+        ],
+        "order4_description": "වෙබ් අඩවියට අනවසරයෙන් ප්‍රවේශ වීම, අනිසි ලෙස භාවිතා කිරීම හෝ බාධා කිරීම නීතිමය ක්‍රියාමාර්ග වලට තුඩු දිය හැකිය."
+      }
+    },
+    {
+      "id": "section-3",
+      "en": {
+        "title": "3. Accuracy of Information",
+        "order1_description": "We make reasonable efforts to ensure that the information on this website is accurate and up to date. However:",
+        "order2_points": [
+          "We do not guarantee that all information is free from errors or omissions",
+          "Content may be updated, modified, or removed at any time without prior notice"
+        ],
+        "order3_description": "Information provided on this website is for general guidance only and should not be considered as professional financial or legal advice."
+      },
+      "zh": {
+        "title": "3. 信息的准确性",
+        "order1_description": "我们会尽合理的努力确保本网站上的信息准确且最新。然而：",
+        "order2_points": [
+          "我们不保证所有信息都没有错误或遗漏",
+          "内容可能会随时更新、修改或删除，恕不另行通知"
+        ],
+        "order3_description": "本网站提供的信息仅供一般性指导，不应被视为专业的财务或法律建议。"
+      },
+      "si": {
+        "title": "3. තොරතුරුවල නිරවද්‍යතාව",
+        "order1_description": "මෙම වෙබ් අඩවියේ ඇති තොරතුරු නිවැරදි සහ යාවත්කාලීන බව සහතික කිරීමට අපි සාධාරණ උත්සාහයන් දරන්නෙමු. කෙසේ වෙතත්:",
+        "order2_points": [
+          "සියලුම තොරතුරු දෝෂ හෝ අඩුපාඩු වලින් තොර බවට අපි සහතික නොවේ",
+          "පෙර දැනුම්දීමකින් තොරව ඕනෑම වේලාවක අන්තර්ගතය යාවත්කාලීන කිරීමට, වෙනස් කිරීමට හෝ ඉවත් කිරීමට හැකිය"
+        ],
+        "order3_description": "මෙම වෙබ් අඩවියේ සපයන තොරතුරු සාමාන්‍ය මඟ පෙන්වීම් සඳහා පමණක් වන අතර එය වෘත්තීය මූල්‍ය හෝ නීතිමය උපදෙස් ලෙස නොසැලකිය යුතුය."
+      }
+    },
+    {
+      "id": "section-4",
+      "en": {
+        "title": "4. User Submissions",
+        "order1_description": "When you submit information through contact forms supplier registration forms or any other communication methods on this website you agree that:\n",
+        "order2_points": [
+          "The information you provide is accurate and complete",
+          "You have authority to provide such information on behalf of yourself or your business"
+        ],
+        "order3_description": "By submitting your details you authorise FS Traders (Pvt) Ltd to:",
+        "order4_points": [
+          "Contact you for business, verification, or follow-up purposes",
+          "Use your information for review and evaluation of potential business relationships"
+        ],
+        "order5_description": "FS Traders (Pvt) Ltd is not responsible for any consequences arising from inaccurate,incomplete or outdated information submitted by users"
+      },
+      "zh": {
+        "title": "4. 用户提交",
+        "order1_description": "当您通过本网站上的联系表格、供应商注册表格或任何其他沟通方式提交信息时，您同意：",
+        "order2_points": [
+          "您提供的信息准确完整",
+          "您有权代表您自己或您的企业提供此类信息"
+        ],
+        "order3_description": "提交您的详细信息即表示您授权 FS Traders (Pvt) Ltd 进行以下操作：",
+        "order4_points": [
+          "为业务、验证或后续目的与您联系",
+          "使用您的信息审查和评估潜在的业务关系"
+        ],
+        "order5_description": "FS Traders (Pvt) Ltd 对因用户提交的不准确、不完整或过时信息而产生的任何后果概不负责。"
+      },
+      "si": {
+        "title": "4. පරිශීලක ඉදිරිපත් කිරීම්",
+        "order1_description": "ඔබ මෙම වෙබ් අඩවියේ සම්බන්ධතා පෝරම, සැපයුම්කරු ලියාපදිංචි කිරීමේ පෝරම හෝ වෙනත් සන්නිවේදන ක්‍රම හරහා තොරතුරු ඉදිරිපත් කරන විට, ඔබ එකඟ වන්නේ:",
+        "order2_points": [
+          "ඔබ සපයන තොරතුරු නිවැරදි සහ සම්පූර්ණ බව",
+          "ඔබට ඔබ වෙනුවෙන් හෝ ඔබේ ව්‍යාපාරය වෙනුවෙන් එවැනි තොරතුරු සැපයීමට අධිකාරය ඇති බව"
+        ],
+        "order3_description": "ඔබගේ විස්තර ඉදිරිපත් කිරීමෙන් ඔබ FS Traders (Pvt) Ltd වෙත පහත සඳහන් දේ සඳහා අවසර දෙයි:",
+        "order4_points": [
+          "ව්‍යාපාරික, සත්‍යාපන හෝ පසු විපරම් කටයුතු සඳහා ඔබව සම්බන්ධ කර ගැනීමට",
+          "විභව ව්‍යාපාරික සබඳතා සමාලෝචනය සහ ඇගයීම සඳහා ඔබගේ තොරතුරු භාවිතා කිරීමට"
+        ],
+        "order5_description": "පරිශීලකයින් විසින් ඉදිරිපත් කරන ලද සාවද්‍ය, අසම්පූර්ණ හෝ යල් පැන ගිය තොරතුරු වලින් පැන නගින කිසිදු ප්‍රතිවිපාක සඳහා FS Traders (Pvt) Ltd වගකිව යුතු නොවේ."
+      }
+    },
+    {
+      "id": "section-5",
+      "en": {
+        "title": "5. Intellectual Property",
+        "order1_description": "All content on this website including but not limited to",
+        "order2_points": [
+          "Text",
+          "Graphics",
+          "Logos",
+          "Images",
+          "Layout and design"
+        ],
+        "order3_description": "is the property of FS Traders (Pvt) Ltd and is protected by copyright and intellectual property laws.\n",
+        "order4_description": "You may not:",
+        "order5_points": [
+          "Copy, reproduce, or distribute website content",
+          "Modify or adapt any content",
+          "Use any content for commercial purposes"
+        ],
+        "order6_description": "without prior written consent from FS Traders (Pvt) Ltd. Unauthorised use may result in legal action."
+      },
+      "zh": {
+        "title": "5. 知识产权",
+        "order1_description": "本网站上的所有内容，包括但不限于：",
+        "order2_points": [
+          "文本",
+          "图形",
+          "标志",
+          "图片",
+          "布局和设计"
+        ],
+        "order3_description": "均为 FS Traders (Pvt) Ltd 所有，并受版权和知识产权法保护。",
+        "order4_description": "未经 FS Traders (Pvt) Ltd 事先书面同意，您不得进行以下行为：",
+        "order5_points": [
+          "复制、转载或分发网站内容",
+          "修改或改编任何内容",
+          "将任何内容用于商业目的"
+        ],
+        "order6_description": "未经授权的使用可能会导致法律诉讼。"
+      },
+      "si": {
+        "title": "5. බුද්ධිමය දේපළ",
+        "order1_description": "පහත සඳහන් දේ ඇතුළුව නමුත් ඒවාට සීමා නොවූ මෙම වෙබ් අඩවියේ සියලුම අන්තර්ගතයන්:",
+        "order2_points": [
+          "පෙළ",
+          "ග්‍රැෆික්ස්",
+          "ලාංඡන",
+          "රූප",
+          "සැලැස්ම සහ නිර්මාණය"
+        ],
+        "order3_description": "FS Traders (Pvt) Ltd හි දේපල වන අතර ප්‍රකාශන හිමිකම් සහ බුද්ධිමය දේපළ නීති මගින් ආරක්ෂා කර ඇත.",
+        "order4_description": "ඔබට පහත සඳහන් දේ කළ නොහැක:",
+        "order5_points": [
+          "වෙබ් අඩවි අන්තර්ගතය පිටපත් කිරීම, ප්‍රතිනිෂ්පාදනය කිරීම හෝ බෙදා හැරීම",
+          "ඕනෑම අන්තර්ගතයක් වෙනස් කිරීම හෝ අනුවර්තනය කිරීම",
+          "වාණිජ අරමුණු සඳහා ඕනෑම අන්තර්ගතයක් භාවිතා කිරීම"
+        ],
+        "order6_description": "FS Traders (Pvt) Ltd වෙතින් පූර්ව ලිඛිත අවසරයකින් තොරව. අනවසර භාවිතය නීතිමය ක්‍රියාමාර්ග වලට තුඩු දිය හැකිය."
+      }
+    },
+    {
+      "id": "section-6",
+      "en": {
+        "title": "6. Third-Party Services & Links",
+        "order1_description": "Our website may:",
+        "order2_points": [
+          "Use third-party tools such as Google Analytics to analyse performance",
+          "Include links to third-party websites for information or convenience"
+        ],
+        "order3_description": "FS Traders (Pvt) Ltd:",
+        "order4_points": [
+          "Does not control third-party websites",
+          " Does not endorse or guarantee their content, products, services, or privacy practices"
+        ],
+        "order5_description": "You access third-party websites at your own risk and should review their terms and privacy policies separately"
+      },
+      "zh": {
+        "title": "6. 第三方服务与链接",
+        "order1_description": "我们的网站可能：",
+        "order2_points": [
+          "使用 Google Analytics 等第三方工具分析性能",
+          "包含指向第三方网站的链接，以提供信息或便利"
+        ],
+        "order3_description": "FS Traders (Pvt) Ltd：",
+        "order4_points": [
+          "不控制第三方网站",
+          "不认可或保证其内容、产品、服务或隐私做法"
+        ],
+        "order5_description": "您访问第三方网站需自行承担风险，并应单独查阅其条款和隐私政策。"
+      },
+      "si": {
+        "title": "6. තෙවන පාර්ශවීය සේවා සහ සබැඳි",
+        "order1_description": "අපගේ වෙබ් අඩවියට පහත සඳහන් දේ තිබිය හැකිය:",
+        "order2_points": [
+          "කාර්ය සාධනය විශ්ලේෂණය කිරීමට Google Analytics වැනි තෙවන පාර්ශවීය මෙවලම් භාවිතා කිරීම",
+          "තොරතුරු හෝ පහසුව සඳහා තෙවන පාර්ශවීය වෙබ් අඩවි වලට සබැඳි ඇතුළත් කිරීම"
+        ],
+        "order3_description": "FS Traders (Pvt) Ltd:",
+        "order4_points": [
+          "තෙවන පාර්ශවීය වෙබ් අඩවි පාලනය නොකරයි",
+          "ඒවායේ අන්තර්ගතය, නිෂ්පාදන, සේවා, හෝ රහස්‍යතා පිළිවෙත් අනුමත කිරීමක් හෝ සහතික කිරීමක් නොකරයි"
+        ],
+        "order5_description": "ඔබ තෙවන පාර්ශවීය වෙබ් අඩවි වලට ප්‍රවේශ වන්නේ ඔබේම අවදානම මත වන අතර ඒවායේ නියමයන් සහ රහස්‍යතා ප්‍රතිපත්ති වෙන වෙනම සමාලෝචනය කළ යුතුය."
+      }
+    },
+    {
+      "id": "section-7",
+      "en": {
+        "title": "7. Limitation of Liability",
+        "order1_description": "To the fullest extent permitted by law FS Traders (Pvt) Ltd shall not be liable for any:",
+        "order2_points": [
+          "Direct, indirect, incidental, special, or consequential damages",
+          "Losses arising from use of, or inability to use, this website"
+        ],
+        "order3_description": "This includes but is not limited to damages or losses resulting from:",
+        "order4_points": [
+          "Technical failures, interruptions, or errors",
+          "Security breaches beyond our reasonable control",
+          "Reliance on information presented on this website"
+        ],
+        "order5_description": "Your use of the website is at your own risk."
+      },
+      "zh": {
+        "title": "7. 责任限制",
+        "order1_description": "在法律允许的最大范围内，FS Traders (Pvt) Ltd 不对任何以下情况承担责任：",
+        "order2_points": [
+          "直接、间接、附带、特殊或后果性损害",
+          "因使用或无法使用本网站而产生的损失"
+        ],
+        "order3_description": "这包括但不限于由以下原因造成的损害或损失：",
+        "order4_points": [
+          "技术故障、中断或错误",
+          "超出我们合理控制范围的安全漏洞",
+          "依赖本网站上显示的信息"
+        ],
+        "order5_description": "您使用本网站的风险由您自行承担。"
+      },
+      "si": {
+        "title": "7. වගකීම් සීමා කිරීම",
+        "order1_description": "නීතියෙන් අවසර දී ඇති උපරිම ප්‍රමාණයට, FS Traders (Pvt) Ltd පහත සඳහන් කිසිවක් සඳහා වගකිව යුතු නොවේ:",
+        "order2_points": [
+          "සෘජු, වක්‍ර, අහඹු, විශේෂ, හෝ ප්‍රතිවිපාක හානි",
+          "මෙම වෙබ් අඩවිය භාවිත කිරීමෙන් හෝ භාවිත කිරීමට නොහැකි වීමෙන් පැන නගින පාඩු"
+        ],
+        "order3_description": "මෙයට ඇතුළත් වන නමුත් ඒවාට සීමා නොවන හානි හෝ පාඩු ඇතුළත් වේ:",
+        "order4_points": [
+          "තාක්ෂණික අසාර්ථකත්වය, බාධා කිරීම්, හෝ දෝෂ",
+          "අපගේ සාධාරණ පාලනයෙන් ඔබ්බට වූ ආරක්ෂක කඩකිරීම්",
+          "මෙම වෙබ් අඩවියේ ඉදිරිපත් කර ඇති තොරතුරු මත විශ්වාසය තැබීම"
+        ],
+        "order5_description": "ඔබ වෙබ් අඩවිය භාවිතා කිරීම ඔබේම අවදානම මත සිදු වේ."
+      }
+    },
+    {
+      "id": "section-8",
+      "en": {
+        "title": "8. Indemnification",
+        "order1_description": "By using this website you agree to indemnify and hold harmless FS Traders (Pvt) Ltd its directors employees and affiliates from and against any claims damages losses or expenses arising out of:\n",
+        "order2_points": [
+          "Your use or misuse of the website",
+          "Your violation of these Terms",
+          " Your violation of any applicable laws or third-party rights"
+        ]
+      },
+      "zh": {
+        "title": "8. 赔偿",
+        "order1_description": "通过使用本网站，您同意赔偿并使 FS Traders (Pvt) Ltd、其董事、员工及关联公司免受因以下情况而产生的任何索赔、损害、损失或费用：",
+        "order2_points": [
+          "您使用或滥用本网站",
+          "您违反本条款",
+          "您违反任何适用法律或第三方权利"
+        ]
+      },
+      "si": {
+        "title": "8. වන්දි ගෙවීම",
+        "order1_description": "මෙම වෙබ් අඩවිය භාවිත කිරීමෙන්, ඔබ FS Traders (Pvt) Ltd, එහි අධ්‍යක්ෂවරුන්, සේවකයන් සහ අනුබද්ධිත ආයතන පහත සඳහන් දේවලින් පැන නගින ඕනෑම හිමිකම්, හානි, පාඩු හෝ වියදම් වලින් ආරක්ෂා කිරීමට සහ වන්දි ගෙවීමට එකඟ වේ:",
+        "order2_points": [
+          "ඔබ වෙබ් අඩවිය භාවිතා කිරීම හෝ අනිසි ලෙස භාවිතා කිරීම",
+          "ඔබ මෙම නියමයන් උල්ලංඝනය කිරීම",
+          "අදාළ වන ඕනෑම නීතියක් හෝ තෙවන පාර්ශවීය අයිතිවාසිකම් ඔබ උල්ලංඝනය කිරීම"
+        ]
+      }
+    },
+    {
+      "id": "section-9",
+      "en": {
+        "title": "9. Modifications to Terms",
+        "order1_description": "FS Traders (Pvt) Ltd reserves the right to modify or update these Terms at any time without prior notice.\n",
+        "order2_description": "Any changes will be posted on this page with an updated “Last updated” date. Continued use of the website after such changes indicates your acceptance of the revised Terms",
+        "order3_description": "We encourage users to review this page regularly"
+      },
+      "zh": {
+        "title": "9. 条款修改",
+        "order1_description": "FS Traders (Pvt) Ltd 保留随时修改或更新本条款的权利，恕不另行通知。",
+        "order2_description": "任何更改都将发布在此页面上，并附带更新的“最后更新”日期。在此类更改后继续使用本网站，即表示您接受修订后的条款。",
+        "order3_description": "我们鼓励用户定期查看此页面。"
+      },
+      "si": {
+        "title": "9. නියමයන් වෙනස් කිරීම",
+        "order1_description": "පූර්ව දැනුම්දීමකින් තොරව ඕනෑම වේලාවක මෙම නියමයන් වෙනස් කිරීමට හෝ යාවත්කාලීන කිරීමට FS Traders (Pvt) Ltd අයිතිය රඳවා තබා ගනී.",
+        "order2_description": "ඕනෑම වෙනසක් යාවත්කාලීන කරන ලද “අවසන් වරට යාවත්කාලීන කළ” දිනයක් සමඟ මෙම පිටුවේ පළ කරනු ඇත. එවැනි වෙනස්කම් වලින් පසුව වෙබ් අඩවිය අඛණ්ඩව භාවිතා කිරීම සංශෝධිත නියමයන් ඔබ පිළිගන්නා බව පෙන්නුම් කරයි.",
+        "order3_description": "පරිශීලකයින් මෙම පිටුව නිතිපතා සමාලෝචනය කරන ලෙස අපි දිරිමත් කරමු."
+      }
+    },
+    {
+      "id": "section-10",
+      "en": {
+        "title": "10. Governing Law",
+        "order1_description": "These Terms and any disputes arising out of or related to your use of this website are governed by the laws of Sri Lanka.\n",
+        "order2_description": "Any disputes shall be subject to the exclusive jurisdiction of the courts of Sri Lanka."
+      },
+      "zh": {
+        "title": "10. 适用法律",
+        "order1_description": "本条款以及因您使用本网站而产生或与之相关的任何争议，均受斯里兰卡法律管辖。",
+        "order2_description": "任何争议均应受斯里兰卡法院的专属管辖。"
+      },
+      "si": {
+        "title": "10. පාලක නීතිය",
+        "order1_description": "මෙම නියමයන් සහ ඔබගේ මෙම වෙබ් අඩවිය භාවිතය සම්බන්ධයෙන් පැන නගින හෝ ඊට අදාළ ඕනෑම ආරවුලක් ශ්‍රී ලංකාවේ නීති මගින් පාලනය වේ.",
+        "order2_description": "ඕනෑම ආරවුලක් ශ්‍රී ලංකාවේ අධිකරණවල සුවිශේෂී අධිකරණ බලයට යටත් වේ."
+      }
+    },
+    {
+      "id": "section-11",
+      "en": {
+        "title": "11. Contact Information",
+        "order1_description": "For questions or concerns regarding these Terms and Conditions please contact us:",
+        "order2_points": [
+          "Email: [Insert your business email]",
+          "Phone: [Insert your business number]",
+          "Address: C-27, Dedicated Economic Centre, Dambulla, Central Province, Sri Lanka"
+        ]
+      },
+      "zh": {
+        "title": "11. 联系方式",
+        "order1_description": "如对本条款和条件有任何疑问或疑虑，请联系我们：",
+        "order2_points": [
+          "电子邮件: [在此插入您的商业电子邮件]",
+          "电话: [在此插入您的商业电话号码]",
+          "地址: C-27, 专用经济中心, 丹布勒, 中央省, 斯里兰卡"
+        ]
+      },
+      "si": {
+        "title": "11. සම්බන්ධතා තොරතුරු",
+        "order1_description": "මෙම කොන්දේසි සහ නියමයන් සම්බන්ධයෙන් ප්‍රශ්න හෝ ගැටලු සඳහා කරුණාකර අප අමතන්න:",
+        "order2_points": [
+          "විද්‍යුත් තැපෑල: [ඔබගේ ව්‍යාපාරික විද්‍යුත් තැපෑල ඇතුළත් කරන්න]",
+          "දුරකථන: [ඔබගේ ව්‍යාපාරික දුරකථන අංකය ඇතුළත් කරන්න]",
+          "ලිපිනය: C-27, විශේෂිත ආර්ථික මධ්‍යස්ථානය, දඹුල්ල, මධ්‍යම පළාත, ශ්‍රී ලංකා"
+        ]
+      }
+    }
+  ]
+}

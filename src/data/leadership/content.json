@@ -1,0 +1,220 @@
+{
+  "headings": {
+    "en": {
+      "heading": "Our Leadership",
+      "subheadingDestination1": "Founder's Message",
+      "subheadingDestination2": "Co-Founder's Message",
+      "subheadingDestination3": "Our Directors",
+      "exploreBlogBtn": "Explore Blog"
+    },
+    "zh": {
+      "heading": "我们的领导团队",
+      "subheadingDestination1": "创始人寄语",
+      "subheadingDestination2": "联合创始人寄语",
+      "subheadingDestination3": "我们的董事",
+      "exploreBlogBtn": "探索博客"
+    },
+    "si": {
+      "heading": "අපගේ නායකත්වය",
+      "subheadingDestination1": "නිර්මාතෘගේ පණිවිඩය",
+      "subheadingDestination2": "සංයුක්ත නිර්මාතෘගේ පණිවිඩය",
+      "subheadingDestination3": "අපගේ අධ්‍යක්ෂවරුන්",
+      "exploreBlogBtn": "බ්ලොග් එක බලන්න"
+    }
+  },
+  "destination1": {
+    "name": {
+      "en": "Founder name",
+      "zh": "FS 贸易商",
+      "si": "FS ට්‍රේඩර්"
+    },
+    "title": {
+      "en": "Founder",
+      "zh": "创始人",
+      "si": "නිර්මාතෘ"
+    },
+    "imagePath": "/assets/leaderships/founder.png",
+    "message": {
+      "en": "When I founded FS Traders, my vision was simple yet ambitious—to connect the world through the finest spices, sourced responsibly and delivered with integrity. Over the years, we have grown from a small trading house to a global brand trusted by partners worldwide. Our success is built on passion, ethics, and an unwavering dedication to quality and innovation.",
+      "zh": "当我创立 FS 贸易商时，我的愿景简单而宏大——通过最优质的香料连接世界，这些香料均负责任地采购并诚信交付。多年来，我们已从一家小型贸易公司发展成为全球合作伙伴信赖的国际品牌。我们的成功建立在热情、道德以及对质量和创新的坚定不移的奉献之上。",
+      "si": "මා FS ට්‍රේඩර්ස් ආරම්භ කරන විට, මගේ දැක්ම සරල නමුත් අභිලාෂකාමී විය - වගකීමෙන් යුතුව ලබාගත් සහ අවංකභාවයෙන් යුතුව බෙදාහරින උසස්ම කුළුබඩු හරහා ලෝකය සම්බන්ධ කිරීම. වසර ගණනාවක් පුරා, අපි කුඩා වෙළඳ නිවසක සිට ලොව පුරා හවුල්කරුවන් විසින් විශ්වාස කරන ගෝලීය සන්නාමයක් දක්වා වර්ධනය වී ඇත. අපගේ සාර්ථකත්වය ගොඩනැගී ඇත්තේ දැඩි කැපවීම, ආචාර ධර්ම සහ ගුණාත්මකභාවය හා නවෝත්පාදනය සඳහා වූ නොසැලෙන කැපවීම මතය."
+    },
+    "blogs": [
+      {
+        "heading": {
+          "en": "Outlook for Global Trade",
+          "zh": "全球贸易展望",
+          "si": "ගෝලීය වෙළඳාම සඳහා ඉදිරි දැක්ම"
+        },
+        "description": {
+          "en": "As the world becomes more interconnected, our responsibility grows. FS Traders is committed to building transparent, sustainable supply chains that benefit both producers and customers across continents. As the world becomes more interconnected, our responsibility grows. FS Traders is committed to building transparent, sustainable supply chains that benefit both producers and customers across continents. As the world becomes more interconnected, our responsibility grows. FS Traders is committed to building transparent, sustainable supply chains that benefit both producers and customers across continents. As the world becomes more interconnected, our responsibility grows. FS Traders is committed to building transparent, sustainable supply chains that benefit both producers and customers across continents. As the world becomes more interconnected, our responsibility grows. FS Traders is committed to building transparent, sustainable supply chains that benefit both producers and customers across continents. As the world becomes more interconnected, our responsibility grows. FS Traders is committed to building transparent, sustainable supply chains that benefit both producers and customers across continents. As the world becomes more interconnected, our responsibility grows. FS Traders is committed to building transparent, sustainable supply chains that benefit both producers and customers across continents. As the world becomes more interconnected, our responsibility grows. FS Traders is committed to building transparent, sustainable supply chains that benefit both producers and customers across continents.As the world becomes more interconnected, our responsibility grows. FS Traders is committed to building transparent, sustainable supply chains that benefit both producers and customers across continents.",
+          "zh": "随着世界互联互通日益紧密，我们的责任也日益重大。FS 贸易商致力于建立透明、可持续的供应链，惠及各大洲的生产者和客户。随着世界互联互通日益紧密，我们的责任也日益重大。FS 贸易商致力于建立透明、可持续的供应链，惠及各大洲的生产者和客户。随着世界互联互通日益紧密，我们的责任也日益重大。FS 贸易商致力于建立透明、可持续的供应链，惠及各大洲的生产者和客户。随着世界互联互通日益紧密，我们的责任也日益重大。FS 贸易商致力于建立透明、可持续的供应链，惠及各大洲的生产者和客户。随着世界互联互通日益紧密，我们的责任也日益重大。FS 贸易商致力于建立透明、可持续的供应链，惠及各大洲的生产者和客户。随着世界互联互通日益紧密，我们的责任也日益重大。FS 贸易商致力于建立透明、可持续的供应链，惠及各大洲的生产者和客户。随着世界互联互通日益紧密，我们的责任也日益重大。FS 贸易商致力于建立透明、可持续的供应链，惠及各大洲的生产者和客户。随着世界互联互通日益紧密，我们的责任也日益重大。FS 贸易商致力于建立透明、可持续的供应链，惠及各大洲的生产者和客户。随着世界互联互通日益紧密，我们的责任也日益重大。FS 贸易商致力于建立透明、可持续的供应链，惠及各大洲的生产者和客户。",
+          "si": "ලෝකය අන්තර් සම්බන්ධිත වන විට, අපගේ වගකීම වර්ධනය වේ. FS ට්‍රේඩර්ස් මහාද්වීප හරහා නිෂ්පාදකයින්ට සහ පාරිභෝගිකයින්ට ප්‍රතිලාභ ගෙන දෙන විනිවිදභාවයෙන් යුත්, තිරසාර සැපයුම් දාම ගොඩනැගීමට කැපවී සිටී. ලෝකය අන්තර් සම්බන්ධිත වන විට, අපගේ වගකීම වර්ධනය වේ. FS ට්‍රේඩර්ස් මහාද්වීප හරහා නිෂ්පාදකයින්ට සහ පාරිභෝගිකයින්ට ප්‍රතිලාභ ගෙන දෙන විනිවිදභාවයෙන් යුත්, තිරසාර සැපයුම් දාම ගොඩනැගීමට කැපවී සිටී. ලෝකය අන්තර් සම්බන්ධිත වන විට, අපගේ වගකීම වර්ධනය වේ. FS ට්‍රේඩර්ස් මහාද්වීප හරහා නිෂ්පාදකයින්ට සහ පාරිභෝගිකයින්ට ප්‍රතිලාභ ගෙන දෙන විනිවිදභාවයෙන් යුත්, තිරසාර සැපයුම් දාම ගොඩනැගීමට කැපවී සිටී. ලෝකය අන්තර් සම්බන්ධිත වන විට, අපගේ වගකීම වර්ධනය වේ. FS ට්‍රේඩර්ස් මහාද්වීප හරහා නිෂ්පාදකයින්ට සහ පාරිභෝගිකයින්ට ප්‍රතිලාභ ගෙන දෙන විනිවිදභාවයෙන් යුත්, තිරසාර සැපයුම් දාම ගොඩනැගීමට කැපවී සිටී. ලෝකය අන්තර් සම්බන්ධිත වන විට, අපගේ වගකීම වර්ධනය වේ. FS ට්‍රේඩර්ස් මහාද්වීප හරහා නිෂ්පාදකයින්ට සහ පාරිභෝගිකයින්ට ප්‍රතිලාභ ගෙන දෙන විනිවිදභාවයෙන් යුත්, තිරසාර සැපයුම් දාම ගොඩනැගීමට කැපවී සිටී. ලෝකය අන්තර් සම්බන්ධිත වන විට, අපගේ වගකීම වර්ධනය වේ. FS ට්‍රේඩර්ස් මහාද්වීප හරහා නිෂ්පාදකයින්ට සහ පාරිභෝගිකයින්ට ප්‍රතිලාභ ගෙන දෙන විනිවිදභාවයෙන් යුත්, තිරසාර සැපයුම් දාම ගොඩනැගීමට කැපවී සිටී. ලෝකය අන්තර් සම්බන්ධිත වන විට, අපගේ වගකීම වර්ධනය වේ. FS ට්‍රේඩර්ස් මහාද්වීප හරහා නිෂ්පාදකයින්ට සහ පාරිභෝගිකයින්ට ප්‍රතිලාභ ගෙන දෙන විනිවිදභාවයෙන් යුත්, තිරසාර සැපයුම් දාම ගොඩනැගීමට කැපවී සිටී. ලෝකය අන්තර් සම්බන්ධිත වන විට, අපගේ වගකීම වර්ධනය වේ. FS ට්‍රේඩර්ස් මහාද්වීප හරහා නිෂ්පාදකයින්ට සහ පාරිභෝගිකයින්ට ප්‍රතිලාභ ගෙන දෙන විනිවිදභාවයෙන් යුත්, තිරසාර සැපයුම් දාම ගොඩනැගීමට කැපවී සිටී.ලෝකය අන්තර් සම්බන්ධිත වන විට, අපගේ වගකීම වර්ධනය වේ. FS ට්‍රේඩර්ස් මහාද්වීප හරහා නිෂ්පාදකයින්ට සහ පාරිභෝගිකයින්ට ප්‍රතිලාභ ගෙන දෙන විනිවිදභාවයෙන් යුත්, තිරසාර සැපයුම් දාම ගොඩනැගීමට කැපවී සිටී."
+        }
+      },
+      {
+        "heading": {
+          "en": "Commitment to Quality",
+          "zh": "对品质的承诺",
+          "si": "ගුණාත්මකභාවය සඳහා කැපවීම"
+        },
+        "description": {
+          "en": "Our processes are rooted in authenticity. Every batch of spice is hand-checked, and every partnership we form is based on trust and long-term growth.",
+          "zh": "我们的流程植根于真实性。每一批香料都经过人工检查，我们建立的每一次合作都基于信任和长期增长。",
+          "si": "අපගේ ක්‍රියාවලීන් මුල් බැස ඇත්තේ සත්‍යතාව මතය. කුළුබඩු සෑම තොගයක්ම අතින් පරීක්ෂා කරනු ලබන අතර, අප ඇති කරන සෑම හවුල්කාරිත්වයක්ම විශ්වාසය සහ දිගුකාලීන වර්ධනය මත පදනම් වේ."
+        }
+      },
+      {
+        "heading": {
+          "en": "Innovation and Heritage",
+          "zh": "创新与传承",
+          "si": "නවෝත්පාදනය සහ උරුමය"
+        },
+        "description": {
+          "en": "this is for testing purpose",
+          "zh": "这仅用于测试目的",
+          "si": "මෙය පරීක්ෂණ අරමුණු සඳහා වේ"
+        }
+      }
+    ]
+  },
+  "destination2": {
+    "name": {
+      "en": "Albert Flores",
+      "zh": "阿尔伯特·弗洛雷斯",
+      "si": "ඇල්බට් ෆ්ලෝරස්"
+    },
+    "title": {
+      "en": "Co-Founder",
+      "zh": "联合创始人",
+      "si": "සංයුක්ත නිර්මාතෘ"
+    },
+    "imagePath": "/assets/leaderships/co-founder.png",
+    "message": {
+      "en": "As Co-Founder, I believe that leadership is about empowering people to do meaningful work. Our growth has always been driven by innovation, respect for our partners, and a deep understanding of global markets. FS Traders is not just a company—it’s a community built on shared values and a vision for sustainable global trade.",
+      "zh": "作为联合创始人，我认为领导力在于赋予人们从事有意义工作的力量。我们的增长一直由创新、对合作伙伴的尊重以及对全球市场的深入理解所推动。FS Traders 不仅是一家公司，更是一个以共同价值观和可持续愿景建立的社区。",
+      "si": "සංයුක්ත නිර්මාතෘ ලෙස, මට විශ්වාසය ඇති නායකත්වය යනු අන් අයගේ හැකියාවන් ශක්තිමත් කිරීමයි. අපගේ වර්ධනය නවෝත්පාදන, සහයෝගීතාව සහ ගෝලීය වෙළඳාමේ අවබෝධය මත පදනම් වේ."
+    },
+    "blogs": [
+      {
+        "heading": {
+          "en": "Empowering Global Partnerships",
+          "zh": "赋能全球合作伙伴",
+          "si": "ගෝලීය සහයෝගීතාව ශක්තිමත් කිරීම"
+        },
+        "description": {
+          "en": "Our approach to business is collaborative. We view every partner as part of our extended family, working together toward a shared mission of excellence and sustainability.",
+          "zh": "我们的商业方式是协作的。我们将每一位合作伙伴视为扩展家庭的一部分，共同努力实现卓越与可持续发展。",
+          "si": "අපගේ ව්‍යාපාරය සහයෝගීත්වය මත පදනම් වී ඇත. සෑම හවුල්කරුවෙකුම අපගේ පුළුල් පවුලක සාමාජිකයෙකු ලෙස අපි දක්වමු."
+        }
+      },
+      {
+        "heading": {
+          "en": "Technology in Trade",
+          "zh": "贸易中的技术",
+          "si": "වෙළඳාමේ තාක්ෂණය"
+        },
+        "description": {
+          "en": "We’re integrating AI and data analytics to bring greater transparency and efficiency to the spice trade ecosystem.",
+          "zh": "我们正在整合人工智能和数据分析，为香料贸易生态系统带来更高的透明度和效率。",
+          "si": "අපි AI සහ දත්ත විශ්ලේෂණය ඒකාබද්ධ කරමින් කුළුබඩු වෙළඳාම තවත් විවෘත සහ කාර්යක්ෂම බවට පත් කරමින් සිටිමු."
+        }
+      },
+      {
+        "heading": {
+          "en": "Sustainability Commitment",
+          "zh": "可持续发展的承诺",
+          "si": "ස්ථායීත්වයට කැපවීම"
+        },
+        "description": {
+          "en": "From farm to table, we’re committed to ethical sourcing and supporting local farming communities around the world.",
+          "zh": "从农场到餐桌，我们致力于道德采购，并支持全球的当地农业社区。",
+          "si": "පොළව සිට මේසය දක්වා, අපි නෛතික සම්පාදනයට සහ ලෝකයේ ගොවීන්ට සහාය ලබා දීමට කැපවෙමු."
+        }
+      }
+    ]
+  },
+  "destination3Description": {
+    "en": "Integrity, expertise, and collaboration define our leadership. The directors at FS Traders bring years of proven success and a shared belief in ethical growth, empowering us to build lasting partnerships across the global trading landscape.",
+    "zh": "我们的董事带来了数十年的专业知识、战略洞察力以及共同致力于变革全球贸易的承诺。他们共同引领 FS Traders 走向创新、诚信与长期增长。",
+    "si": "අපගේ නායකත්වය අවංකභාවය, ප්‍රවීණත්වය සහ සහයෝගීතාවයෙන් නිර්වචනය වේ. FS ට්‍රේඩර්ස් හි අධ්‍යක්ෂවරුන් වසර ගණනාවක ඔප්පු කරන ලද සාර්ථකත්වයක් සහ සදාචාරාත්මක වර්ධනය පිළිබඳ පොදු විශ්වාසයක් ගෙන එයි, එය ගෝලීය වෙළඳ ක්ෂේත්‍රය පුරා කල්පවත්නා හවුල්කාරිත්වයන් ගොඩනැගීමට අපට බලය ලබා දෙයි."
+  },
+  "destination3": [
+    {
+      "id": "robert-fox",
+      "name": {
+        "en": "Robert Fox",
+        "zh": "罗伯特·福克斯",
+        "si": "රොබට් ෆොක්ස්"
+      },
+      "title": {
+        "en": "Director of Corporate Strategy",
+        "zh": "企业战略总监",
+        "si": "සමාගම් ප්‍රතිපත්ති අධ්‍යක්ෂ"
+      },
+      "description": {
+        "en": "Robert Fox has more than 20 years of experience in corporate growth and risk management. He oversees FS Traders’ global expansion initiatives and long-term strategy planning.",
+        "zh": "罗伯特·福克斯拥有超过20年的企业增长与风险管理经验，负责 FS Traders 的全球扩张与长期战略规划。",
+        "si": "රොබට් ෆොක්ස් සමාගම් වර්ධනය සහ අවදානම් කළමනාකරණයේ වසර 20කට වැඩි පළපුරුද්දක් ලබා ඇත. ඔහු FS Traders ගෝලීය වැඩිදියුණු කිරීම්ට නායකත්වය ලබා දෙයි."
+      },
+      "imagePath": "/assets/leaderships/director1.png"
+    },
+    {
+      "id": "albert-flores",
+      "name": {
+        "en": "Albert Flores",
+        "zh": "阿尔伯特·弗洛雷斯",
+        "si": "ඇල්බට් ෆ්ලෝරස්"
+      },
+      "title": {
+        "en": "Director of Business",
+        "zh": "业务发展总监",
+        "si": "ව්‍යාපාර සංවර්ධන අධ්‍යක්ෂ"
+      },
+      "description": {
+        "en": "Albert Flores leads initiatives in international partnerships and market diversification, driving FS Traders’ presence across emerging markets.",
+        "zh": "阿尔伯特·弗洛雷斯领导国际合作与市场多元化项目，推动 FS Traders 在新兴市场的影响力。",
+        "si": "ඇල්බට් ෆ්ලෝරස්, ජාත්‍යන්තර සහයෝගීතා සහ නව වෙළඳපොළ සංවර්ධන කටයුතු ප්‍රමුඛ කරයි."
+      },
+      "imagePath": "/assets/leaderships/director2.png"
+    },
+    {
+      "id": "floyd-miles",
+      "name": {
+        "en": "Floyd Miles",
+        "zh": "弗洛伊德·迈尔斯",
+        "si": "ෆ්ලෝයිඩ් මයිල්ස්"
+      },
+      "title": {
+        "en": "Director of Operations",
+        "zh": "运营总监",
+        "si": "ප්‍රතිචාර අධ්‍යක්ෂ"
+      },
+      "description": {
+        "en": "Floyd Miles ensures the seamless execution of supply chain operations and oversees logistics innovation to maintain the highest standards of delivery.",
+        "zh": "弗洛伊德·迈尔斯确保供应链运营的顺畅执行，并监督物流创新，以保持最高交付标准。",
+        "si": "ෆ්ලෝයිඩ් මයිල්ස් සැපයුම් දාම ක්‍රියාකාරකම් ගැටලුවක් නැතිව ක්‍රියාත්මක වන බව සහතික කරයි."
+      },
+      "imagePath": "/assets/leaderships/director3.png"
+    },
+    {
+      "id": "jenny-wilson",
+      "name": {
+        "en": "Jenny Wilson",
+        "zh": "詹妮·威尔逊",
+        "si": "ජෙනි විල්සන්"
+      },
+      "title": {
+        "en": "Director of Innovation",
+        "zh": "创新总监",
+        "si": "නවෝත්පාදන අධ්‍යක්ෂ"
+      },
+      "description": {
+        "en": "Jenny Wilson fosters creativity and spearheads digital transformation projects that enhance operational efficiency and product innovation.",
+        "zh": "詹妮·威尔逊推动创新并领导数字化转型项目，以提高运营效率和产品创新能力。",
+        "si": "ජෙනි විල්සන්, නවෝත්පාදන සහ ඩිජිටල් පරිවර්තනයේ නායකත්වය ලබා දෙයි."
+      },
+      "imagePath": "/assets/leaderships/director4.png"
+    }
+  ]
+}

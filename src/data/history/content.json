@@ -1,0 +1,105 @@
+{
+  "heading": {
+    "en": "Our History",
+    "zh": "我们的历史",
+    "si": "අපේ ඉතිහාසය"
+  },
+  "timeline": [
+    {
+      "id": "timeline-1",
+      "year": "2000",
+      "en": {
+        "title": "Founding of FS Traders",
+        "description": "FS Traders was established as a heartfelt tribute to the founder's elder sister, Fousiya, whose name inspired the company's identity and reflects core values of dedication and resilience in the world of international trade. Beginning as a modest trading firm, it focused on handling agricultural products and imported goods, setting the stage for sustainable growth and expansion into diverse global markets."
+      },
+      "zh": {
+        "title": "FS Traders的成立",
+        "description": "FS Traders的成立是对创始人的姐姐Fousiya的深情致敬，她的名字激发了公司的身份，并体现了在国际贸易领域的奉献和韧性核心价值。作为一家谦逊的贸易公司，它专注于处理农产品和进口商品，为可持续增长和扩展到多样化的全球市场奠定了基础。"
+      },
+      "si": {
+        "title": "FS Traders ආරම්භය",
+        "description": "FS Traders ආරම්භය ආරම්භකයාගේ මහා නංගි වන Fousiyaට ගෞරවයක් ලෙස ආදරයෙන් පිහිටුවන ලදී. ඇයගේ නම සමාගමේ හැඳුනුමට ආදර්ශයක් වී ජාත්‍යන්තර වෙළඳාම ලෝකයේ කැපවීම සහ ශක්තිමත් බවේ මූලික අගයන් ප්‍රතිබිම්බනය කරයි. සාමාන්‍ය වෙළඳ සමාගමක් ලෙස ආරම්භ කරමින්, එය කෘෂි නිෂ්පාදන සහ ආනයන කරන භාණ්ඩ සැකසීම මත අවධානය යොමු කළ අතර, තිරසාර වර්ධනය සහ විවිධ ගෝලීය වෙළඳපොළවලට පුළුල් කිරීම සඳහා වේදිකාව සකස් කළේය."
+      }
+    },
+    {
+      "id": "timeline-2",
+      "year": "Early 2000s",
+      "en": {
+        "title": "A Family Partnership",
+        "description": "In the early 2000s, soon after FS Traders was established, the founder's younger brother took over the reins. With a shared vision and the spirit of loyalty, mutual teamwork, and resilience, FS Traders flourished into a family enterprise. Its forward-looking strategy combined with innovative solutions helped expand and embody the principles of trust, respect, and growth. With a deep-rooted belief in standing by legacy to pave the way for others, FS Traders became a burgeoning enterprise with a global footprint."
+      },
+      "zh": {
+        "title": "家庭合作伙伴关系",
+        "description": "在2000年代初，FS Traders成立后不久，创始人的弟弟接管了公司。凭借共同的愿景以及忠诚、团队合作和韧性的精神，FS Traders发展成为一个家庭企业。其前瞻性战略与创新解决方案相结合，帮助扩大并体现了信任、尊重和增长的原则。秉持深厚的信念，通过传承为他人铺平道路，FS Traders成为一个具有全球影响力的蓬勃发展的企业。"
+      },
+      "si": {
+        "title": "පවුල් හවුල්කාරත්වය",
+        "description": "2000 දශකයේ ආරම්භයේදී, FS Traders ආරම්භ කිරීමෙන් පසු කෙටි කාලයකින් ආරම්භකයාගේ කුඩා සහෝදරයා පාලනය භාර ගත්තේය. පොදු දැක්මක් සහ විශ්වාසය, අන්‍යෝන්‍ය කණ්ඩායම් වැඩ සහ ශක්තිමත් බවේ ආත්මය සමඟ, FS Traders පවුල් ව්‍යාපාරයක් ලෙස සෙරිනිටි විය. එහි ඉදිරියට බලන උපාය මාර්ගය නව්‍ය විසඳුම් සමඟ එකතු වී විශ්වාසය, ගෞරවය සහ වර්ධනයේ මූලධර්ම පුළුල් කිරීමට සහ ප්‍රතිබිම්බනය කිරීමට උපකාරී විය. අන් අය සඳහා මාර්ගය සකස් කිරීමට උරුමය රැක ගැනීමේ ගැඹුරු විශ්වාසය සමඟ, FS Traders ගෝලීය පදනමක් ඇති සෙරිනිටි ව්‍යාපාරයක් බවට පත් විය."
+      }
+    },
+    {
+      "id": "timeline-3",
+      "year": "2007",
+      "en": {
+        "title": "Incorporation of FS Traders (Pvt) Ltd",
+        "description": "FS Traders registered a historic milestone in 2007 by incorporating under the name of FS Traders (Pvt) Ltd, establishing itself as a trusted trading entity. This change brought about enhanced professionalism and credibility, allowing the company to cater to the needs of international markets with greater efficiency."
+      },
+      "zh": {
+        "title": "FS Traders (Pvt) Ltd的成立",
+        "description": "FS Traders在2007年注册了一个历史性里程碑，以FS Traders (Pvt) Ltd的名义成立，确立了自己作为一个值得信赖的贸易实体的地位。这一变化带来了更高的专业性和信誉，使公司能够更高效地满足国际市场的需求。"
+      },
+      "si": {
+        "title": "FS Traders (Pvt) Ltd ආයතනය",
+        "description": "FS Traders 2007 දී FS Traders (Pvt) Ltd නමින් ලියාපදිංචි කර, විශ්වාසනීය වෙළඳ ආයතනයක් ලෙස ඉතිහාසමය මීළඟක් ලියාපදිංචි කළේය. මෙම වෙනස වැඩි වෘත්තීයත්වය සහ විශ්වාසනීයතාවය ගෙන එමින්, ජාත්‍යන්තර වෙළඳපොළවල අවශ්‍යතා වැඩි කාර්යක්ෂමතාවක් සමඟ සපුරාලීමට සමාගමට ඉඩ සලසා දුන්නේය."
+      }
+    },
+    {
+      "id": "timeline-4",
+      "year": "2010 - 2020",
+      "en": {
+        "title": "Consolidation and Growth",
+        "description": "FS Traders established itself during the period of 2010 - 2020 as a leading trading entity in the agricultural and food sectors. Its success was driven by a commitment to excellence and innovation, which created a solid foundation for sustainable growth and expansion."
+      },
+      "zh": {
+        "title": "巩固与增长",
+        "description": "FS Traders在2010 - 2020年期间确立了自己在农业和食品领域的领先贸易实体地位。其成功源于对卓越和创新的承诺，这为可持续增长和扩展奠定了坚实的基础。"
+      },
+      "si": {
+        "title": "එකමුතුව සහ වර්ධනය",
+        "description": "FS Traders 2010 - 2020 කාලය තුළ කෘෂි සහ ආහාර අංශවල ප්‍රමුඛ වෙළඳ ආයතනයක් ලෙස ස්ථාපිත විය. එහි සාර්ථකත්වය උසස්භාවය සහ නව්‍යකරණය සඳහා කැපවීම මත පදනම් වූ අතර, තිරසාර වර්ධනය සහ පුළුල් කිරීම සඳහා ශක්තිමත් පදනමක් නිර්මාණය කළේය."
+      }
+    },
+    {
+      "id": "timeline-5",
+      "year": "2020 - 2021",
+      "en": {
+        "title": "A Legacy Expanding Beyond Borders",
+        "description": "Since 2020 up to date, FS Traders has made a leap as a top frontier in the field of international trade, working with global partners to create a network of trust and reliability. This legacy expands beyond trading, focusing on empowering communities and fostering sustainable practices to strengthen the economy. FS Traders continues to lead the industry, setting an example for all as a reliable rock in the stormy seas of global progress and consistency."
+      },
+      "zh": {
+        "title": "超越边界的遗产",
+        "description": "自2020年至今，FS Traders在国际贸易领域取得了飞跃，与全球合作伙伴合作，创建了一个信任和可靠性的网络。这一遗产超越了贸易，专注于赋权社区和促进可持续实践，以加强经济。FS Traders继续引领行业，为所有人树立榜样，成为全球进步和一致性的风暴海洋中的可靠岩石。"
+      },
+      "si": {
+        "title": "සීමා ඉක්මවන උරුමයක්",
+        "description": "2020 සිට අද දක්වා, FS Traders ජාත්‍යන්තර වෙළඳ ක්ෂේත්‍රයේ ප්‍රමුඛ පෙරමුණක් ලෙස පියවරක් ගත් අතර, විශ්වාසය සහ විශ්වාසනීයතාවය ඇති ජාලයක් නිර්මාණය කිරීමට ගෝලීය හවුල්කරුවන් සමඟ වැඩ කරයි. මෙම උරුමය වෙළඳයට වඩා ඉක්මවා ගොස්, ආර්ථිකය ශක්තිමත් කිරීමට ප්‍රජාවන්ට බලය ලබා දීම සහ තිරසාර ක්‍රියාකාරකම් ප්‍රවර්ධනය කිරීම මත අවධානය යොමු කරයි. FS Traders කර්මාන්තය නායකත්වය කරගෙන යාමට දිගටම පියවර ගනිමින්, ගෝලීය ප්‍රගතිය සහ ස්ථාවරතාවය සඳහා විශ්වාසනීය ගල්පරයක් ලෙස සියලු දෙනාට උදාහරණයක් සකස් කරයි."
+      }
+    },
+    {
+      "id": "timeline-6",
+      "year": "2021 - Present",
+      "en": {
+        "title": "Testing the Demo Content",
+        "description": "We will remove this content as soon as possible"
+      },
+      "zh": {
+        "title": "测试演示内容",
+        "description": "我们将尽快删除此内容"
+      },
+      "si": {
+        "title": "ආදර්ශන අන්තර්ගතය පරීක්ෂා කිරීම",
+        "description": "අපි මෙම අන්තර්ගතය හැකි ඉක්මනින් ඉවත් කරන්නෙමු"
+      }
+    }
+  ]
+}

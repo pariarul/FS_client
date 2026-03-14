@@ -1,0 +1,103 @@
+{
+  "logoPath": "/assets/footer/Logo-Primary.png",
+  "companyName": {
+    "en": "FS Traders Pvt Ltd",
+    "zh": "FS Traders 私人有限公司",
+    "si": "එෆ් එස් ට්‍රේඩර්ස් පුද්ගලික සමාගම"
+  },
+  "companyAddress": {
+    "en": "C-27, Dedicated Economic Centre, Dambulla, Central Province, Sri Lanka",
+    "zh": "C-27, 斯里兰卡中央省丹布勒专用经济中心",
+    "si": "C-27, දඹුල්ල විශේෂිත ආර්ථික මධ්‍යස්ථානය, මධ්‍යම පළාත, ශ්‍රී ලංකාව"
+  },
+  "links": {
+    "side1": {
+      "heading": {
+        "en": "Quick Links",
+        "zh": "快速链接",
+        "si": "ඉක්මන් සබැඳි"
+      },
+      "home": {
+        "en": "Home",
+        "zh": "首页",
+        "si": "මුල් පිටුව",
+        "path": "/"
+      },
+      "privacyPolicy": {
+        "en": "Privacy Policy",
+        "zh": "隐私政策",
+        "si": "රහස්‍යතා ප්‍රතිපත්තිය",
+        "path": "/privacy-policy"
+      },
+      "termsConditions": {
+        "en": "Terms & Conditions",
+        "zh": "条款和条件",
+        "si": "නියම හා කොන්දේසි",
+        "path": "/terms-conditions"
+      }
+    },
+    "side2": {
+      "heading": {
+        "en": "About",
+        "zh": "关于",
+        "si": "අප ගැන"
+      },
+      "ourCompany": {
+        "en": "Our Company",
+        "zh": "我们的公司",
+        "si": "අපගේ සමාගම",
+        "path": "/our-company"
+      },
+      "ourLeadership": {
+        "en": "Our Leadership",
+        "zh": "我们的领导团队",
+        "si": "අපගේ නායකත්වය",
+        "path": "/our-leaderships"
+      },
+      "ourHistory": {
+        "en": "Our History",
+        "zh": "我们的历史",
+        "si": "අපගේ ඉතිහාසය",
+        "path": "/our-history"
+      },
+      "ourSuppliers": {
+        "en": "Our Suppliers",
+        "zh": "我们的供应商",
+        "si": "අපගේ සැපයුම්කරුවන්",
+        "path": "/our-suppliers"
+      }
+    },
+    "side3": {
+      "heading": {
+        "en": "Products",
+        "zh": "产品",
+        "si": "නිෂ්පාදන"
+      },
+      "import": {
+        "en": "Import",
+        "zh": "进口",
+        "si": "ආනයන",
+        "path": "/our-products#import"
+      },
+      "export": {
+        "en": "Export",
+        "zh": "出口",
+        "si": "අපනයන",
+        "path": "/our-products#export"
+      }
+    },
+    "side4": {
+      "heading": {
+        "en": "Contact Us",
+        "zh": "联系我们",
+        "si": "අපව අමතන්න"
+      },
+      "phone": "+94 454554544545",
+      "email": "fstraders@gmail.com",
+      "whatsappHref": "https://api.whatsapp.com/send?phone=9080191878&text=Hello%20FS%20Traders%20Pvt%20Ltd%2C%0A%0AI%20found%20your%20website%20and%20am%20interested%20in%20your%20import%2Fexport%20services.%0A%0ABest%20regards%2C",
+      "emailHref": "mailto:fstraders@gmail.com?subject=Inquiry%20from%20FS%20Traders%20Website&body=Hello%20FS%20Traders%20Pvt%20Ltd%2C%0A%0AI%20found%20your%20website%20and%20am%20interested%20in%20your%20import%2Fexport%20services.%0A%0ABest%20regards%2C",
+      "facebookHref": "https://m.me/fstraderspvtltd",
+      "wechatHref": "https://weixin.qq.com/"
+    }
+  }
+}

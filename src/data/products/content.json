@@ -1,0 +1,1358 @@
+{
+  "headings": {
+    "en": {
+      "heading": "Our Products",
+      "subheadingImport": "Import Products",
+      "subheadingExport": "Export Products"
+    },
+    "zh": {
+      "heading": "我们的产品",
+      "subheadingImport": "进口产品",
+      "subheadingExport": "出口产品"
+    },
+    "si": {
+      "heading": "අපගේ නිෂ්පාදන",
+      "subheadingImport": "ආනයන නිෂ්පාදන",
+      "subheadingExport": "අපනයන නිෂ්පාදන"
+    }
+  },
+  "import": {
+    "riceGrainsFlour": {
+      "en": {
+        "category": "Rice, Grains & Flour",
+        "assetName": "RiceGrainsFlour"
+      },
+      "zh": {
+        "category": "大米、谷物与面粉",
+        "assetName": "RiceGrainsFlour"
+      },
+      "si": {
+        "category": "හාල්, ධාන්‍ය සහ පිටි",
+        "assetName": "RiceGrainsFlour"
+      },
+      "items": [
+        {
+          "imagePath": "/assets/products/Import/RiceGrainsFlour/Basmathi Rice.png",
+          "en": {
+            "imageName": "Basmathi Rice",
+            "origins": [
+              "India",
+              "Pakistan"
+            ]
+          },
+          "si": {
+            "imageName": "බාස්මති හාල්",
+            "origins": [
+              "ඉන්දියාව",
+              "පාකිස්තානය"
+            ]
+          },
+          "zh": {
+            "imageName": "巴斯马蒂大米",
+            "origins": [
+              "印度",
+              "巴基斯坦"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/RiceGrainsFlour/JR11 Ponni Rice.png",
+          "en": {
+            "imageName": "JR11 Ponni Rice",
+            "origins": [
+              "India",
+              "Pakistan"
+            ]
+          },
+          "si": {
+            "imageName": "JR11 පොන්නි සහල්",
+            "origins": [
+              "ඉන්දියාව",
+              "පකිස්ථානය"
+            ]
+          },
+          "zh": {
+            "imageName": "JR11 班尼米",
+            "origins": [
+              "印度",
+              "巴基斯坦"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/RiceGrainsFlour/Paal Ponni Rice.png",
+          "en": {
+            "imageName": "Paal Ponni Rice",
+            "origins": [
+              "India",
+              "Pakistan"
+            ]
+          },
+          "si": {
+            "imageName": "පාල් පොන්නි හාල්",
+            "origins": [
+              "ඉන්දියාව",
+              "පාකිස්ථානය"
+            ]
+          },
+          "zh": {
+            "imageName": "帕尔邦尼米",
+            "origins": [
+              "India",
+              "Pakistan"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/RiceGrainsFlour/IR64 Rice.png",
+          "en": {
+            "imageName": "IR64 Rice",
+            "origins": [
+              "India",
+              "Pakistan"
+            ]
+          },
+          "si": {
+            "imageName": "IR64 සහල්",
+            "origins": [
+              "ඉන්දියාව",
+              "පකිස්ථානය"
+            ]
+          },
+          "zh": {
+            "imageName": "IR64 大米",
+            "origins": [
+              "印度",
+              "巴基斯坦"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/RiceGrainsFlour/long-grain-white-rice.png",
+          "en": {
+            "imageName": "Long Grain White Rice",
+            "origins": [
+              "India",
+              "Pakistan"
+            ]
+          },
+          "zh": {
+            "imageName": "长粒白米",
+            "origins": [
+              "印度",
+              "巴基斯坦"
+            ]
+          },
+          "si": {
+            "imageName": "දිගු ධාන්‍ය සුදු හාල්",
+            "origins": [
+              "ඉන්දියාව",
+              "පාකිස්තානය"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/RiceGrainsFlour/Wheat Flour.png",
+          "en": {
+            "imageName": "Wheat Flour",
+            "origins": [
+              "Türkiye"
+            ]
+          },
+          "si": {
+            "imageName": "ගොදම් පිටි",
+            "origins": [
+              "තුර්කිය"
+            ]
+          },
+          "zh": {
+            "imageName": "小麦粉",
+            "origins": [
+              "土耳其"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/RiceGrainsFlour/sago-seeds.png",
+          "en": {
+            "imageName": "Sago Seeds",
+            "origins": [
+              "Thailand"
+            ]
+          },
+          "zh": {
+            "imageName": "西米种子",
+            "origins": [
+              "泰国"
+            ]
+          },
+          "si": {
+            "imageName": "සාගෝ බීජ",
+            "origins": [
+              "තායිලන්තය"
+            ]
+          }
+        }
+      ]
+    },
+    "pulsesLentilsLegumes": {
+      "en": {
+        "category": "Pulses, Lentils & Legumes",
+        "assetName": "PulsesLentilsLegumes"
+      },
+      "zh": {
+        "category": "豆类、扁豆与豆科植物",
+        "assetName": "PulsesLentilsLegumes"
+      },
+      "si": {
+        "category": "පලාන්තු, බඩඉරිඟු සහ බීජ කොටස්",
+        "assetName": "PulsesLentilsLegumes"
+      },
+      "items": [
+        {
+          "imagePath": "/assets/products/Import/PulsesLentilsLegumes/whole-dhal.png",
+          "en": {
+            "imageName": "Whole Dhal (Lentils)",
+            "origins": [
+              "Australia",
+              "Canada"
+            ]
+          },
+          "zh": {
+            "imageName": "整达尔（扁豆）",
+            "origins": [
+              "澳大利亚",
+              "加拿大"
+            ]
+          },
+          "si": {
+            "imageName": "මුළු දාල් (බඩඉරිඟු)",
+            "origins": [
+              "ඕස්ට්‍රේලියාව",
+              "කැනඩාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/PulsesLentilsLegumes/red-split-lentils.png",
+          "en": {
+            "imageName": "Red Split Lentils (Dhal)",
+            "origins": [
+              "Australia",
+              "Canada"
+            ]
+          },
+          "zh": {
+            "imageName": "红裂扁豆（达尔）",
+            "origins": [
+              "澳大利亚",
+              "加拿大"
+            ]
+          },
+          "si": {
+            "imageName": "රතු බිඳුණු බඩඉරිඟු (දාල්)",
+            "origins": [
+              "ඕස්ට්‍රේලියාව",
+              "කැනඩාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/PulsesLentilsLegumes/yellow-split-lentils.png",
+          "en": {
+            "imageName": "Yellow Split Lentils",
+            "origins": [
+              "Australia"
+            ]
+          },
+          "zh": {
+            "imageName": "黄裂扁豆",
+            "origins": [
+              "澳大利亚"
+            ]
+          },
+          "si": {
+            "imageName": "කහ බිඳුණු බඩඉරිඟු",
+            "origins": [
+              "ඕස්ට්‍රේලියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/PulsesLentilsLegumes/green-mung.png",
+          "en": {
+            "imageName": "Green Mung",
+            "origins": [
+              "Thailand",
+              "Myanmar",
+              "Australia"
+            ]
+          },
+          "zh": {
+            "imageName": "绿豆",
+            "origins": [
+              "泰国",
+              "缅甸",
+              "澳大利亚"
+            ]
+          },
+          "si": {
+            "imageName": "කොළ මුං",
+            "origins": [
+              "තායිලන්තය",
+              "මියන්මාරය",
+              "ඕස්ට්‍රේලියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/PulsesLentilsLegumes/urad-dhal.png",
+          "en": {
+            "imageName": "Urad Dhal",
+            "origins": [
+              "India"
+            ]
+          },
+          "zh": {
+            "imageName": "乌拉德达尔",
+            "origins": [
+              "印度"
+            ]
+          },
+          "si": {
+            "imageName": "උරුදු දාල්",
+            "origins": [
+              "ඉන්දියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/PulsesLentilsLegumes/chickpeas.png",
+          "en": {
+            "imageName": "Chickpeas",
+            "origins": [
+              "India",
+              "Turkey",
+              "Canada",
+              "USA"
+            ]
+          },
+          "zh": {
+            "imageName": "鹰嘴豆",
+            "origins": [
+              "印度",
+              "土耳其",
+              "加拿大",
+              "美国"
+            ]
+          },
+          "si": {
+            "imageName": "කඩල",
+            "origins": [
+              "ඉන්දියාව",
+              "තුර්කිය",
+              "කැනඩාව",
+              "එක්සත් ජනපදය"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/PulsesLentilsLegumes/red-cowpea.png",
+          "en": {
+            "imageName": "Red Cowpea",
+            "origins": [
+              "Myanmar",
+              "Argentina"
+            ]
+          },
+          "zh": {
+            "imageName": "红豆",
+            "origins": [
+              "缅甸",
+              "阿根廷"
+            ]
+          },
+          "si": {
+            "imageName": "රතු කවුපි",
+            "origins": [
+              "මියන්මාරය",
+              "ආර්ජන්ටිනාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/PulsesLentilsLegumes/black-eye-bean.png",
+          "en": {
+            "imageName": "Black Eye Bean (White Cowpea)",
+            "origins": [
+              "Myanmar",
+              "Argentina"
+            ]
+          },
+          "zh": {
+            "imageName": "黑眼豆（白豆）",
+            "origins": [
+              "缅甸",
+              "阿根廷"
+            ]
+          },
+          "si": {
+            "imageName": "කළු ඇස් බෝංචි (සුදු කවුපි)",
+            "origins": [
+              "මියන්මාරය",
+              "ආර්ජන්ටිනාව"
+            ]
+          }
+        }
+      ]
+    },
+    "spicesSeeds": {
+      "en": {
+        "category": "Spices & Seeds",
+        "assetName": "SpicesSeeds"
+      },
+      "zh": {
+        "category": "香料与种子",
+        "assetName": "SpicesSeeds"
+      },
+      "si": {
+        "category": "මසාලා සහ බීජ",
+        "assetName": "SpicesSeeds"
+      },
+      "items": [
+        {
+          "imagePath": "/assets/products/Import/SpicesSeeds/coriander-seeds.png",
+          "en": {
+            "imageName": "Coriander Seeds",
+            "origins": [
+              "India",
+              "Argentina",
+              "Canada",
+              "Bulgaria",
+              "Romania",
+              "Ukraine",
+              "Russia"
+            ]
+          },
+          "zh": {
+            "imageName": "芫荽种子",
+            "origins": [
+              "印度",
+              "阿根廷",
+              "加拿大",
+              "保加利亚",
+              "罗马尼亚",
+              "乌克兰",
+              "俄罗斯"
+            ]
+          },
+          "si": {
+            "imageName": "කොත්තමල්ලි බීජ",
+            "origins": [
+              "ඉන්දියාව",
+              "ආර්ජන්ටිනාව",
+              "කැනඩාව",
+              "බල්ගේරියාව",
+              "රොමේනියාව",
+              "යුක්රේනය",
+              "රුසියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/SpicesSeeds/cumin-seeds.png",
+          "en": {
+            "imageName": "Cumin Seeds",
+            "origins": [
+              "India"
+            ]
+          },
+          "zh": {
+            "imageName": "孜然种子",
+            "origins": [
+              "印度"
+            ]
+          },
+          "si": {
+            "imageName": "සුදු කුමුන් බීජ",
+            "origins": [
+              "ඉන්දියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/SpicesSeeds/fennel-seeds.png",
+          "en": {
+            "imageName": "Fennel Seeds",
+            "origins": [
+              "India"
+            ]
+          },
+          "zh": {
+            "imageName": "茴香种子",
+            "origins": [
+              "印度"
+            ]
+          },
+          "si": {
+            "imageName": "මහදුරු බීජ",
+            "origins": [
+              "ඉන්දියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/SpicesSeeds/mustard-seeds.png",
+          "en": {
+            "imageName": "Mustard Seeds",
+            "origins": [
+              "India"
+            ]
+          },
+          "zh": {
+            "imageName": "芥末种子",
+            "origins": [
+              "印度"
+            ]
+          },
+          "si": {
+            "imageName": "අබ බීජ",
+            "origins": [
+              "ඉන්දියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/SpicesSeeds/fenugreek-seeds.png",
+          "en": {
+            "imageName": "Fenugreek Seeds",
+            "origins": [
+              "India"
+            ]
+          },
+          "zh": {
+            "imageName": "胡芦巴种子",
+            "origins": [
+              "印度"
+            ]
+          },
+          "si": {
+            "imageName": "උළුහාල් බීජ",
+            "origins": [
+              "ඉන්දියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/SpicesSeeds/dry-chilli.png",
+          "en": {
+            "imageName": "Dry Chilli",
+            "origins": [
+              "India"
+            ]
+          },
+          "zh": {
+            "imageName": "干辣椒",
+            "origins": [
+              "印度"
+            ]
+          },
+          "si": {
+            "imageName": "වියළි මිරිස්",
+            "origins": [
+              "ඉන්දියාව"
+            ]
+          }
+        }
+      ]
+    },
+    "edibleOilsSugarAdditives": {
+      "en": {
+        "category": "Edible Oils, Sugar & Food Additives",
+        "assetName": "EdibleOilsSugarAdditives"
+      },
+      "zh": {
+        "category": "食用油、糖与食品添加剂",
+        "assetName": "EdibleOilsSugarAdditives"
+      },
+      "si": {
+        "category": "ආහාර තෙල්, සීනි සහ ආහාර එකතු කරණ",
+        "assetName": "EdibleOilsSugarAdditives"
+      },
+      "items": [
+        {
+          "imagePath": "/assets/products/Import/EdibleOilsSugarAdditives/farm-oil.png",
+          "en": {
+            "imageName": "Farm Oil",
+            "origins": [
+              "Malaysia",
+              "Indonesia"
+            ]
+          },
+          "zh": {
+            "imageName": "农场油",
+            "origins": [
+              "马来西亚",
+              "印度尼西亚"
+            ]
+          },
+          "si": {
+            "imageName": "ෆාම් තෙල්",
+            "origins": [
+              "මැලේසියාව",
+              "ඉන්දුනීසියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/EdibleOilsSugarAdditives/rbd-coconut-oil.png",
+          "en": {
+            "imageName": "RBD Coconut Oil",
+            "origins": [
+              "Malaysia",
+              "Indonesia"
+            ]
+          },
+          "zh": {
+            "imageName": "RBD 椰子油",
+            "origins": [
+              "马来西亚",
+              "印度尼西亚"
+            ]
+          },
+          "si": {
+            "imageName": "RBD පොහොර තෙල්",
+            "origins": [
+              "මැලේසියාව",
+              "ඉන්දුනීසියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/EdibleOilsSugarAdditives/rbd-soyabean-oil.png",
+          "en": {
+            "imageName": "RBD Soyabean Oil",
+            "origins": [
+              "Malaysia",
+              "Indonesia"
+            ]
+          },
+          "zh": {
+            "imageName": "RBD 大豆油",
+            "origins": [
+              "马来西亚",
+              "印度尼西亚"
+            ]
+          },
+          "si": {
+            "imageName": "RBD සෝයාබීන් තෙල්",
+            "origins": [
+              "මැලේසියාව",
+              "ඉන්දුනීසියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/EdibleOilsSugarAdditives/rbd-sunflower-oil.png",
+          "en": {
+            "imageName": "RBD Sunflower Oil",
+            "origins": [
+              "Malaysia",
+              "Indonesia"
+            ]
+          },
+          "zh": {
+            "imageName": "RBD 葵花籽油",
+            "origins": [
+              "马来西亚",
+              "印度尼西亚"
+            ]
+          },
+          "si": {
+            "imageName": "RBD සන්ෆ්ලවර් තෙල්",
+            "origins": [
+              "මැලේසියාව",
+              "ඉන්දුනීසියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/EdibleOilsSugarAdditives/sugar.png",
+          "en": {
+            "imageName": "Sugar (White & Brown)",
+            "origins": [
+              "Brazil",
+              "India",
+              "Ukraine",
+              "Europe"
+            ]
+          },
+          "zh": {
+            "imageName": "糖（白糖与红糖）",
+            "origins": [
+              "巴西",
+              "印度",
+              "乌克兰",
+              "欧洲"
+            ]
+          },
+          "si": {
+            "imageName": "සීනි (සුදු සහ දුඹුරු)",
+            "origins": [
+              "බ්‍රසීලය",
+              "ඉන්දියාව",
+              "යුක්රේනය",
+              "යුරෝපය"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/EdibleOilsSugarAdditives/salt.png",
+          "en": {
+            "imageName": "Salt",
+            "origins": [
+              "India"
+            ]
+          },
+          "zh": {
+            "imageName": "盐",
+            "origins": [
+              "印度"
+            ]
+          },
+          "si": {
+            "imageName": "ලුණු",
+            "origins": [
+              "ඉන්දියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/EdibleOilsSugarAdditives/citric-acid.png",
+          "en": {
+            "imageName": "Citric Acid",
+            "origins": [
+              "China"
+            ]
+          },
+          "zh": {
+            "imageName": "柠檬酸",
+            "origins": [
+              "中国"
+            ]
+          },
+          "si": {
+            "imageName": "සිට්‍රික් අම්ලය",
+            "origins": [
+              "චීනය"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/EdibleOilsSugarAdditives/sodium-bicarbonate.png",
+          "en": {
+            "imageName": "Sodium Bicarbonate",
+            "origins": [
+              "China"
+            ]
+          },
+          "zh": {
+            "imageName": "碳酸氢钠",
+            "origins": [
+              "中国"
+            ]
+          },
+          "si": {
+            "imageName": "සෝඩියම් බයිකාබනේට්",
+            "origins": [
+              "චීනය"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/EdibleOilsSugarAdditives/ammonium-bicarbonate.png",
+          "en": {
+            "imageName": "Ammonium Bicarbonate",
+            "origins": [
+              "China"
+            ]
+          },
+          "zh": {
+            "imageName": "碳酸氢铵",
+            "origins": [
+              "中国"
+            ]
+          },
+          "si": {
+            "imageName": "අමෝනියම් බයිකාබනේට්",
+            "origins": [
+              "චීනය"
+            ]
+          }
+        }
+      ]
+    },
+    "freshVegetablesDryFruits": {
+      "en": {
+        "category": "Fresh Vegetables & Dry Fruits",
+        "assetName": "FreshVegetablesDryFruits"
+      },
+      "zh": {
+        "category": "新鲜蔬菜与干果",
+        "assetName": "FreshVegetablesDryFruits"
+      },
+      "si": {
+        "category": "නැවුම් එළවළු සහ වියළි පලතුරු",
+        "assetName": "FreshVegetablesDryFruits"
+      },
+      "items": [
+        {
+          "imagePath": "/assets/products/Import/FreshVegetablesDryFruits/big-onion.png",
+          "en": {
+            "imageName": "Big Onion",
+            "origins": [
+              "China",
+              "India",
+              "Pakistan",
+              "Egypt",
+              "Holland",
+              "Spain"
+            ]
+          },
+          "zh": {
+            "imageName": "大洋葱",
+            "origins": [
+              "中国",
+              "印度",
+              "巴基斯坦",
+              "埃及",
+              "荷兰",
+              "西班牙"
+            ]
+          },
+          "si": {
+            "imageName": "විශාල ලූනු",
+            "origins": [
+              "චීනය",
+              "ඉන්දියාව",
+              "පාකිස්තානය",
+              "ඊජිප්තුව",
+              "හොලන්තය",
+              "ස්පාඤ්ඤය"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/FreshVegetablesDryFruits/potato.png",
+          "en": {
+            "imageName": "Potato",
+            "origins": [
+              "Pakistan",
+              "China",
+              "India",
+              "Bangladesh",
+              "Holland"
+            ]
+          },
+          "zh": {
+            "imageName": "土豆",
+            "origins": [
+              "巴基斯坦",
+              "中国",
+              "印度",
+              "孟加拉国",
+              "荷兰"
+            ]
+          },
+          "si": {
+            "imageName": "අල",
+            "origins": [
+              "පාකිස්තානය",
+              "චීනය",
+              "ඉන්දියාව",
+              "බංග්ලාදේශය",
+              "හොලන්තය"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/FreshVegetablesDryFruits/red-onion.png",
+          "en": {
+            "imageName": "Red Onion",
+            "origins": [
+              "Thailand",
+              "India",
+              "China"
+            ]
+          },
+          "zh": {
+            "imageName": "红洋葱",
+            "origins": [
+              "泰国",
+              "印度",
+              "中国"
+            ]
+          },
+          "si": {
+            "imageName": "රතු ලූනු",
+            "origins": [
+              "තායිලන්තය",
+              "ඉන්දියාව",
+              "චීනය"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/FreshVegetablesDryFruits/garlic-normal-white.png",
+          "en": {
+            "imageName": "Normal White Garlic",
+            "origins": [
+              "China",
+              "Pakistan",
+              "Iran",
+              "India"
+            ]
+          },
+          "zh": {
+            "imageName": "普通白大蒜",
+            "origins": [
+              "中国",
+              "巴基斯坦",
+              "伊朗",
+              "印度"
+            ]
+          },
+          "si": {
+            "imageName": "සාමාන්‍ය සුදු සුදුලූණු",
+            "origins": [
+              "චීනය",
+              "පාකිස්තානය",
+              "ඉරානය",
+              "ඉන්දියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/FreshVegetablesDryFruits/garlic-pure-white.png",
+          "en": {
+            "imageName": "Pure White Garlic",
+            "origins": [
+              "China",
+              "Pakistan",
+              "Iran",
+              "India"
+            ]
+          },
+          "zh": {
+            "imageName": "纯白大蒜",
+            "origins": [
+              "中国",
+              "巴基斯坦",
+              "伊朗",
+              "印度"
+            ]
+          },
+          "si": {
+            "imageName": "සුදු සුදු සුදුලූණු",
+            "origins": [
+              "චීනය",
+              "පාකිස්තානය",
+              "ඉරානය",
+              "ඉන්දියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/FreshVegetablesDryFruits/dates.png",
+          "en": {
+            "imageName": "Dates",
+            "origins": [
+              "UAE",
+              "Saudi Arabia",
+              "Iran"
+            ]
+          },
+          "zh": {
+            "imageName": "枣",
+            "origins": [
+              "阿联酋",
+              "沙特阿拉伯",
+              "伊朗"
+            ]
+          },
+          "si": {
+            "imageName": "ඛජූර",
+            "origins": [
+              "එක්සත් එමිර් රාජ්‍යය",
+              "සෞදි අරාබිය",
+              "ඉරානය"
+            ]
+          }
+        }
+      ]
+    },
+    "seafoodCannedNonFood": {
+      "en": {
+        "category": "Seafood, Canned Products & Non-Food Commodities",
+        "assetName": "SeafoodCannedNonFood"
+      },
+      "zh": {
+        "category": "海鲜、罐头产品与非食品商品",
+        "assetName": "SeafoodCannedNonFood"
+      },
+      "si": {
+        "category": "මුහුදු ආහාර, ටින්කළ නිෂ්පාදන සහ ආහාර නොවන භාණ්ඩ",
+        "assetName": "SeafoodCannedNonFood"
+      },
+      "items": [
+        {
+          "imagePath": "/assets/products/Import/SeafoodCannedNonFood/dry-sprats.png",
+          "en": {
+            "imageName": "Dry Sprats",
+            "origins": [
+              "Thailand",
+              "Iran"
+            ]
+          },
+          "zh": {
+            "imageName": "干鱼苗",
+            "origins": [
+              "泰国",
+              "伊朗"
+            ]
+          },
+          "si": {
+            "imageName": "වියළි හාල්මැස්සෝ",
+            "origins": [
+              "තායිලන්තය",
+              "ඉරානය"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/SeafoodCannedNonFood/canned-fish-jayafish.png",
+          "en": {
+            "imageName": "Canned Fish – JAYAFISH",
+            "origins": [
+              "Chile"
+            ]
+          },
+          "zh": {
+            "imageName": "罐头鱼 – JAYAFISH",
+            "origins": [
+              "智利"
+            ]
+          },
+          "si": {
+            "imageName": "ටින් මාළු – JAYAFISH",
+            "origins": [
+              "චිලී"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/SeafoodCannedNonFood/used-newspaper.png",
+          "en": {
+            "imageName": "Used Newspaper",
+            "origins": [
+              "Indonesia"
+            ]
+          },
+          "zh": {
+            "imageName": "旧报纸",
+            "origins": [
+              "印度尼西亚"
+            ]
+          },
+          "si": {
+            "imageName": "පරණ පුවත්පත",
+            "origins": [
+              "ඉන්දුනීසියාව"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Import/SeafoodCannedNonFood/juteyarn-3ply.png",
+          "en": {
+            "imageName": "JUDIYAN (Jute Yarn) - 1/3 ply",
+            "origins": [
+              "Bangladesh"
+            ]
+          },
+          "zh": {
+            "imageName": "JUDIYAN（黄麻纱）- 1/3股",
+            "origins": [
+              "孟加拉国"
+            ]
+          },
+          "si": {
+            "imageName": "JUDIYAN (ජූට් නූල්) - 1/3 ply",
+            "origins": [
+              "බංග්ලාදේශය"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "export": {
+    "spices": {
+      "en": {
+        "category": "Spices",
+        "assetName": "Spices"
+      },
+      "zh": {
+        "category": "香料",
+        "assetName": "Spices"
+      },
+      "si": {
+        "category": "මසාලා",
+        "assetName": "Spices"
+      },
+      "items": [
+        {
+          "imagePath": "/assets/products/Export/Spices/Black Pepper.png",
+          "en": {
+            "imageName": "Black Pepper",
+            "origins": [
+              "Sri Lanka"
+            ]
+          },
+          "si": {
+            "imageName": "කළු ගම්මිරිස්",
+            "origins": [
+              "ශ්‍රී ලංකාව"
+            ]
+          },
+          "zh": {
+            "imageName": "黑胡椒",
+            "origins": [
+              "斯里兰卡"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Export/Spices/Cinnamon.jpeg",
+          "en": {
+            "imageName": "Cinnamon",
+            "origins": [
+              "Sri Lanka"
+            ]
+          },
+          "si": {
+            "imageName": "කුරුඳු",
+            "origins": [
+              "ශ්‍රී ලංකාව"
+            ]
+          },
+          "zh": {
+            "imageName": "肉桂",
+            "origins": [
+              "斯里兰卡"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Export/Spices/Dry Chilli.png",
+          "en": {
+            "imageName": "Dry Chilli",
+            "origins": [
+              "Sri Lanka"
+            ]
+          },
+          "si": {
+            "imageName": "වියළි මිරිස්",
+            "origins": [
+              "ශ්‍රී ලංකාව"
+            ]
+          },
+          "zh": {
+            "imageName": "干辣椒",
+            "origins": [
+              "斯里兰卡"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Export/Spices/Cumin Seeds.png",
+          "en": {
+            "imageName": "Cumin Seeds",
+            "origins": [
+              "Sri Lanka"
+            ]
+          },
+          "si": {
+            "imageName": "සුදු කුමුන් බීජ",
+            "origins": [
+              "ශ්‍රී ලංකාව"
+            ]
+          },
+          "zh": {
+            "imageName": "孜然种子",
+            "origins": [
+              "斯里兰卡"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Export/Spices/Fenugreek Seeds.png",
+          "en": {
+            "imageName": "Fenugreek Seeds",
+            "origins": [
+              "Sri Lanka"
+            ]
+          },
+          "si": {
+            "imageName": "උළුහාල් බීජ",
+            "origins": [
+              "ශ්‍රී ලංකාව"
+            ]
+          },
+          "zh": {
+            "imageName": "胡芦巴种子",
+            "origins": [
+              "斯里兰卡"
+            ]
+          }
+        }
+      ]
+    },
+    "coconutProducts": {
+      "en": {
+        "category": "Coconut & Coconut-based Products",
+        "assetName": "CoconutProducts"
+      },
+      "zh": {
+        "category": "椰子与椰子制品",
+        "assetName": "CoconutProducts"
+      },
+      "si": {
+        "category": "පොල් සහ පොල් පදනම් කරගත් නිෂ්පාදන",
+        "assetName": "CoconutProducts"
+      },
+      "items": [
+        {
+          "imagePath": "/assets/products/Export/CoconutProducts/King Coconut.png",
+          "en": {
+            "imageName": "King Coconut",
+            "origins": [
+              "Sri Lanka"
+            ]
+          },
+          "si": {
+            "imageName": "තඹිලි",
+            "origins": [
+              "ශ්‍රී ලංකාව"
+            ]
+          },
+          "zh": {
+            "imageName": "王椰子",
+            "origins": [
+              "斯里兰卡"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Export/CoconutProducts/Fresh Coconut.png",
+          "en": {
+            "imageName": "Fresh Coconut",
+            "origins": [
+              "Sri Lanka"
+            ]
+          },
+          "si": {
+            "imageName": "නැවුම් පොල්",
+            "origins": [
+              "ශ්‍රී ලංකාව"
+            ]
+          },
+          "zh": {
+            "imageName": "新鲜椰子",
+            "origins": [
+              "斯里兰卡"
+            ]
+          }
+        }
+      ]
+    },
+    "freshProducePulses": {
+      "en": {
+        "category": "Fresh Produce & Pulses",
+        "assetName": "FreshProducePulses"
+      },
+      "zh": {
+        "category": "新鲜农产品与豆类",
+        "assetName": "FreshProducePulses"
+      },
+      "si": {
+        "category": "නැවුම් නිෂ්පාදන සහ පලාන්තු",
+        "assetName": "FreshProducePulses"
+      },
+      "items": [
+        {
+          "imagePath": "/assets/products/Export/FreshProducePulses/Papaya.png",
+          "en": {
+            "imageName": "Papaya",
+            "origins": [
+              "Sri Lanka"
+            ]
+          },
+          "si": {
+            "imageName": "පැපොල්",
+            "origins": [
+              "ශ්‍රී ලංකාව"
+            ]
+          },
+          "zh": {
+            "imageName": "木瓜",
+            "origins": [
+              "斯里兰卡"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Export/FreshProducePulses/Tapioca.png",
+          "en": {
+            "imageName": "Tapioca",
+            "origins": [
+              "Sri Lanka"
+            ]
+          },
+          "si": {
+            "imageName": "මැණික",
+            "origins": [
+              "ශ්‍රී ලංකාව"
+            ]
+          },
+          "zh": {
+            "imageName": "木薯",
+            "origins": [
+              "斯里兰卡"
+            ]
+          }
+        },
+        {
+          "imagePath": "/assets/products/Export/FreshProducePulses/Chickpeas.png",
+          "en": {
+            "imageName": "Chickpeas",
+            "origins": [
+              "Sri Lanka"
+            ]
+          },
+          "si": {
+            "imageName": "කාබුලි කඩල",
+            "origins": [
+              "ශ්‍රී ලංකාව"
+            ]
+          },
+          "zh": {
+            "imageName": "鹰嘴豆",
+            "origins": [
+              "斯里兰卡"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

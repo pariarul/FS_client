@@ -1,0 +1,95 @@
+{
+  "heading": {
+    "en": "Supplying Quality Worldwide",
+    "zh": "全球供應優質產品",
+    "si": "ලොව පුරා ගුණාත්මකව සැපයීම"
+  },
+  "description": {
+    "en": "Explore our diverse product categories, from essential foods to household goods, imported and exported with care to ensure premium quality, reliability, and value in every delivery.",
+    "zh": "探索我們多樣化的產品類別，從必需食品到家居用品，我們以嚴謹態度進出口，確保每一次交付都具備優質品質、可靠性和價值。",
+    "si": "සෑම බෙදාහැරීමකදීම උසස් තත්ත්වය, විශ්වසනීයත්වය සහ වටිනාකම සහතික කිරීම සඳහා අත්‍යවශ්‍ය ආහාරවල සිට ගෘහ භාණ්ඩ දක්වා, ප්‍රවේශමෙන් ආනයනය කර අපනයනය කරන අපගේ විවිධ නිෂ්පාදන කාණ්ඩ ගවේෂණය කරන්න."
+  },
+  "categories": [
+    {
+      "id": "category-1",
+      "name": {
+        "en": "Rice, Grains & Flour",
+        "zh": "米、穀物與麵粉",
+        "si": "සහල්, ධාන්‍ය සහ පිටි"
+      },
+      "imagePath": "/assets/home/categories/Rice, Grains & Flour.jpg"
+    },
+    {
+      "id": "category-2",
+      "name": {
+        "en": "Pulses, Lentils & Legumes",
+        "zh": "豆類、扁豆與豆科植物",
+        "si": "පරිප්පු, පරිප්පු සහ රනිල කුලයට අයත් බෝග"
+      },
+      "imagePath": "/assets/home/categories/Pulses, Lentils & Legumes.webp"
+    },
+    {
+      "id": "category-3",
+      "name": {
+        "en": "Spices & Seeds",
+        "zh": "香料與種子",
+        "si": "කුළුබඩු සහ බීජ"
+      },
+      "imagePath": "/assets/home/categories/Spices & Seeds.webp"
+    },
+    {
+      "id": "category-4",
+      "name": {
+        "en": "Edible Oils, Sugar & Food Additives",
+        "zh": "食用油、糖與食品添加劑",
+        "si": "ආහාරයට ගත හැකි තෙල්, සීනි සහ ආහාර ආකලන"
+      },
+      "imagePath": "/assets/home/categories/Edible Oils, Sugar & Food Additives.jpg"
+    },
+    {
+      "id": "category-5",
+      "name": {
+        "en": "Fresh Vegetables & Dry Fruits",
+        "zh": "新鮮蔬菜與乾果",
+        "si": "නැවුම් එළවළු සහ වියළි පලතුරු"
+      },
+      "imagePath": "/assets/home/categories/Fresh Vegetables & Dry Fruits.jpeg"
+    },
+    {
+      "id": "category-6",
+      "name": {
+        "en": "Seafood, Canned Products & Non-Food Commodities",
+        "zh": "海鮮、罐頭產品與非食品商品",
+        "si": "මුහුදු ආහාර, ටින් කළ නිෂ්පාදන සහ ආහාර නොවන වෙළඳ භාණ්ඩ"
+      },
+      "imagePath": "/assets/home/categories/Seafood, Canned Products & Non-Food Commodities.jpg"
+    },
+    {
+      "id": "category-7",
+      "name": {
+        "en": "Spices",
+        "zh": "香料",
+        "si": "කුළුබඩු"
+      },
+      "imagePath": "/assets/home/categories/Spices.webp"
+    },
+    {
+      "id": "category-8",
+      "name": {
+        "en": "Coconut & Coconut-based Products",
+        "zh": "椰子與椰子製品",
+        "si": "පොල් සහ පොල් ආශ්‍රිත නිෂ්පාදන"
+      },
+      "imagePath": "/assets/home/categories/Coconut Products.webp"
+    },
+    {
+      "id": "category-9",
+      "name": {
+        "en": "Fresh Produce & Pulses",
+        "zh": "新鮮農產品與豆類",
+        "si": "නැවුම් නිෂ්පාදන සහ ධාන්‍ය වර්ග"
+      },
+      "imagePath": "/assets/home/categories/Fresh Produce & Pulses.webp"
+    }
+  ]
+}

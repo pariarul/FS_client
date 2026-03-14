@@ -1,0 +1,384 @@
+{
+  "heading": {
+    "en": "Privacy Policy",
+    "zh": "隐私政策",
+    "si": "පුද්ගලිකතා ප්‍රතිපත්තිය"
+  },
+  "sections": [
+    {
+      "id": "section-1",
+      "en": {
+        "title": "1. Introduction",
+        "order1_description": "At FS Traders (Pvt) Ltd (“FS Traders” “we” “our” or “us”) we respect your privacy and are committed to protecting your personal information. ",
+        "order2_description": "This Privacy Policy explains how we collect use and safeguard data when you visit or use our website. By accessing or using this website you agree to the practices described in this Policy. We encourage you to read it carefully."
+      },
+      "zh": {
+        "title": "1. 介绍",
+        "order1_description": "在 FS Traders (Pvt) Ltd（以下简称“FS Traders”、“我们”或“我们的”），我们尊重您的隐私并致力于保护您的个人信息。",
+        "order2_description": "本隐私政策解释了当您访问或使用我们的网站时，我们如何收集、使用和保护数据。 通过访问或使用本网站，您同意本政策中描述的做法。 我们鼓励您仔细阅读。"
+      },
+      "si": {
+        "title": "1. හැඳින්වීම",
+        "order1_description": "FS Traders (Pvt) Ltd (“FS Traders” “අපි” “අපගේ” හෝ “අප”) හිදී අපි ඔබගේ පෞද්ගලිකත්වයට ගරු කරන අතර ඔබගේ පුද්ගලික තොරතුරු ආරක්ෂා කිරීමට කැපවී සිටිමු.",
+        "order2_description": "මෙම රහස්‍යතා ප්‍රතිපත්තිය ඔබ අපගේ වෙබ් අඩවියට පිවිසෙන විට හෝ භාවිතා කරන විට අපි දත්ත රැස් කරන්නේ, භාවිතා කරන්නේ සහ ආරක්ෂා කරන්නේ කෙසේද යන්න පැහැදිලි කරයි. මෙම වෙබ් අඩවියට පිවිසීමෙන් හෝ භාවිතා කිරීමෙන්, ඔබ මෙම ප්‍රතිපත්තියේ විස්තර කර ඇති භාවිතයන්ට එකඟ වේ. එය හොඳින් කියවන ලෙස අපි ඔබව දිරිමත් කරමු."
+      }
+    },
+    {
+      "id": "section-2",
+      "en": {
+        "title": "2. Information We Collect",
+        "order1_description": "We collect information in two main ways: ",
+        "order2_description": "a) Information you provide to us ",
+        "order3_description": "When you interact with our website you may voluntarily provide personal or business \ninformation including:",
+        "order4_points": [
+          "Name",
+          "Email address ",
+          "Phone number ",
+          "Address ",
+          "Business name",
+          "Import/export or product-related details"
+        ],
+        "order5_description": "This information is usually collected through:",
+        "order6_points": [
+          "Contact forms ",
+          "Supplier registration forms ",
+          "Other inquiry or feedback forms"
+        ],
+        "order7_description": "We use this information to identify you respond to your inquiries and communicate with you for \nbusiness purposes.",
+        "order8_description": "b) Information collected automatically (Google Analytics) ",
+        "order9_description": "We use Google Analytics to collect non-personal aggregated data such as: ",
+        "order10_points": [
+          "IP address ",
+          "Browser type and version ",
+          "Device type ",
+          "Pages visited and time spent on the site",
+          "General website usage statistics"
+        ],
+        "order11_description": "This information helps us understand how visitors use our website so we can improve performance and user experience. It does not directly identify you as an individual."
+      },
+      "zh": {
+        "title": "2. 我们收集的信息",
+        "order1_description": "我们主要通过两种方式收集信息：",
+        "order2_description": "a) 您提供给我们的信息",
+        "order3_description": "当您与我们的网站互动时，您可能会自愿提供个人或商业信息，包括：",
+        "order4_points": [
+          "姓名",
+          "电子邮件地址",
+          "电话号码",
+          "地址",
+          "公司名称",
+          "进出口或产品相关详细信息"
+        ],
+        "order5_description": "这些信息通常通过以下方式收集：",
+        "order6_points": [
+          "联系表格",
+          "供应商注册表格",
+          "其他咨询或反馈表格"
+        ],
+        "order7_description": "我们使用这些信息来识别您的身份、回复您的咨询并出于商业目的与您沟通。",
+        "order8_description": "b) 自动收集的信息（Google Analytics）",
+        "order9_description": "我们使用Google Analytics收集非个人汇总数据，例如：",
+        "order10_points": [
+          "IP地址",
+          "浏览器类型和版本",
+          "设备类型",
+          "访问的页面和在网站上花费的时间",
+          "一般网站使用情况统计"
+        ],
+        "order11_description": "这些信息帮助我们了解访问者如何使用我们的网站，以便我们改进性能和用户体验。 它不会直接将您识别为个人。"
+      },
+      "si": {
+        "title": "2. අප රැස් කරන තොරතුරු",
+        "order1_description": "අපි ප්‍රධාන ක්‍රම දෙකකින් තොරතුරු රැස් කරන්නෙමු:",
+        "order2_description": "a) ඔබ අපට සපයන තොරතුරු",
+        "order3_description": "ඔබ අපගේ වෙබ් අඩවිය සමඟ අන්තර් ක්‍රියා කරන විට, ඔබට ස්වේච්ඡාවෙන් පුද්ගලික හෝ ව්‍යාපාරික තොරතුරු සැපයිය හැක, ඒවාට ඇතුළත් වන්නේ:",
+        "order4_points": [
+          "නම",
+          "විද්‍යුත් තැපැල් ලිපිනය",
+          "දුරකථන අංකය",
+          "ලිපිනය",
+          "ව්‍යාපාර නාමය",
+          "ආනයන/අපනයන හෝ නිෂ්පාදන-සම්බන්ධ විස්තර"
+        ],
+        "order5_description": "මෙම තොරතුරු සාමාන්‍යයෙන් පහත සඳහන් දේ හරහා රැස් කරනු ලැබේ:",
+        "order6_points": [
+          "සම්බන්ධතා පෝරම",
+          "සැපයුම්කරු ලියාපදිංචි කිරීමේ පෝරම",
+          "වෙනත් විමසීම් හෝ ප්‍රතිපෝෂණ පෝරම"
+        ],
+        "order7_description": "අපි මෙම තොරතුරු ඔබව හඳුනා ගැනීමට, ඔබගේ විමසීම් වලට ප්‍රතිචාර දැක්වීමට සහ ව්‍යාපාරික කටයුතු සඳහා ඔබ සමඟ සන්නිවේදනය කිරීමට භාවිතා කරමු.",
+        "order8_description": "b) ස්වයංක්‍රීයව රැස් කරන තොරතුරු (Google Analytics)",
+        "order9_description": "අපි පුද්ගල නොවන සමස්ත දත්ත රැස් කිරීමට Google Analytics භාවිතා කරමු, එනම්:",
+        "order10_points": [
+          "IP ලිපිනය",
+          "බ්‍රව්සර වර්ගය සහ අනුවාදය",
+          "උපාංග වර්ගය",
+          "නරඹන ලද පිටු සහ වෙබ් අඩවියේ ගත කළ කාලය",
+          "සාමාන්‍ය වෙබ් අඩවි භාවිත සංඛ්‍යාලේඛන"
+        ],
+        "order11_description": "අමුත්තන් අපගේ වෙබ් අඩවිය භාවිතා කරන්නේ කෙසේද යන්න තේරුම් ගැනීමට මෙම තොරතුරු අපට උපකාරී වන අතර එමඟින් අපට කාර්ය සාධනය සහ පරිශීලක අත්දැකීම වැඩිදියුණු කළ හැකිය. එය ඔබව තනි පුද්ගලයෙකු ලෙස සෘජුවම හඳුනා නොගනී."
+      }
+    },
+    {
+      "id": "section-3",
+      "en": {
+        "title": "3. How We Use Your Information ",
+        "order1_description": "We use the information we collect to: ",
+        "order2_points": [
+          "Respond to your inquiries and requests ",
+          "Verify supplier and business information ",
+          "Communicate with you regarding potential or ongoing business relationships ",
+          "Review and process supplier registrations ",
+          "Improve our website’s content, layout, and performance ",
+          "Analyse usage trends through Google Analytics "
+        ],
+        "order3_description": "We do not sell rent or trade your personal information to third parties for marketing or commercial gain. ",
+        "order4_description": "Your information may be shared:",
+        "order5_points": [
+          "Internally within FS Traders for business purposes ",
+          "With trusted service providers (such as website hosting or analytics providers) who  support our operations, only when necessary and under appropriate confidentiality  conditions "
+        ]
+      },
+      "zh": {
+        "title": "3. 我们如何使用您的信息",
+        "order1_description": "我们使用收集的信息来：",
+        "order2_points": [
+          "回复您的询问和请求",
+          "验证供应商和商业信息",
+          "与您沟通潜在或持续的业务关系",
+          "审查和处理供应商注册",
+          "改进我们网站的内容、布局和性能",
+          "通过 Google Analytics 分析使用趋势"
+        ],
+        "order3_description": "我们不会出于营销或商业利益向第三方出售、出租或交易您的个人信息。",
+        "order4_description": "您的信息可能会被分享：",
+        "order5_points": [
+          "FS Traders 内部用于商业目的",
+          "与支持我们运营的可信服务提供商（例如网站托管或分析提供商）共享，仅在必要时并在适当的保密条件下进行"
+        ]
+      },
+      "si": {
+        "title": "3. අපි ඔබගේ තොරතුරු භාවිතා කරන ආකාරය",
+        "order1_description": "අපි රැස්කරන තොරතුරු පහත සඳහන් දේ සඳහා භාවිතා කරමු:",
+        "order2_points": [
+          "ඔබගේ විමසීම් සහ ඉල්ලීම් වලට ප්‍රතිචාර දැක්වීම",
+          "සැපයුම්කරු සහ ව්‍යාපාරික තොරතුරු සත්‍යාපනය කිරීම",
+          "විය හැකි හෝ දැනට පවතින ව්‍යාපාරික සබඳතා සම්බන්ධයෙන් ඔබ සමඟ සන්නිවේදනය කිරීම",
+          "සැපයුම්කරු ලියාපදිංචි කිරීම් සමාලෝචනය කිරීම සහ සැකසීම",
+          "අපගේ වෙබ් අඩවියේ අන්තර්ගතය, සැකැස්ම සහ ක්‍රියාකාරිත්වය වැඩි දියුණු කිරීම",
+          "Google Analytics හරහා භාවිත ප්‍රවණතා විශ්ලේෂණය කිරීම"
+        ],
+        "order3_description": "අපි ඔබේ පුද්ගලික තොරතුරු අලෙවිකරණ හෝ වාණිජමය ලාභයක් සඳහා තෙවන පාර්ශවයකට විකුණන්නේ, කුලියට දෙන්නේ හෝ හුවමාරු කරන්නේ නැත.",
+        "order4_description": "ඔබගේ තොරතුරු බෙදාගැනීමට ඉඩ ඇත්තේ:",
+        "order5_points": [
+          "ව්යාපාරික කටයුතු සඳහා FS Traders තුළ අභ්යන්තරව",
+          "අපගේ මෙහෙයුම් සඳහා සහාය වන විශ්වාසදායක සේවා සපයන්නන් සමඟ (වෙබ් අඩවි සත්කාරක හෝ විශ්ලේෂණ සපයන්නන් වැනි), අවශ්‍ය විට පමණක් සහ සුදුසු රහස්‍යතා කොන්දේසි යටතේ"
+        ]
+      }
+    },
+    {
+      "id": "section-4",
+      "en": {
+        "title": "4. Google Analytics ",
+        "order1_description": "Our website uses Google Analytics a web analytics service provided by Google. Google Analytics collects non-identifiable information such as your IP address browser type and the pages you visit on our site. ",
+        "order2_description": "This data is processed in accordance with Google’s own privacy policies which you can review at: ",
+        "order3_description": "https://policies.google.com/privacy ",
+        "order4_description": "We use this information in aggregate form to: ",
+        "order5_points": [
+          "Understand how visitors interact with our website",
+          "Identify which pages are most or least used ",
+          "Make improvements to design, structure, and content "
+        ],
+        "order6_description": "All analysis is statistical and not used to personally identify individual visitors. "
+      },
+      "zh": {
+        "title": "4. Google Analytics（谷歌分析）",
+        "order1_description": "我们的网站使用 Google Analytics，这是一款由 Google 提供的网站分析服务。Google Analytics 收集非身份识别信息，例如您的 IP 地址、浏览器类型以及您在我们网站上访问的页面。",
+        "order2_description": "此数据根据 Google 自身的隐私政策进行处理，您可以在以下网址查看该政策：",
+        "order3_description": "https://policies.google.com/privacy",
+        "order4_description": "我们以汇总形式使用此信息来：",
+        "order5_points": [
+          "了解访问者如何与我们的网站互动",
+          "确定哪些页面使用最多或最少",
+          "改进设计、结构和内容"
+        ],
+        "order6_description": "所有分析均为统计性的，不会用于个人识别单个访客。"
+      },
+      "si": {
+        "title": "4. Google Analytics",
+        "order1_description": "අපගේ වෙබ් අඩවිය Google විසින් සපයනු ලබන වෙබ් විශ්ලේෂණ සේවාවක් වන Google Analytics භාවිතා කරයි. Google Analytics ඔබගේ IP ලිපිනය, බ්‍රව්සර වර්ගය සහ අපගේ වෙබ් අඩවියේ ඔබ නරඹන පිටු වැනි හඳුනාගත නොහැකි තොරතුරු රැස් කරයි.",
+        "order2_description": "මෙම දත්ත Google හිම රහස්‍යතා ප්‍රතිපත්තිවලට අනුකූලව සකසනු ලබන අතර, ඔබට ඒවා මෙතැනින් සමාලෝචනය කළ හැකිය:",
+        "order3_description": "https://policies.google.com/privacy",
+        "order4_description": "අපි මෙම තොරතුරු සමස්ත ස්වරූපයෙන් භාවිතා කරන්නේ:",
+        "order5_points": [
+          "අපගේ වෙබ් අඩවිය සමඟ අමුත්තන් අන්තර් ක්‍රියා කරන ආකාරය තේරුම් ගැනීම",
+          "වැඩිපුරම හෝ අවම වශයෙන් භාවිතා වන පිටු හඳුනා ගැනීම",
+          "නිර්මාණය, ව්‍යුහය සහ අන්තර්ගතය වැඩිදියුණු කිරීම"
+        ],
+        "order6_description": "සියලුම විශ්ලේෂණයන් සංඛ්‍යානමය වන අතර පුද්ගලිකව තනි අමුත්තන් හඳුනා ගැනීමට භාවිතා නොවේ."
+      }
+    },
+    {
+      "id": "section-5",
+      "en": {
+        "title": "5. Data Security ",
+        "order1_description": "We take reasonable technical and organisational measures to protect your personal information against: ",
+        "order2_points": [
+          "Unauthorised access ",
+          "Misuse or alteration",
+          "Loss or destruction"
+        ],
+        "order3_description": "Our systems are periodically reviewed and monitored. However no method of transmission over the internet or electronic storage is completely secure. While we strive to protect your data we cannot guarantee absolute security."
+      },
+      "zh": {
+        "title": "5. 数据安全",
+        "order1_description": "我们采取合理的技术和组织措施来保护您的个人信息，防止：",
+        "order2_points": [
+          "未经授权的访问",
+          "滥用或篡改",
+          "丢失或销毁"
+        ],
+        "order3_description": "我们的系统会定期审查和监控。然而，没有任何通过互联网传输或电子存储的方法是完全安全的。虽然我们努力保护您的数据，但我们不能保证绝对安全。"
+      },
+      "si": {
+        "title": "5. දත්ත සුරක්ෂිතතාව",
+        "order1_description": "ඔබගේ පුද්ගලික තොරතුරු පහත සඳහන් දේවලින් ආරක්ෂා කිරීමට සාධාරණ තාක්ෂණික සහ සංවිධානාත්මක පියවර අපි ගන්නෙමු:",
+        "order2_points": [
+          "අනවසර ප්‍රවේශය",
+          "අනිසි භාවිතය හෝ වෙනස් කිරීම",
+          "අහිමි වීම හෝ විනාශ වීම"
+        ],
+        "order3_description": "අපගේ පද්ධති වරින් වර සමාලෝචනය කර නිරීක්ෂණය කරනු ලැබේ. කෙසේ වෙතත්, අන්තර්ජාලය හරහා සම්ප්‍රේෂණය කිරීමේ හෝ ඉලෙක්ට්‍රොනික ගබඩා කිරීමේ කිසිදු ක්‍රමයක් සම්පූර්ණයෙන්ම ආරක්ෂිත නොවේ. ඔබගේ දත්ත ආරක්ෂා කිරීමට අපි උත්සාහ කරන අතරම, අපට නිරපේක්ෂ ආරක්ෂාව සහතික කළ නොහැක."
+      }
+    },
+    {
+      "id": "section-6",
+      "en": {
+        "title": "6. Data Retention ",
+        "order1_description": "We retain your personal information only for as long as necessary to:",
+        "order2_points": [
+          "Fulfil the purposes described in this Privacy Policy, or ",
+          "Comply with applicable legal, regulatory, or business requirements "
+        ],
+        "order3_description": "When data is no longer required we will delete it securely or anonymise it so it can no longer be linked to you."
+      },
+      "zh": {
+        "title": "6. 数据保留",
+        "order1_description": "我们仅在以下必要期限内保留您的个人信息：",
+        "order2_points": [
+          "实现本隐私政策中描述的目的",
+          "遵守适用的法律、法规或业务要求"
+        ],
+        "order3_description": "当不再需要数据时，我们将安全地删除它或对其进行匿名化处理，使其不再与您相关联。"
+      },
+      "si": {
+        "title": "6. දත්ත රඳවා තබා ගැනීම",
+        "order1_description": "අප ඔබේ පුද්ගලික තොරතුරු රඳවා තබා ගන්නේ පහත සඳහන් දේ සඳහා අවශ්‍ය කාලය සඳහා පමණි:",
+        "order2_points": [
+          "මෙම රහස්‍යතා ප්‍රතිපත්තියේ විස්තර කර ඇති අරමුණු ඉටු කිරීම සඳහා, හෝ",
+          "අදාළ නීතිමය, නියාමන හෝ ව්‍යාපාර අවශ්‍යතා සපුරාලීම සඳහා"
+        ],
+        "order3_description": "දත්ත තවදුරටත් අවශ්‍ය නොවන විට, අපි එය ආරක්ෂිතව මකා දමන්නෙමු, නැතහොත් එය ඔබ වෙත සම්බන්ධ කළ නොහැකි වන පරිදි නිර්නාමික කරන්නෙමු."
+      }
+    },
+    {
+      "id": "section-7",
+      "en": {
+        "title": "7. Your Rights ",
+        "order1_description": "Subject to applicable laws you may have the right to: ",
+        "order2_points": [
+          " Request access to the personal data we hold about you ",
+          "Request corrections if your information is inaccurate or incomplete ",
+          "Request deletion of your personal data, where appropriate ",
+          "Withdraw consent to processing, where processing is based on consent "
+        ],
+        "order3_description": "To exercise any of these rights please contact us using the details provided below. We may need to verify your identity before processing your request. "
+      },
+      "zh": {
+        "title": "7. 您的权利",
+        "order1_description": "在适用法律允许的范围内，您可能拥有以下权利：",
+        "order2_points": [
+          "请求访问我们持有的关于您的个人数据",
+          "如果您的信息不准确或不完整，请求更正",
+          "在适当的情况下，请求删除您的个人数据",
+          "撤回对处理的同意，如果处理基于同意"
+        ],
+        "order3_description": "要行使这些权利中的任何一项，请使用下面提供的详细信息与我们联系。 在处理您的请求之前，我们可能需要验证您的身份。"
+      },
+      "si": {
+        "title": "7. ඔබේ අයිතිවාසිකම්",
+        "order1_description": "අදාළ නීතිවලට යටත්ව ඔබට පහත සඳහන් අයිතිවාසිකම් තිබිය හැක:",
+        "order2_points": [
+          "අප ඔබ පිළිබඳව තබා ඇති පුද්ගලික දත්ත වෙත ප්‍රවේශ වීමට ඉල්ලා සිටීම",
+          "ඔබගේ තොරතුරු සාවද්‍ය හෝ අසම්පූර්ණ නම්, නිවැරදි කිරීම් ඉල්ලා සිටීම",
+          "සුදුසු තැන් වලදී, ඔබගේ පුද්ගලික දත්ත මකා දැමීමට ඉල්ලා සිටීම",
+          "සැකසීම කැමැත්ත මත පදනම් වූ විට, සැකසීමට දුන් කැමැත්ත ඉල්ලා අස්කර ගැනීම"
+        ],
+        "order3_description": "මෙම අයිතිවාසිකම්වලින් ඕනෑම එකක් ක්‍රියාත්මක කිරීමට කරුණාකර පහත දක්වා ඇති විස්තර භාවිතා කර අප හා සම්බන්ධ වන්න. ඔබගේ ඉල්ලීම සැකසීමට පෙර අපට ඔබගේ අනන්‍යතාවය තහවුරු කිරීමට අවශ්‍ය විය හැකිය."
+      }
+    },
+    {
+      "id": "section-8",
+      "en": {
+        "title": "8. Updates to This Policy ",
+        "order1_description": "We may update this Privacy Policy from time to time to reflect: ",
+        "order2_points": [
+          "Changes in our business or website ",
+          "Legal or regulatory requirements ",
+          "Improvements in how we manage data "
+        ],
+        "order3_description": "Any updates will be posted on this page with a revised “Last updated” date at the top. We recommend checking this page periodically. "
+      },
+      "zh": {
+        "title": "8. 本政策的更新",
+        "order1_description": "我们可能会不时更新本隐私政策，以反映：",
+        "order2_points": [
+          "我们的业务或网站的变更",
+          "法律或监管要求",
+          "我们管理数据的方式的改进"
+        ],
+        "order3_description": "任何更新都将在此页面上发布，并在顶部附有修订的“上次更新”日期。我们建议您定期查看此页面。"
+      },
+      "si": {
+        "title": "8. මෙම ප්‍රතිපත්තියේ යාවත්කාලීන කිරීම්",
+        "order1_description": "පහත සඳහන් දේ පිළිබිඹු කිරීමට අපගේ රහස්‍යතා ප්‍රතිපත්තිය වරින් වර යාවත්කාලීන කිරීමට අපට සිදුවිය හැකිය:",
+        "order2_points": [
+          "අපගේ ව්‍යාපාරයේ හෝ වෙබ් අඩවියේ වෙනස්කම්",
+          "නීතිමය හෝ නියාමන අවශ්‍යතා",
+          "අප දත්ත කළමනාකරණය කරන ආකාරයෙහි දියුණුවීම්"
+        ],
+        "order3_description": "ඕනෑම යාවත්කාලීන කිරීමක් මෙම පිටුවේ ඉහළින් සංශෝධිත “අවසන් වරට යාවත්කාලීන කළ” දිනය සමඟ පළ කරනු ලැබේ. වරින් වර මෙම පිටුව පරීක්ෂා කිරීම අපි නිර්දේශ කරමු."
+      }
+    },
+    {
+      "id": "section-9",
+      "en": {
+        "title": "9. Contact Us ",
+        "order1_description": "If you have any questions concerns or requests related to this Privacy Policy or your personal \ndata please contact us:",
+        "order2_points": [
+          "Email: fstraders@gmail.com",
+          "Phone: +94 8585858585",
+          "Address: C-27, Dedicated Economic Centre, Dambulla, Central Province, Sri Lanka "
+        ]
+      },
+      "zh": {
+        "title": "9. 联系我们",
+        "order1_description": "如果您对此隐私政策或您的个人数据有任何问题、疑虑或请求，请联系我们：",
+        "order2_points": [
+          "邮箱：fstraders@gmail.com",
+          "电话：+94 8585858585",
+          "地址：C-27, Dedicated Economic Centre, Dambulla, Central Province, Sri Lanka (斯里兰卡中央省丹布勒专用经济中心C-27)"
+        ]
+      },
+      "si": {
+        "title": "9. අප අමතන්න",
+        "order1_description": "ඔබට මෙම රහස්‍යතා ප්‍රතිපත්තිය හෝ ඔබගේ පුද්ගලික දත්ත සම්බන්ධයෙන් කිසියම් ප්‍රශ්නයක්, ගැටලුවක් හෝ ඉල්ලීමක් තිබේ නම් කරුණාකර අප අමතන්න:",
+        "order2_points": [
+          "විද්‍යුත් තැපෑල: fstraders@gmail.com",
+          "දුරකථන: +94 8585858585",
+          "ලිපිනය: C-27, විශේෂිත ආර්ථික මධ්‍යස්ථානය, දඹුල්ල, මධ්‍යම පළාත, ශ්‍රී ලංකා"
+        ]
+      }
+    }
+  ]
+}

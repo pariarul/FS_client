@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fstraders.vercel.app/sitemap.xml

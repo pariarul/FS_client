@@ -1,0 +1,43 @@
+{
+  "heading": {
+    "en": "Our Suppliers",
+    "zh": "我们的供应商",
+    "si": "අපගේ සැපයුම්කරුවන්"
+  },
+  "manager": {
+    "imagePath": "/assets/suppliers/supplier-manager.jpg",
+    "name": {
+      "en": "John Fernando",
+      "zh": "约翰·费尔南多",
+      "si": "ජෝන් ෆර්නැන්ඩෝ"
+    },
+    "role": {
+      "en": "Supplier Relations Manager",
+      "zh": "供应商关系经理",
+      "si": "සැපයුම්කරුවන්ගේ සම්බන්ධතා කළමනාකරු"
+    },
+    "heading": {
+      "en": "Meet Our Supplier Relations Manager",
+      "zh": "认识我们的供应商关系经理",
+      "si": "අපගේ සැපයුම්කරුවන්ගේ සම්බන්ධතා කළමනාකරු හමුවන්න"
+    },
+    "description": {
+      "en": "John oversees our global supplier partnerships to ensure quality, efficiency, and long-term collaboration across markets.",
+      "zh": "约翰负责监督我们的全球供应商合作伙伴关系，以确保质量、效率和长期合作。",
+      "si": "ජෝන් අපගේ ගෝලීය සැපයුම්කරුවන්ගේ හවුල්කාරිත්වයන් පාලනය කරයි, ගුණාත්මකභාවය, කාර්යක්ෂමතාවය සහ දිගුකාලීන සහයෝගය තහවුරු කිරීමට."
+    }
+  },
+  "supplierMap": {
+    "heading": {
+      "en": "Our Global Network",
+      "zh": " 我们的全球网络",
+      "si": "අපගේ ගෝලීය ජාලය"
+    },
+    "description": {
+      "en": "FS Traders works with trusted suppliers in more than 15+ countries. This growing network helps us secure steady supply, manage risk, and deliver the right products to Sri Lankan businesses on time.\n",
+      "zh": "FS Traders与超过15个国家的值得信赖的供应商合作。这个不断壮大的网络帮助我们确保稳定的供应、管理风险，并按时向斯里兰卡企业交付合适的产品。",
+      "si": "FS Traders රටවල් 15+ කට වැඩි ගණනක විශ්වාසදායක සැපයුම්කරුවන් සමඟ කටයුතු කරයි. මෙම වර්ධනය වන ජාලය අපට ස්ථාවර සැපයුමක් සුරක්ෂිත කිරීමට, අවදානම කළමනාකරණය කිරීමට සහ ශ්‍රී ලාංකික ව්‍යාපාරවලට නිවැරදි නිෂ්පාදන නියමිත වේලාවට ලබා දීමට උපකාරී වේ."
+    },
+    "imagePath": "/assets/suppliers/map.webp"
+  }
+}

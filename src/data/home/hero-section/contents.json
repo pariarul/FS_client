@@ -1,0 +1,30 @@
+{
+  "background": {
+    "bg1-path": "/assets/home/hero-section/bg1.png",
+    "bg2-path": "/assets/home/hero-section/bg2.png",
+    "bg3-path": "/assets/home/hero-section/bg3.jpg",
+    "bg4-path": "/assets/home/hero-section/bg4.jpg"
+  },
+  "heading": {
+    "en": "Supplying Quality. Building Trust. Connecting the World",
+    "zh": "供应优质. 建立信任. 联通全球",
+    "si": "ගුණාත්මක බව සැපයීම. විශ්වාසය ගොඩනැගීම. ලොව සම්බන්ධ කිරීම."
+  },
+  "subheading": {
+    "en": "FS Traders (Pvt) Ltd is a trusted importer and exporter delivering high-quality products across markets. We bridge global suppliers and local demand through reliable, ethical, and consistent trade.",
+    "zh": "FS Traders (Pvt) Ltd 是一家值得信赖的进出口贸易公司，致力于向全球市场提供高品质产品。我们通过可靠、诚信和持续的贸易，为全球供应商与本地需求之间搭建桥梁。",
+    "si": "FS Traders (Pvt) Ltd යනු වෙළඳපල හරහා උසස් තත්ත්වයේ නිෂ්පාදන බෙදා හරින විශ්වාසනීය ආනයනකරුවෙකු සහ අපනයනකරුවෙකි. අපි විශ්වාසනීය, ආචාරධාර්මික සහ ස්ථාවර වෙළඳාමක් හරහා ගෝලීය සැපයුම්කරුවන් සහ දේශීය ඉල්ලුම අතර සම්බන්ධය ගොඩනඟමු."
+  },
+  "suppliers-branding": {
+    "branding1-path": "/assets/home/brands/brand1.png",
+    "branding2-path": "/assets/home/brands/brand2.png",
+    "branding3-path": "/assets/home/brands/brand3.png",
+    "branding4-path": "/assets/home/brands/brand4.png",
+    "branding5-path": "/assets/home/brands/brand5.png",
+    "branding6-path": "/assets/home/brands/brand6.png",
+    "branding7-path": "/assets/home/brands/brand7.png",
+    "branding8-path": "/assets/home/brands/brand8.png",
+    "branding9-path": "/assets/home/brands/brand9.png",
+    "branding10-path": "/assets/home/brands/brand10.png"
+  }
+}
