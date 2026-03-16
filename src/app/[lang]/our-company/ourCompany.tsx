@@ -28,7 +28,7 @@ interface CardContent {
 
 interface CompanyContent {
   about: Record<Lang, { heading: string; title: string; description: string }>;
-  videoSection?: { path: string };
+  video_section_path?: string;
   connection: Record<Lang, { heading: string }>;
   vision: Record<Lang, { heading: string; description: string }>;
   mission: Record<Lang, { heading: string; description: string }>;
@@ -63,7 +63,7 @@ export default function CompanyPage() {
   if (!data) return <div className="min-h-screen bg-(--color-background)" />;
 
   const about = data.about[lang] || data.about.en;
-  const videoPath = data.videoSection?.path;
+  const videoPath = data.video_section_path;
   const connection = data.connection[lang] || data.connection.en;
   const vision = data.vision[lang] || data.vision.en;
   const mission = data.mission[lang] || data.mission.en;

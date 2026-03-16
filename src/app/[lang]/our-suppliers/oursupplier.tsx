@@ -29,13 +29,17 @@ interface SupplierFormContentExtended extends SupplierFormContent {
 }
 
 interface SupplierData {
-  heading: LocalizedText;
-  manager: SupplierManager;
-  supplierMap: SupplierMap;
-  supplierForm: any; // Using any for local form data to avoid schema mismatch
-  reviews_heading: LocalizedText;
-  reviews_description: LocalizedText;
-  reviews: SupplierReview[];
+  suppliers: {
+    heading: LocalizedText;
+    manager: SupplierManager;
+    supplierMap: SupplierMap;
+  };
+  reviews: {
+    heading: LocalizedText;
+    description: LocalizedText;
+    reviews: SupplierReview[];
+  };
+  supplierForm: any; 
 }
 
 interface SupplierReview {
@@ -76,11 +80,17 @@ const ReviewCard: React.FC<ReviewCardProps> = ({ review, getText }) => {
     >
       <div className="p-4 flex items-center justify-between border-b border-white/20">
         <div className="flex items-center gap-3">
-          <img
-            src={review.supplierLogoPath}
-            alt={getText(review.supplierCompanyName)}
-            className="w-12 h-12 object-contain rounded-full"
-          />
+          {review.supplierLogoPath ? (
+            <img
+              src={review.supplierLogoPath}
+              alt={getText(review.supplierCompanyName)}
+              className="w-12 h-12 object-contain rounded-full"
+            />
+          ) : (
+            <div className="w-12 h-12 bg-white/10 rounded-full flex items-center justify-center text-[10px] font-bold">
+              {getText(review.supplierCompanyName).substring(0, 2).toUpperCase()}
+            </div>
+          )}
           <div>
             <h3 className="text-xs sm:text-sm md:text-sm lg:text-sm font-semibold leading-tight">
               {getText(review.supplierCompanyName)}
@@ -160,19 +170,19 @@ export default function SuppliersPage() {
   return (
     <main className="p-8 mt-20">
       <h1 className="text-3xl md:text-4xl font-extrabold mb-12 text-center text-primary">
-        {data.heading ? getText(data.heading) : ""}
+        {data.suppliers?.heading ? getText(data.suppliers.heading) : ""}
       </h1>
 
       {/* Manager Section */}
       <section className="mb-24">
         <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-24">
           <div className="flex-[0_0_auto]">
-            {data.manager && (
+            {data.suppliers?.manager && (
               <div className="relative rounded-2xl overflow-hidden shadow-md hover:shadow-lg transition-all duration-300 group">
-                {data.manager.imagePath ? (
+                {data.suppliers.manager.imagePath ? (
                   <img
-                    src={data.manager.imagePath}
-                    alt={getText(data.manager.name)}
+                    src={data.suppliers.manager.imagePath}
+                    alt={getText(data.suppliers.manager.name)}
                     className="w-[300px] h-[400px] object-cover group-hover:scale-105 transition-transform duration-500"
                   />
                 ) : (
@@ -180,10 +190,10 @@ export default function SuppliersPage() {
                 )}
                 <div className="absolute inset-x-0 bottom-0 p-4 bg-linear-to-t from-black via-black/50 to-transparent">
                   <h3 className="text-lg font-semibold mb-1 text-white drop-shadow-md">
-                    {getText(data.manager.name)}
+                    {getText(data.suppliers.manager.name)}
                   </h3>
                   <p className="text-sm text-gray-200 drop-shadow-md">
-                    {getText(data.manager.role)}
+                    {getText(data.suppliers.manager.role)}
                   </p>
                 </div>
               </div>
@@ -192,9 +202,9 @@ export default function SuppliersPage() {
 
           <div className="flex-1">
             <h2 className="text-3xl font-semibold mb-4 text-primary">
-              {data.manager ? getText(data.manager.heading) : ""}
+              {data.suppliers?.manager ? getText(data.suppliers.manager.heading) : ""}
             </h2>
-            <p className="text-gray-700 leading-relaxed">{data.manager ? getText(data.manager.description) : ""}</p>
+            <p className="text-gray-700 leading-relaxed">{data.suppliers?.manager ? getText(data.suppliers.manager.description) : ""}</p>
           </div>
         </div>
       </section>
@@ -202,30 +212,30 @@ export default function SuppliersPage() {
       {/* Supplier Reviews Section */}
       <section className="mb-24">
         <h2 className="text-2xl sm:text-2xl md:text-4xl font-extrabold mb-4 text-center text-primary">
-          {data.reviews_heading ? getText(data.reviews_heading) : ""}
+          {data.reviews?.heading ? getText(data.reviews.heading) : ""}
         </h2>
         <p className="max-w-4xl text-base sm:text-sm md:text-sm text-gray-700 text-center mx-auto mb-12">
-          {data.reviews_description ? getText(data.reviews_description) : ""}
+          {data.reviews?.description ? getText(data.reviews.description) : ""}
         </p>
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 items-start justify-items-center">
             <div className="space-y-6">
-              {(data.reviews || [])
+              {(data.reviews?.reviews || [])
                 .filter((_, i) => i % 3 === 0)
                 .map((review) => (
                   <ReviewCard key={review.id} review={review} getText={getText} />
                 ))}
             </div>
             <div className="space-y-6">
-              {(data.reviews || [])
+              {(data.reviews?.reviews || [])
                 .filter((_, i) => i % 3 === 1)
                 .map((review) => (
                   <ReviewCard key={review.id} review={review} getText={getText} />
                 ))}
             </div>
             <div className="space-y-6">
-              {(data.reviews || [])
+              {(data.reviews?.reviews || [])
                 .filter((_, i) => i % 3 === 2)
                 .map((review) => (
                   <ReviewCard key={review.id} review={review} getText={getText} />
@@ -238,16 +248,16 @@ export default function SuppliersPage() {
       {/* Map Section */}
       <section className="mb-24 px-4 sm:px-6 lg:px-8">
         <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 text-center text-primary">
-          {data.supplierMap ? getText(data.supplierMap.heading) : ""}
+          {data.suppliers?.supplierMap ? getText(data.suppliers.supplierMap.heading) : ""}
         </h2>
         <p className="max-w-3xl text-gray-700 text-center mx-auto mb-8 text-sm sm:text-base">
-          {data.supplierMap ? getText(data.supplierMap.description) : ""}
+          {data.suppliers?.supplierMap ? getText(data.suppliers.supplierMap.description) : ""}
         </p>
         <div className="max-w-6xl mx-auto">
-          {data.supplierMap?.imagePath ? (
+          {data.suppliers?.supplierMap?.imagePath ? (
             <img
-              src={data.supplierMap.imagePath}
-              alt={getText(data.supplierMap.heading)}
+              src={data.suppliers.supplierMap.imagePath}
+              alt={getText(data.suppliers.supplierMap.heading)}
               className="w-full h-auto object-contain sm:h-[350px] md:h-[450px] lg:h-[500px] transition-transform duration-300 hover:scale-[1.02]"
             />
           ) : (
