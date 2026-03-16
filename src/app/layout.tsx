@@ -1,6 +1,5 @@
 import "./globals.css";
 import { ReactNode } from "react";
-import { GoogleAnalytics, GoogleTagManager } from "@next/third-parties/google";
 
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://fstraders.com";
 
@@ -62,17 +61,9 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
-  const GA_ID = process.env.NEXT_PUBLIC_GA_ID!;
-  const GTM_ID = process.env.NEXT_PUBLIC_GTM_ID!;
-
   return (
     <html lang="en">
-      <body>
-        {children}
-
-        {GA_ID && <GoogleAnalytics gaId={GA_ID} />}
-        {GTM_ID && <GoogleTagManager gtmId={GTM_ID} />}
-      </body>
+      <body>{children}</body>
     </html>
   );
 }

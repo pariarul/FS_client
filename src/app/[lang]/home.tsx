@@ -189,20 +189,25 @@ function AboutSection() {
 function StatusCard({ count, label }: { count: string; label: string }) {
   const [animatedCount, setAnimatedCount] = useState(0);
   const [isVisible, setIsVisible] = useState(false);
+  const cardRef = React.useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    const handleScroll = () => {
-      const element = document.getElementById(label);
-      if (element) {
-        const rect = element.getBoundingClientRect();
-        const isInViewport = rect.top >= 0 && rect.bottom <= window.innerHeight;
-        if (isInViewport) setIsVisible(true);
-      }
-    };
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsVisible(true);
+          observer.disconnect();
+        }
+      },
+      { threshold: 0.1 }
+    );
 
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
-  }, [label]);
+    if (cardRef.current) {
+      observer.observe(cardRef.current);
+    }
+
+    return () => observer.disconnect();
+  }, []);
 
   useEffect(() => {
     if (isVisible) {
@@ -222,7 +227,7 @@ function StatusCard({ count, label }: { count: string; label: string }) {
 
   return (
     <div
-      id={label}
+      ref={cardRef}
       className="flex items-center justify-between p-6 rounded-lg bg-(--color-primary) text-(--color-background) shadow-md"
     >
       <span className="text-4xl font-extrabold">{Math.floor(animatedCount)}+</span>
